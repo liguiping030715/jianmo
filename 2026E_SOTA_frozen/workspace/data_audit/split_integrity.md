@@ -1,0 +1,9 @@
+# Split and ID dependence
+
+Attachment 2 aligned/unaligned have the same 3,395 train, 728 valid, 727 test IDs; `id` format is `video_id$_$clip_id`. No exact ID overlaps and **no source `video_id` overlaps** among train, valid and test. Official splits are preserved. Attachment 2 `label.xlsx` has 4,850 unique IDs and `mode` counts 3,395/728/727; every PKL ID and mode matches that sheet, and train/valid regression labels match. Test-sheet labels were excluded from the retained audit data.
+
+Attachment 1 has 100 unique `(video_id,clip_id)` pairs. Against Attachment 2 it overlaps by exact sample ID in train **11**, valid **0**, test **7**; source-video overlap is train **16**, valid **2**, test **6**. This does not contaminate the official Attachment 2 train/valid split by itself, but Attachment 1 labels/features must not be added to Q2/Q3 fitting or validation. Its Q1 demonstrations may contain official test/source videos, so claims of independent generalization from Attachment 1 would be misleading.
+
+Attachment 3 contains no `id`; exact sample/video overlap with official splits or Attachment 1 cannot be established. Filenames `01`–`30` are file identifiers, not verified CMU-MOSEI IDs. Attachment 4 uses local IDs `01`–`20` in both versions; those are not in Attachment 2's ID format. Raw video filenames pair one-to-one with these local IDs, but original CMU-MOSEI source-video overlap is unknown. The 40 Attachment 4 MP4 files represent 20 samples duplicated by version. No special-test label or outcome was inspected.
+
+Validation implication: official train/valid are source-video disjoint, which supports their use for model selection. Attachment 2 test, Attachment 3 and Attachment 4 remain outside selection. If later Q1-derived processing is shared, fit preprocessing only on Attachment 2 train where statistics can leak.

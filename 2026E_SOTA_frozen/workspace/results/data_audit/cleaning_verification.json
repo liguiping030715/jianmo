@@ -1,0 +1,240 @@
+{
+  "source_hashes_valid": true,
+  "a2": {
+    "aligned": {
+      "train": {
+        "count": 3395,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 6790,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 6890,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      },
+      "valid": {
+        "count": 728,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1456,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1509,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      },
+      "test": {
+        "count": 727,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1454,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1482,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      }
+    },
+    "unaligned": {
+      "train": {
+        "count": 3395,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 3371,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 5184,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      },
+      "valid": {
+        "count": 728,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 723,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1191,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      },
+      "test": {
+        "count": 727,
+        "same_ids": true,
+        "same_labels_or_not_emitted": true,
+        "modalities": {
+          "text": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": null,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "audio": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 716,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          },
+          "vision": {
+            "shape_ok": true,
+            "mask_codes_ok": true,
+            "allzero_map_unchanged": true,
+            "zero_runs": 1155,
+            "finite": true,
+            "train_scaler_formula_spotcheck": true
+          }
+        }
+      }
+    }
+  },
+  "special": {
+    "aligned": {
+      "attachment3": {
+        "count": 30,
+        "labels_absent": true,
+        "zero_maps_unchanged": true,
+        "finite": true,
+        "ids_unchanged": true,
+        "dtype_cast_verified": true
+      },
+      "attachment4": {
+        "count": 20,
+        "labels_absent": true,
+        "zero_maps_unchanged": true,
+        "finite": true,
+        "ids_unchanged": true,
+        "dtype_cast_verified": true
+      }
+    },
+    "unaligned": {
+      "attachment3": {
+        "count": 30,
+        "labels_absent": true,
+        "zero_maps_unchanged": true,
+        "finite": true,
+        "ids_unchanged": true,
+        "dtype_cast_verified": true
+      },
+      "attachment4": {
+        "count": 20,
+        "labels_absent": true,
+        "zero_maps_unchanged": true,
+        "finite": true,
+        "ids_unchanged": true,
+        "dtype_cast_verified": true
+      }
+    }
+  },
+  "a1": {
+    "count": 100,
+    "unique_ids": 100,
+    "all_raw_files_exist": true
+  },
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,18 @@
+{
+  "run_id": "R0a_seed2718",
+  "model_level": "B0",
+  "seed": 2718,
+  "lambda_cls": 1.0,
+  "lambda_reg": 2.0526115894317627,
+  "epochs_cap": 12,
+  "batch_size": 64,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "huber_delta": 1.0,
+  "condition": "clean_plus_one_gap_copy",
+  "source_version": "cleaning_2026e_v2/aligned",
+  "bert_frozen": true,
+  "unknown_policy": "no_state",
+  "mask_sha256": "ce250f2ec4f6ff54969d818e522cdb986e15ba5b669013caff4d25c0067f2154"
+}

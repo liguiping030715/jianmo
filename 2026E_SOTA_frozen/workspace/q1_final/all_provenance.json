@@ -1,0 +1,6602 @@
+[
+  {
+    "id": "-3g5yACwYnA$_$13",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/13.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "They've been able to find solutions or at least bring some answers to the table.",
+    "verified_duration_s": 5.513997,
+    "old_manifest_duration_s": 8.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 163,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.5,
+    "audio_coverage_end": 5.399125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 18,
+      "n_alignable": 17,
+      "n_resolved": 15,
+      "n_frames": 269
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 163,
+      "frames_face_detected": 163,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 36,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 36,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 14
+    },
+    "bin_O_unknown_counts": {
+      "text": 14
+    }
+  },
+  {
+    "id": "-3g5yACwYnA$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/2.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Key Polymer brings a technical aspect to our operation that we don't have internally.",
+    "verified_duration_s": 9.39401,
+    "old_manifest_duration_s": 14.234,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 278,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 9.366666666666667,
+    "audio_coverage_end": 9.2313125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 17,
+      "n_alignable": 16,
+      "n_resolved": 14,
+      "n_frames": 461
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 278,
+      "frames_face_detected": 278,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 20,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 20,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 30
+    },
+    "bin_O_unknown_counts": {
+      "text": 30
+    }
+  },
+  {
+    "id": "-3g5yACwYnA$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/3.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "We're a huge user of adhesives for our operation, called flocking, and we don't have the technical inside compounding or the technical expertise to do these types of things.",
+    "verified_duration_s": 14.388997,
+    "old_manifest_duration_s": 19.273,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 431,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 14.366666666666667,
+    "audio_coverage_end": 14.327875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 36,
+      "n_alignable": 33,
+      "n_resolved": 31,
+      "n_frames": 716
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 431,
+      "frames_face_detected": 431,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-3g5yACwYnA$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/9.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "We have many new opportunities through the way things have changed through the years, looking for new niche high-end, value-added products.",
+    "verified_duration_s": 8.816992,
+    "old_manifest_duration_s": 16.234,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 263,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.8,
+    "audio_coverage_end": 8.696125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 23,
+      "n_resolved": 22,
+      "n_frames": 434
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 263,
+      "frames_face_detected": 263,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-3nNcZdcdvU$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3nNcZdcdvU/5.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Noncompliance can result in legal liability to you and to the school district in which you are employed.",
+    "verified_duration_s": 7.867969,
+    "old_manifest_duration_s": 10.937,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 236,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 1,
+    "video_coverage_end": 7.866666666666666,
+    "audio_coverage_end": 7.7885625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 19,
+      "n_alignable": 18,
+      "n_resolved": 18,
+      "n_frames": 389
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 236,
+      "frames_face_detected": 235,
+      "face_detection_coverage": 0.9957627118644068,
+      "frame_width": 320,
+      "frame_height": 240
+    },
+    "bin_P_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 10
+    },
+    "bin_O_unknown_counts": {
+      "text": 10
+    }
+  },
+  {
+    "id": "-571d8cVauQ$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/0.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "This is Rhett Reiger, White Caspian Studios on behalf of Expert Village.",
+    "verified_duration_s": 5.066667,
+    "old_manifest_duration_s": 5.167,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 152,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.166666666666667,
+    "audio_coverage_end": 4.9923125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 14,
+      "n_alignable": 12,
+      "n_resolved": 12,
+      "n_frames": 249
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 152,
+      "frames_face_detected": 147,
+      "face_detection_coverage": 0.9671052631578947,
+      "frame_width": 486,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-571d8cVauQ$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/5.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "So very important to go out to the locations, walk around, talk with the owners if you can, tell them what you're doing, build a little excitement, put a little glitz on there and let everybody knows this is a very valuable spot.",
+    "verified_duration_s": 15.272982,
+    "old_manifest_duration_s": 18.5,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 455,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 15.266666666666666,
+    "audio_coverage_end": 15.11525,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 51,
+      "n_alignable": 45,
+      "n_resolved": 45,
+      "n_frames": 755
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 455,
+      "frames_face_detected": 455,
+      "face_detection_coverage": 1.0,
+      "frame_width": 486,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 7
+    },
+    "bin_O_unknown_counts": {
+      "text": 7
+    }
+  },
+  {
+    "id": "-6rXp3zJ3kc$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-6rXp3zJ3kc/8.mp4",
+    "label": "-1.0",
+    "annotation": "Negative",
+    "text": "Many people are not until they get to be a older age and they realize that gosh they wasted a lot of time and money in placing bets on stock that's ultimately lost value.",
+    "verified_duration_s": 12.805013,
+    "old_manifest_duration_s": 16.58,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 384,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 12.8,
+    "audio_coverage_end": 12.738,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 37,
+      "n_alignable": 36,
+      "n_resolved": 36,
+      "n_frames": 636
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 384,
+      "frames_face_detected": 384,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 10
+    },
+    "bin_O_unknown_counts": {
+      "text": 10
+    }
+  },
+  {
+    "id": "-9y-fZ3swSY$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/0.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "is, you can say, hey I really like baby skin, they are so soft, they don’t have any hair on their face",
+    "verified_duration_s": 6.833333,
+    "old_manifest_duration_s": 6.9,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 205,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.8999999999999995,
+    "audio_coverage_end": 6.757,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 23,
+      "n_resolved": 19,
+      "n_frames": 337
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000005,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 205,
+      "frames_face_detected": 205,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-9y-fZ3swSY$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/4.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "I’ve seen this in US or in the US",
+    "verified_duration_s": 2.821029,
+    "old_manifest_duration_s": 9.334,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 81,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.8,
+    "audio_coverage_end": 2.6648125,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 11,
+      "n_alignable": 10,
+      "n_resolved": 6,
+      "n_frames": 132
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 81,
+      "frames_face_detected": 81,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 48,
+      "vision": 48
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 48,
+      "vision": 48
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-9y-fZ3swSY$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/8.mp4",
+    "label": "1.6666666269302368",
+    "annotation": "Positive",
+    "text": "That’s a more decent and more polite way to call a lady",
+    "verified_duration_s": 4.988997,
+    "old_manifest_duration_s": 10.775,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 149,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.966666666666667,
+    "audio_coverage_end": 4.917,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 14,
+      "n_alignable": 13,
+      "n_resolved": 12,
+      "n_frames": 245
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 149,
+      "frames_face_detected": 149,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 46
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-AUZQgSxyPQ$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-AUZQgSxyPQ/2.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "The perfect soul mate to the Clarisonic Spot Therapy Brush, this gentle, Ph balanced and hydrating exfoliant containing jojoba and acai fruit oils and bamboo and prickly bear extracts deliver intense healing, while smooth granules buff away dead, dry skin cells.",
+    "verified_duration_s": 22.511003,
+    "old_manifest_duration_s": 27.3,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 674,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 22.5,
+    "audio_coverage_end": 22.4045625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 46,
+      "n_alignable": 41,
+      "n_resolved": 39,
+      "n_frames": 1119
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 674,
+      "frames_face_detected": 674,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 5
+    },
+    "bin_O_unknown_counts": {
+      "text": 5
+    }
+  },
+  {
+    "id": "-HeZS2-Prhc$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HeZS2-Prhc/2.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "The August jobs report is out and it was seen overall as solid but not great.",
+    "verified_duration_s": 8.261979,
+    "old_manifest_duration_s": 15.834,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 246,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 1,
+    "video_coverage_end": 8.233333333333333,
+    "audio_coverage_end": 8.150875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 17,
+      "n_alignable": 16,
+      "n_resolved": 16,
+      "n_frames": 407
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 246,
+      "frames_face_detected": 246,
+      "face_detection_coverage": 1.0,
+      "frame_width": 360,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 17
+    },
+    "bin_O_unknown_counts": {
+      "text": 17
+    }
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/2.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "” [President Ronald Reagan:] \"Look at the record",
+    "verified_duration_s": 3.982031,
+    "old_manifest_duration_s": 8.151,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 119,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.9666666666666663,
+    "audio_coverage_end": 3.9158125,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 12,
+      "n_alignable": 7,
+      "n_resolved": 4,
+      "n_frames": 195
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 119,
+      "frames_face_detected": 29,
+      "face_detection_coverage": 0.24369747899159663,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 12
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/5.mp4",
+    "label": "-1.0",
+    "annotation": "Negative",
+    "text": "\" President Ronald Reagan blamed the professional bureaucracy of education",
+    "verified_duration_s": 5.652995,
+    "old_manifest_duration_s": 11.467,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 168,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.633333333333333,
+    "audio_coverage_end": 5.5440625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 10,
+      "n_alignable": 9,
+      "n_resolved": 9,
+      "n_frames": 276
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 168,
+      "frames_face_detected": 63,
+      "face_detection_coverage": 0.375,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 18
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/6.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "And in part, Al Shanker did too",
+    "verified_duration_s": 3.358008,
+    "old_manifest_duration_s": 6.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 99,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.333333333333333,
+    "audio_coverage_end": 3.256,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 8,
+      "n_alignable": 7,
+      "n_resolved": 7,
+      "n_frames": 162
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 99,
+      "frames_face_detected": 93,
+      "face_detection_coverage": 0.9393939393939394,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 29,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 29,
+      "audio": 49,
+      "vision": 32
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 21
+    },
+    "bin_O_unknown_counts": {
+      "text": 21
+    }
+  },
+  {
+    "id": "-HwX2H8Z4hY$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/9.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "It is a word which the administrator uses when he turns around anything which he doesn't like that the teacher is doing",
+    "verified_duration_s": 7.733984,
+    "old_manifest_duration_s": 11.434,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 232,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.733333333333333,
+    "audio_coverage_end": 7.6363125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 24,
+      "n_alignable": 24,
+      "n_resolved": 21,
+      "n_frames": 381
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 232,
+      "frames_face_detected": 30,
+      "face_detection_coverage": 0.12931034482758622,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 7
+    },
+    "bin_O_unknown_counts": {
+      "text": 7
+    }
+  },
+  {
+    "id": "-I_e4mIh0yE$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/1.mp4",
+    "label": "-0.6666666865348816",
+    "annotation": "Negative",
+    "text": "In the United States we don't punish failure to the degree to which failure is punished in Europe.",
+    "verified_duration_s": 7.622005,
+    "old_manifest_duration_s": 10.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 225,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.6,
+    "audio_coverage_end": 7.4443125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 21,
+      "n_alignable": 20,
+      "n_resolved": 20,
+      "n_frames": 371
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999898,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 225,
+      "frames_face_detected": 225,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-I_e4mIh0yE$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/3.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "It's perceived that you have actually learned something, over the course of your carreer, and that you won't make the mistake twice.",
+    "verified_duration_s": 9.163021,
+    "old_manifest_duration_s": 9.3,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 271,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 9.133333333333333,
+    "audio_coverage_end": 8.994375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 29,
+      "n_alignable": 26,
+      "n_resolved": 24,
+      "n_frames": 449
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 271,
+      "frames_face_detected": 271,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-MeTTeMJBNc$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/0.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "Okay, what happens at this point after we've taken this brief walk down memory lane, is the presentation of the gift.",
+    "verified_duration_s": 9.3,
+    "old_manifest_duration_s": 9.334,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 279,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 9.333333333333334,
+    "audio_coverage_end": 9.2183125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 26,
+      "n_alignable": 23,
+      "n_resolved": 22,
+      "n_frames": 460
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 279,
+      "frames_face_detected": 278,
+      "face_detection_coverage": 0.996415770609319,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-MeTTeMJBNc$_$13",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/13.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "It just needs to be a simple statement, and then you present the gift.",
+    "verified_duration_s": 5.430013,
+    "old_manifest_duration_s": 7.467,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 159,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.3999999999999995,
+    "audio_coverage_end": 5.2555,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 16,
+      "n_alignable": 14,
+      "n_resolved": 14,
+      "n_frames": 262
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 159,
+      "frames_face_detected": 159,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-MeTTeMJBNc$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/7.mp4",
+    "label": "1.3333333730697632",
+    "annotation": "Positive",
+    "text": "Maybe you could find a picture of the couple from their wedding or sometime in their life, or maybe even a current picture and have it put in a beautiful frame.",
+    "verified_duration_s": 10.516992,
+    "old_manifest_duration_s": 17.367,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 314,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 10.5,
+    "audio_coverage_end": 10.4113125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 33,
+      "n_alignable": 31,
+      "n_resolved": 31,
+      "n_frames": 520
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 314,
+      "frames_face_detected": 314,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 7
+    },
+    "bin_O_unknown_counts": {
+      "text": 7
+    }
+  },
+  {
+    "id": "-NFrJFQijFE$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/1.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "Structural mounts inside have to be properly stress analyzed so we make sure all that happens",
+    "verified_duration_s": 5.746,
+    "old_manifest_duration_s": 9.12,
+    "nominal_fps": 25.0,
+    "n_video_frames_decoded": 142,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.72,
+    "audio_coverage_end": 5.658875,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 16,
+      "n_alignable": 16,
+      "n_resolved": 0,
+      "n_frames": 282
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 142,
+      "frames_face_detected": 0,
+      "face_detection_coverage": 0.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-NFrJFQijFE$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/2.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "So we coordinate with all the proper technical fields to get ready for the instrument to arrive here",
+    "verified_duration_s": 6.856,
+    "old_manifest_duration_s": 9.76,
+    "nominal_fps": 25.0,
+    "n_video_frames_decoded": 169,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.84,
+    "audio_coverage_end": 6.6983125,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 18,
+      "n_alignable": 18,
+      "n_resolved": 4,
+      "n_frames": 334
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 169,
+      "frames_face_detected": 0,
+      "face_detection_coverage": 0.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-RfYyzHpjk4$_$11",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/11.mp4",
+    "label": "2.0",
+    "annotation": "Positive",
+    "text": "So get your friends lined up, get your business colleagues lined up and have a good time.",
+    "verified_duration_s": 5.238997,
+    "old_manifest_duration_s": 11.7,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 154,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.233333333333333,
+    "audio_coverage_end": 5.074875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 19,
+      "n_alignable": 17,
+      "n_resolved": 17,
+      "n_frames": 253
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 154,
+      "frames_face_detected": 154,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-RfYyzHpjk4$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/2.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "You can make a conference call but it takes quite a bit of planning, well not a lot of planning it's pretty easy to do.",
+    "verified_duration_s": 5.516016,
+    "old_manifest_duration_s": 6.234,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 164,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.5,
+    "audio_coverage_end": 5.3918125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 29,
+      "n_alignable": 27,
+      "n_resolved": 23,
+      "n_frames": 269
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 164,
+      "frames_face_detected": 164,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-RfYyzHpjk4$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/8.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "It's pretty, pretty easy to do but you got to set up those numbers ahead of time.",
+    "verified_duration_s": 4.588997,
+    "old_manifest_duration_s": 11.657,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 137,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.566666666666666,
+    "audio_coverage_end": 4.532375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 21,
+      "n_alignable": 19,
+      "n_resolved": 18,
+      "n_frames": 226
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 137,
+      "frames_face_detected": 137,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-THoVjtIkeU$_$12",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/12.mp4",
+    "label": "2.0",
+    "annotation": "Positive",
+    "text": "What ever we turn our attention to is what grows and so if we believe that anything is possible, if we believe that social justice can be achieved and if we believe in youth, they will believe in themselves.",
+    "verified_duration_s": 14.896029,
+    "old_manifest_duration_s": 18.8,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 445,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 14.866666666666667,
+    "audio_coverage_end": 14.8055625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 42,
+      "n_alignable": 39,
+      "n_resolved": 39,
+      "n_frames": 740
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 445,
+      "frames_face_detected": 445,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 5
+    },
+    "bin_O_unknown_counts": {
+      "text": 5
+    }
+  },
+  {
+    "id": "-THoVjtIkeU$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/2.mp4",
+    "label": "1.3333333730697632",
+    "annotation": "Positive",
+    "text": "I think social justice is extremely important for young people.",
+    "verified_duration_s": 4.291992,
+    "old_manifest_duration_s": 4.644,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 128,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.266666666666667,
+    "audio_coverage_end": 4.230875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 11,
+      "n_alignable": 10,
+      "n_resolved": 10,
+      "n_frames": 211
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 128,
+      "frames_face_detected": 128,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 35,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 15
+    },
+    "bin_O_unknown_counts": {
+      "text": 15
+    }
+  },
+  {
+    "id": "-THoVjtIkeU$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/6.mp4",
+    "label": "2.6666667461395264",
+    "annotation": "Positive",
+    "text": "You know that I think listening to young people, taking in what they have to say because what we have seen all around the world is the power of youth.",
+    "verified_duration_s": 8.097005,
+    "old_manifest_duration_s": 11.067,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 241,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.066666666666666,
+    "audio_coverage_end": 7.982875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 32,
+      "n_alignable": 30,
+      "n_resolved": 28,
+      "n_frames": 398
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 241,
+      "frames_face_detected": 240,
+      "face_detection_coverage": 0.995850622406639,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-UUCSKoHeMA$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UUCSKoHeMA/0.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "I mentioned a word in the last clip called 'monotone', and I want to talk about that briefly.",
+    "verified_duration_s": 7.8,
+    "old_manifest_duration_s": 7.867,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 234,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.866666666666666,
+    "audio_coverage_end": 7.73225,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 22,
+      "n_alignable": 20,
+      "n_resolved": 17,
+      "n_frames": 386
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 234,
+      "frames_face_detected": 233,
+      "face_detection_coverage": 0.9957264957264957,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 17
+    },
+    "bin_O_unknown_counts": {
+      "text": 17
+    }
+  },
+  {
+    "id": "-UacrmKiTn4$_$10",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/10.mp4",
+    "label": "-0.6666666865348816",
+    "annotation": "Negative",
+    "text": "Because, if they are not in any way held accountable for reading the material they won't do it.",
+    "verified_duration_s": 7.361979,
+    "old_manifest_duration_s": 12.634,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 218,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.333333333333333,
+    "audio_coverage_end": 7.2420625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 22,
+      "n_alignable": 20,
+      "n_resolved": 20,
+      "n_frames": 361
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999981,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 218,
+      "frames_face_detected": 218,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-UacrmKiTn4$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4",
+    "label": "-1.3333333730697632",
+    "annotation": "Negative",
+    "text": "Just given to their own devices they are not going to read the textbook.",
+    "verified_duration_s": 4.741016,
+    "old_manifest_duration_s": 6.223,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 142,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.733333333333333,
+    "audio_coverage_end": 4.6819375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 15,
+      "n_alignable": 14,
+      "n_resolved": 14,
+      "n_frames": 233
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 142,
+      "frames_face_detected": 142,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-UuX1xuaiiE$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/0.mp4",
+    "label": "2.6666667461395264",
+    "annotation": "Positive",
+    "text": "^it's amazing to see their enthusiasm and their passion",
+    "verified_duration_s": 3.633333,
+    "old_manifest_duration_s": 3.7,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 109,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.6999999999999997,
+    "audio_coverage_end": 3.575875,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 12,
+      "n_alignable": 11,
+      "n_resolved": 8,
+      "n_frames": 178
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 109,
+      "frames_face_detected": 109,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 24
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-UuX1xuaiiE$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/1.mp4",
+    "label": "1.6666666269302368",
+    "annotation": "Positive",
+    "text": "^And all of them are really being able to explore ^these different areas in depth ^in a way that really wasn't available ^before the center was here",
+    "verified_duration_s": 10.35,
+    "old_manifest_duration_s": 13.434,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 309,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 10.333333333333334,
+    "audio_coverage_end": 10.2675,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 33,
+      "n_alignable": 29,
+      "n_resolved": 28,
+      "n_frames": 513
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 309,
+      "frames_face_detected": 309,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 3
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 8
+    },
+    "bin_O_unknown_counts": {
+      "text": 8
+    }
+  },
+  {
+    "id": "-UuX1xuaiiE$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "My goal is to become a human rights lawyer",
+    "verified_duration_s": 4.130013,
+    "old_manifest_duration_s": 10.634,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 123,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.1,
+    "audio_coverage_end": 4.038375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 9,
+      "n_alignable": 9,
+      "n_resolved": 8,
+      "n_frames": 201
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 123,
+      "frames_face_detected": 123,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 27,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 27,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 23
+    },
+    "bin_O_unknown_counts": {
+      "text": 23
+    }
+  },
+  {
+    "id": "-UuX1xuaiiE$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/6.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "I ended up going to work for the US government as an intelligence analyst, specializing in war crimes and human rights issues",
+    "verified_duration_s": 8.113997,
+    "old_manifest_duration_s": 15.234,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 240,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.1,
+    "audio_coverage_end": 7.9438125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 23,
+      "n_alignable": 22,
+      "n_resolved": 21,
+      "n_frames": 396
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 240,
+      "frames_face_detected": 240,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-a55Q6RWvTA$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-a55Q6RWvTA/3.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "And if you clip coupons, if you don't go out for dinner and movies and things of that nature and try to take up things in life that, well, they always say, \"the best things in life are free\". Reading a book, going for a nice walk, and, of course, combining exercise and various things of that nature where you're not spending money per se.",
+    "verified_duration_s": 22.153971,
+    "old_manifest_duration_s": 22.617,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 664,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 22.133333333333336,
+    "audio_coverage_end": 22.0833125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 81,
+      "n_alignable": 69,
+      "n_resolved": 65,
+      "n_frames": 1103
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 664,
+      "frames_face_detected": 664,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 5
+    },
+    "bin_O_unknown_counts": {
+      "text": 5
+    }
+  },
+  {
+    "id": "-aNfi7CP8vM$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aNfi7CP8vM/7.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Maybe they have no political party affiliation, they're not interested in politics, they could care less about politics.",
+    "verified_duration_s": 8.694987,
+    "old_manifest_duration_s": 11.334,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 257,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.666666666666666,
+    "audio_coverage_end": 8.5376875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 23,
+      "n_alignable": 20,
+      "n_resolved": 19,
+      "n_frames": 426
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 257,
+      "frames_face_detected": 257,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-aqamKhZ1Ec$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aqamKhZ1Ec/0.mp4",
+    "label": "-2.0",
+    "annotation": "Negative",
+    "text": "In 2008, there were very serious tribal warfare in Kenya following a disputed election.",
+    "verified_duration_s": 10.966667,
+    "old_manifest_duration_s": 11.0,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 329,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 11.0,
+    "audio_coverage_end": 10.8901875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 16,
+      "n_alignable": 13,
+      "n_resolved": 13,
+      "n_frames": 544
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 329,
+      "frames_face_detected": 329,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 32,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 32,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 18
+    },
+    "bin_O_unknown_counts": {
+      "text": 18
+    }
+  },
+  {
+    "id": "-dxfTGcXJoc$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/0.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "This is Governor Steve Beshear ... About Kentucky Our state is home to more than 1,500 bioscience and lifescience companies and more than 100,000 people who work for these firms, in areas from nutrigenomics and pharmaceuticals to nanotechnology and medical devices.",
+    "verified_duration_s": 20.5,
+    "old_manifest_duration_s": 20.534,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 615,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 20.533333333333335,
+    "audio_coverage_end": 20.410375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 49,
+      "n_alignable": 38,
+      "n_resolved": 38,
+      "n_frames": 1020
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 615,
+      "frames_face_detected": 481,
+      "face_detection_coverage": 0.7821138211382114,
+      "frame_width": 320,
+      "frame_height": 240
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 40
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-dxfTGcXJoc$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4",
+    "label": "1.6666666269302368",
+    "annotation": "Positive",
+    "text": "For the 10th straight year, some of Kentucky’s best and most innovative biotech companies and technologies were on display at the annual BIO International Convention, which I and other state officials attended this week in Chicago.",
+    "verified_duration_s": 16.161003,
+    "old_manifest_duration_s": 19.7,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 482,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 16.133333333333336,
+    "audio_coverage_end": 16.018125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 41,
+      "n_alignable": 37,
+      "n_resolved": 37,
+      "n_frames": 800
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 482,
+      "frames_face_detected": 482,
+      "face_detection_coverage": 1.0,
+      "frame_width": 320,
+      "frame_height": 240
+    },
+    "bin_P_counts": {
+      "text": 47,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 47,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 3
+    },
+    "bin_O_unknown_counts": {
+      "text": 3
+    }
+  },
+  {
+    "id": "-dxfTGcXJoc$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/2.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "An estimated 20,000 biotech scientists, executives and industry experts from more than 50 nations were at the BIO conference to learn about the latest scientific advances, and to exchange ideas and establish business relationships.",
+    "verified_duration_s": 16.697982,
+    "old_manifest_duration_s": 19.552,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 500,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 16.666666666666668,
+    "audio_coverage_end": 16.6331875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 39,
+      "n_alignable": 32,
+      "n_resolved": 32,
+      "n_frames": 831
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 500,
+      "frames_face_detected": 500,
+      "face_detection_coverage": 1.0,
+      "frame_width": 320,
+      "frame_height": 240
+    },
+    "bin_P_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 43,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 7
+    },
+    "bin_O_unknown_counts": {
+      "text": 7
+    }
+  },
+  {
+    "id": "-dxfTGcXJoc$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/6.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "Kentucky’s participation at the annual BIO International Convention is the primary means by which our high-tech companies and institutions can reach out to the global scientific community.",
+    "verified_duration_s": 12.735026,
+    "old_manifest_duration_s": 12.967,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 381,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 12.733333333333333,
+    "audio_coverage_end": 12.6284375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 32,
+      "n_alignable": 29,
+      "n_resolved": 28,
+      "n_frames": 631
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 381,
+      "frames_face_detected": 381,
+      "face_detection_coverage": 1.0,
+      "frame_width": 320,
+      "frame_height": 240
+    },
+    "bin_P_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 45,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 5
+    },
+    "bin_O_unknown_counts": {
+      "text": 5
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/1.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "I started a successful Legal Nurse Consulting Business in 1989. I mentor nurses who want to become Legal Nurse Consultants.",
+    "verified_duration_s": 10.266016,
+    "old_manifest_duration_s": 11.534,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 306,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 10.233333333333333,
+    "audio_coverage_end": 10.15625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 22,
+      "n_alignable": 19,
+      "n_resolved": 19,
+      "n_frames": 507
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 306,
+      "frames_face_detected": 306,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 17
+    },
+    "bin_O_unknown_counts": {
+      "text": 17
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$13",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/13.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "What are you doing that's different?\" They always want an answer.",
+    "verified_duration_s": 4.183984,
+    "old_manifest_duration_s": 6.967,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 123,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.166666666666667,
+    "audio_coverage_end": 4.023875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 16,
+      "n_alignable": 13,
+      "n_resolved": 13,
+      "n_frames": 200
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 123,
+      "frames_face_detected": 123,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 31,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 31,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 19
+    },
+    "bin_O_unknown_counts": {
+      "text": 19
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$16",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/16.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "Third, another big benefit of exhibiting is connecting with existing clients.",
+    "verified_duration_s": 5.538021,
+    "old_manifest_duration_s": 7.129,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 166,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.533333333333333,
+    "audio_coverage_end": 5.483,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 13,
+      "n_alignable": 11,
+      "n_resolved": 11,
+      "n_frames": 273
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 166,
+      "frames_face_detected": 166,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 10
+    },
+    "bin_O_unknown_counts": {
+      "text": 10
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$17",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/17.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "As you have more experience, you have more times exhibiting, you get to know more people.",
+    "verified_duration_s": 7.271029,
+    "old_manifest_duration_s": 14.0,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 215,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.266666666666667,
+    "audio_coverage_end": 7.09525,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 19,
+      "n_alignable": 16,
+      "n_resolved": 16,
+      "n_frames": 354
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999995,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 215,
+      "frames_face_detected": 215,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 32,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 32,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 18
+    },
+    "bin_O_unknown_counts": {
+      "text": 18
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$18",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/18.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "It becomes easier at each one of these conferences to connect with people that you've met or that you're doing business with.",
+    "verified_duration_s": 8.386003,
+    "old_manifest_duration_s": 13.367,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 250,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.366666666666667,
+    "audio_coverage_end": 8.2656875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 27,
+      "n_alignable": 26,
+      "n_resolved": 25,
+      "n_frames": 413
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 250,
+      "frames_face_detected": 250,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$20",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/20.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "Now you've got a face that you can connect with a voice, and that makes you closer to that client.",
+    "verified_duration_s": 6.644987,
+    "old_manifest_duration_s": 14.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 196,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.633333333333333,
+    "audio_coverage_end": 6.4744375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 24,
+      "n_alignable": 22,
+      "n_resolved": 22,
+      "n_frames": 323
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 196,
+      "frames_face_detected": 196,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$26",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/26.mp4",
+    "label": "1.6666666269302368",
+    "annotation": "Positive",
+    "text": "We're updating it all the time and looking forward to your comments on our videos.",
+    "verified_duration_s": 6.03099,
+    "old_manifest_duration_s": 11.5,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 179,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.0,
+    "audio_coverage_end": 5.9205625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 18,
+      "n_alignable": 17,
+      "n_resolved": 16,
+      "n_frames": 295
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 179,
+      "frames_face_detected": 179,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/6.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "First exhibiting is a wonderful opportunity to network with other legal vendors.",
+    "verified_duration_s": 6.264974,
+    "old_manifest_duration_s": 8.035,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 187,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.233333333333333,
+    "audio_coverage_end": 6.183125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 13,
+      "n_alignable": 12,
+      "n_resolved": 12,
+      "n_frames": 308
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 187,
+      "frames_face_detected": 187,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-egA8-b7-3M$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/9.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "Secondly, another goal of exhibiting  is building your company image.",
+    "verified_duration_s": 5.089974,
+    "old_manifest_duration_s": 10.134,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 150,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.066666666666666,
+    "audio_coverage_end": 4.936125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 12,
+      "n_alignable": 10,
+      "n_resolved": 10,
+      "n_frames": 246
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 150,
+      "frames_face_detected": 150,
+      "face_detection_coverage": 1.0,
+      "frame_width": 640,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-hnBHBN8p5A$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "Discussion, how to discuss ideas and opinions more effectively than a native speaker",
+    "verified_duration_s": 6.401,
+    "old_manifest_duration_s": 11.429,
+    "nominal_fps": 23.976035631539084,
+    "n_video_frames_decoded": 153,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.38137497972425,
+    "audio_coverage_end": 6.3328125,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 14,
+      "n_alignable": 13,
+      "n_resolved": 4,
+      "n_frames": 316
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 153,
+      "frames_face_detected": 125,
+      "face_detection_coverage": 0.8169934640522876,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 13
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-hnBHBN8p5A$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/7.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "Picture this, before we actually start hacking, we’re in a room formal setting",
+    "verified_duration_s": 7.372,
+    "old_manifest_duration_s": 9.176,
+    "nominal_fps": 23.976023976023978,
+    "n_video_frames_decoded": 176,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.340663888888889,
+    "audio_coverage_end": 7.3085625,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 17,
+      "n_alignable": 14,
+      "n_resolved": 5,
+      "n_frames": 365
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999953,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 176,
+      "frames_face_detected": 155,
+      "face_detection_coverage": 0.8806818181818182,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 13
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-iRBcNs9oI8$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/3.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "Well, it is the secret of power pose",
+    "verified_duration_s": 5.621,
+    "old_manifest_duration_s": 5.84,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 167,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.6056,
+    "audio_coverage_end": 5.53825,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 9,
+      "n_alignable": 8,
+      "n_resolved": 4,
+      "n_frames": 276
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 167,
+      "frames_face_detected": 167,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-iRBcNs9oI8$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/6.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "What is a power pose",
+    "verified_duration_s": 2.903,
+    "old_manifest_duration_s": 7.475,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 85,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.8695333333333335,
+    "audio_coverage_end": 2.8204375,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 5,
+      "n_alignable": 5,
+      "n_resolved": 3,
+      "n_frames": 140
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 85,
+      "frames_face_detected": 85,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-iRBcNs9oI8$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/7.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "Well, for starters, let's look at the word \"power\"",
+    "verified_duration_s": 4.104,
+    "old_manifest_duration_s": 5.806,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 120,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.070733333333333,
+    "audio_coverage_end": 4.00575,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 15,
+      "n_alignable": 11,
+      "n_resolved": 4,
+      "n_frames": 200
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 120,
+      "frames_face_detected": 120,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-iRBcNs9oI8$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/8.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "I've drawn this man here, and if you can tell, he has a lot of big muscles, he looks very strong",
+    "verified_duration_s": 8.093,
+    "old_manifest_duration_s": 8.642,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 241,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.074733333333333,
+    "audio_coverage_end": 8.0260625,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 26,
+      "n_alignable": 23,
+      "n_resolved": 10,
+      "n_frames": 401
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 241,
+      "frames_face_detected": 241,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-iRBcNs9oI8$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/9.mp4",
+    "label": "1.3333333730697632",
+    "annotation": "Positive",
+    "text": "Power is similar to strength",
+    "verified_duration_s": 3.416,
+    "old_manifest_duration_s": 7.152,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 102,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.4034,
+    "audio_coverage_end": 3.3740625,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 5,
+      "n_alignable": 5,
+      "n_resolved": 1,
+      "n_frames": 168
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 102,
+      "frames_face_detected": 101,
+      "face_detection_coverage": 0.9901960784313726,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 4
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-lzEya4AM_4$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/5.mp4",
+    "label": "-0.6666666865348816",
+    "annotation": "Negative",
+    "text": "If it falls into oh any of those three categories, inducing nausea and vomiting would be your next step.",
+    "verified_duration_s": 7.675,
+    "old_manifest_duration_s": 7.8,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 229,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.666666666666667,
+    "audio_coverage_end": 7.5696875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 21,
+      "n_alignable": 19,
+      "n_resolved": 17,
+      "n_frames": 378
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999898,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 229,
+      "frames_face_detected": 229,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 33,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 17
+    },
+    "bin_O_unknown_counts": {
+      "text": 17
+    }
+  },
+  {
+    "id": "-lzEya4AM_4$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/6.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "If the product or poison is some type of petroleum product or corrosive product, you would not attempt to induce vomiting and nausea, as as the product burned on the way down it could cause damage and burning on the way back up.",
+    "verified_duration_s": 14.791992,
+    "old_manifest_duration_s": 22.733,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 443,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 14.766666666666666,
+    "audio_coverage_end": 14.740375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 46,
+      "n_alignable": 43,
+      "n_resolved": 42,
+      "n_frames": 736
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 443,
+      "frames_face_detected": 443,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 8
+    },
+    "bin_O_unknown_counts": {
+      "text": 8
+    }
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/1.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "There are a dozen or more hands on techniques that we can do",
+    "verified_duration_s": 6.103,
+    "old_manifest_duration_s": 6.574,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 182,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.072733333333334,
+    "audio_coverage_end": 6.0545,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 13,
+      "n_alignable": 13,
+      "n_resolved": 0,
+      "n_frames": 302
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 182,
+      "frames_face_detected": 0,
+      "face_detection_coverage": 0.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/2.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "So physical therapists and chiropractors will do joint manipulations and mobilizations",
+    "verified_duration_s": 5.731,
+    "old_manifest_duration_s": 6.781,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 171,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.7057,
+    "audio_coverage_end": 5.7016875,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 11,
+      "n_alignable": 11,
+      "n_resolved": 0,
+      "n_frames": 284
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 171,
+      "frames_face_detected": 144,
+      "face_detection_coverage": 0.8421052631578947,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "They are all very safe",
+    "verified_duration_s": 2.257,
+    "old_manifest_duration_s": 2.648,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 67,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.2355666666666667,
+    "audio_coverage_end": 2.228125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 5,
+      "n_alignable": 5,
+      "n_resolved": 4,
+      "n_frames": 111
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 67,
+      "frames_face_detected": 67,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/8.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "Sometimes we have to stretch that joint that is already irritated",
+    "verified_duration_s": 4.192,
+    "old_manifest_duration_s": 8.662,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 125,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.170833333333333,
+    "audio_coverage_end": 4.171375,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 11,
+      "n_alignable": 11,
+      "n_resolved": 4,
+      "n_frames": 208
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 125,
+      "frames_face_detected": 125,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-mJ2ud6oKI8$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/9.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "It's safe and the person will feel better later on, but it's sort of like flossing your teeth for the first time",
+    "verified_duration_s": 7.033,
+    "old_manifest_duration_s": 10.01,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 208,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.007,
+    "audio_coverage_end": 6.90875,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 27,
+      "n_alignable": 26,
+      "n_resolved": 9,
+      "n_frames": 345
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999998,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 208,
+      "frames_face_detected": 208,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-mqbVkbCndg$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mqbVkbCndg/0.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "How, at a particular moment in time—our moment in time—are they limited",
+    "verified_duration_s": 6.466667,
+    "old_manifest_duration_s": 6.5,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 194,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.5,
+    "audio_coverage_end": 6.3855,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 17,
+      "n_alignable": 14,
+      "n_resolved": 14,
+      "n_frames": 319
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 194,
+      "frames_face_detected": 194,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-qDkUB0GgYY$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-qDkUB0GgYY/6.mp4",
+    "label": "1.3333333730697632",
+    "annotation": "Positive",
+    "text": "We always love to hear what you say, and like and share this video as well.",
+    "verified_duration_s": 4.677995,
+    "old_manifest_duration_s": 9.683,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 140,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 1,
+    "video_coverage_end": 4.666666666666667,
+    "audio_coverage_end": 4.6146875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 18,
+      "n_alignable": 16,
+      "n_resolved": 14,
+      "n_frames": 230
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 140,
+      "frames_face_detected": 140,
+      "face_detection_coverage": 1.0,
+      "frame_width": 360,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 30,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 30,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 20
+    },
+    "bin_O_unknown_counts": {
+      "text": 20
+    }
+  },
+  {
+    "id": "-ri04Z7vwnc$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "going to get married or are already married",
+    "verified_duration_s": 2.807,
+    "old_manifest_duration_s": 3.295,
+    "nominal_fps": 23.97604418875992,
+    "n_video_frames_decoded": 67,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.794463853727145,
+    "audio_coverage_end": 2.76325,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 8,
+      "n_alignable": 8,
+      "n_resolved": 0,
+      "n_frames": 137
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 67,
+      "frames_face_detected": 0,
+      "face_detection_coverage": 0.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-ri04Z7vwnc$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/2.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "most people think it'll sort itself out, \"we'll discuss it later,\" it's not something too important",
+    "verified_duration_s": 6.027,
+    "old_manifest_duration_s": 6.966,
+    "nominal_fps": 23.976043214651384,
+    "n_video_frames_decoded": 143,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.005997188755019,
+    "audio_coverage_end": 5.913375,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 26,
+      "n_alignable": 22,
+      "n_resolved": 3,
+      "n_frames": 295
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 143,
+      "frames_face_detected": 51,
+      "face_detection_coverage": 0.35664335664335667,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 18
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-ri04Z7vwnc$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/5.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "\" So I think it's important to discuss finances",
+    "verified_duration_s": 3.545,
+    "old_manifest_duration_s": 5.965,
+    "nominal_fps": 23.976046466253432,
+    "n_video_frames_decoded": 83,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.503508294209703,
+    "audio_coverage_end": 3.43975,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 11,
+      "n_alignable": 10,
+      "n_resolved": 2,
+      "n_frames": 171
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 83,
+      "frames_face_detected": 83,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 49,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/0.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "they have doubt, they have fear, they lose in a Ferrari race, or they lose in a race, and then they just give up",
+    "verified_duration_s": 6.8,
+    "old_manifest_duration_s": 6.867,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 204,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.866666666666666,
+    "audio_coverage_end": 6.7105625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 24,
+      "n_resolved": 23,
+      "n_frames": 335
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 204,
+      "frames_face_detected": 204,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/1.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "But the hardest thing in life to learn, is to lose",
+    "verified_duration_s": 4.791992,
+    "old_manifest_duration_s": 10.9,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 140,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.766666666666667,
+    "audio_coverage_end": 4.6438125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 12,
+      "n_alignable": 11,
+      "n_resolved": 11,
+      "n_frames": 231
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 140,
+      "frames_face_detected": 140,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 30,
+      "audio": 49,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 30,
+      "audio": 49,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 20
+    },
+    "bin_O_unknown_counts": {
+      "text": 20
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/4.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "I have lost at everything you can imagine, seriously",
+    "verified_duration_s": 4.427018,
+    "old_manifest_duration_s": 6.2,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 129,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.3999999999999995,
+    "audio_coverage_end": 4.246875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 10,
+      "n_alignable": 9,
+      "n_resolved": 9,
+      "n_frames": 212
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 129,
+      "frames_face_detected": 129,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 31,
+      "audio": 48,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 31,
+      "audio": 48,
+      "vision": 33
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 19
+    },
+    "bin_O_unknown_counts": {
+      "text": 19
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/5.mp4",
+    "label": "-2.0",
+    "annotation": "Negative",
+    "text": "I have been beat up and put down and everything that can go wrong, has gone wrong for me",
+    "verified_duration_s": 8.561003,
+    "old_manifest_duration_s": 13.567,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 253,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.533333333333333,
+    "audio_coverage_end": 8.397875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 20,
+      "n_alignable": 19,
+      "n_resolved": 18,
+      "n_frames": 419
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 253,
+      "frames_face_detected": 253,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 32,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 32,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 18
+    },
+    "bin_O_unknown_counts": {
+      "text": 18
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/6.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "But I just kept going",
+    "verified_duration_s": 2.475,
+    "old_manifest_duration_s": 6.6,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 71,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.4666666666666663,
+    "audio_coverage_end": 2.3148125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 5,
+      "n_alignable": 5,
+      "n_resolved": 5,
+      "n_frames": 115
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 71,
+      "frames_face_detected": 59,
+      "face_detection_coverage": 0.8309859154929577,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 17,
+      "audio": 47,
+      "vision": 48
+    },
+    "bin_O_counts": {
+      "text": 17,
+      "audio": 47,
+      "vision": 38
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 33
+    },
+    "bin_O_unknown_counts": {
+      "text": 33
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/7.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "I used to work for Warren Avis, the guy who started Avis Rent a Car, and he said to me one day, \"Robert, \"what's the purpose of business",
+    "verified_duration_s": 6.966016,
+    "old_manifest_duration_s": 12.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 207,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.933333333333334,
+    "audio_coverage_end": 6.8385625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 36,
+      "n_alignable": 30,
+      "n_resolved": 26,
+      "n_frames": 341
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000002,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 207,
+      "frames_face_detected": 153,
+      "face_detection_coverage": 0.7391304347826086,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 40,
+      "audio": 50,
+      "vision": 30
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 10
+    },
+    "bin_O_unknown_counts": {
+      "text": 10
+    }
+  },
+  {
+    "id": "-s9qJ7ATP7w$_$8",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/8.mp4",
+    "label": "1.3333333730697632",
+    "annotation": "Positive",
+    "text": "\" And I said, \"Oh, make a profit, and all these other things",
+    "verified_duration_s": 3.294987,
+    "old_manifest_duration_s": 6.6,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 97,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.2666666666666666,
+    "audio_coverage_end": 3.18425,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 17,
+      "n_alignable": 12,
+      "n_resolved": 10,
+      "n_frames": 158
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 97,
+      "frames_face_detected": 97,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 31,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 31,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 19
+    },
+    "bin_O_unknown_counts": {
+      "text": 19
+    }
+  },
+  {
+    "id": "-t217m2on-s$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "But a good thing to do is yawning, chewing gum is effective.",
+    "verified_duration_s": 5.686003,
+    "old_manifest_duration_s": 8.011,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 170,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.666666666666667,
+    "audio_coverage_end": 5.6301875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 14,
+      "n_alignable": 12,
+      "n_resolved": 12,
+      "n_frames": 281
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 170,
+      "frames_face_detected": 170,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 29,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 29,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 21
+    },
+    "bin_O_unknown_counts": {
+      "text": 21
+    }
+  },
+  {
+    "id": "-t217m2on-s$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/7.mp4",
+    "label": "-0.6666666865348816",
+    "annotation": "Negative",
+    "text": "If you find that your ears consistently do this and you can't pop them often, you'll definitely need to see a physician regarding those things, it could be something more of a nasal infection or a sinus infection that he would need to deal with.",
+    "verified_duration_s": 17.183008,
+    "old_manifest_duration_s": 18.7,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 512,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 17.166666666666668,
+    "audio_coverage_end": 17.026375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 52,
+      "n_alignable": 49,
+      "n_resolved": 48,
+      "n_frames": 851
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 512,
+      "frames_face_detected": 512,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 8
+    },
+    "bin_O_unknown_counts": {
+      "text": 8
+    }
+  },
+  {
+    "id": "-tANM6ETl_M$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tANM6ETl_M/3.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "The first place is either you have a prospect, or a customer who's never done it before, or they've never tried it.",
+    "verified_duration_s": 6.758008,
+    "old_manifest_duration_s": 9.1,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 200,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.733333333333333,
+    "audio_coverage_end": 6.603625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 29,
+      "n_alignable": 26,
+      "n_resolved": 23,
+      "n_frames": 329
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 200,
+      "frames_face_detected": 200,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 43,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 43,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 7
+    },
+    "bin_O_unknown_counts": {
+      "text": 7
+    }
+  },
+  {
+    "id": "-tPCytz4rww$_$10",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/10.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Say twenty percent so if you've got a thousand square foot condo.",
+    "verified_duration_s": 4.788997,
+    "old_manifest_duration_s": 11.734,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 142,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.766666666666667,
+    "audio_coverage_end": 4.6788125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 15,
+      "n_alignable": 14,
+      "n_resolved": 14,
+      "n_frames": 233
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 142,
+      "frames_face_detected": 142,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 33,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 33,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 17
+    },
+    "bin_O_unknown_counts": {
+      "text": 17
+    }
+  },
+  {
+    "id": "-tPCytz4rww$_$11",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/11.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Make sure that your using comps that are not larger, no larger than twelve hundred square feet.",
+    "verified_duration_s": 5.466992,
+    "old_manifest_duration_s": 8.0,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 164,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 5.466666666666667,
+    "audio_coverage_end": 5.3785625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 19,
+      "n_alignable": 17,
+      "n_resolved": 17,
+      "n_frames": 268
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 164,
+      "frames_face_detected": 164,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-tPCytz4rww$_$12",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/12.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "No less than eight hundred squire feet and going to similar in, similar with bedrooms and bathrooms as well and hopefully the complexes have similar amenities.",
+    "verified_duration_s": 11.863997,
+    "old_manifest_duration_s": 18.767,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 353,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 11.833333333333334,
+    "audio_coverage_end": 11.7361875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 26,
+      "n_resolved": 24,
+      "n_frames": 586
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 353,
+      "frames_face_detected": 353,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 38,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 12
+    },
+    "bin_O_unknown_counts": {
+      "text": 12
+    }
+  },
+  {
+    "id": "-tPCytz4rww$_$16",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/16.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "So make sure to get a through or to do a through cleaning of the property.",
+    "verified_duration_s": 7.20599,
+    "old_manifest_duration_s": 13.236,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 216,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 7.2,
+    "audio_coverage_end": 7.1391875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 17,
+      "n_alignable": 16,
+      "n_resolved": 16,
+      "n_frames": 356
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999988,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 216,
+      "frames_face_detected": 216,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 31,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 31,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 19
+    },
+    "bin_O_unknown_counts": {
+      "text": 19
+    }
+  },
+  {
+    "id": "-tPCytz4rww$_$18",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/18.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Do so and as well you'll also want to remove any clutter from that you've accumulated.",
+    "verified_duration_s": 6.644987,
+    "old_manifest_duration_s": 14.281,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 199,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.633333333333333,
+    "audio_coverage_end": 6.5688125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 21,
+      "n_alignable": 20,
+      "n_resolved": 19,
+      "n_frames": 328
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 199,
+      "frames_face_detected": 199,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 34,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 16
+    },
+    "bin_O_unknown_counts": {
+      "text": 16
+    }
+  },
+  {
+    "id": "-uywlfIYOS8$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-uywlfIYOS8/4.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "And then from a brand point of view, we need to make sure we're driving the relevant insight.",
+    "verified_duration_s": 6.044987,
+    "old_manifest_duration_s": 14.334,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 179,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.033333333333333,
+    "audio_coverage_end": 5.881125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 22,
+      "n_alignable": 20,
+      "n_resolved": 20,
+      "n_frames": 293
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 179,
+      "frames_face_detected": 179,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 270
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-vxjVxOeScU$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-vxjVxOeScU/4.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "You're going to talk about their life, their marriage and usually how amazing it is that they've stayed together this long.",
+    "verified_duration_s": 9.127018,
+    "old_manifest_duration_s": 11.734,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 272,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 9.1,
+    "audio_coverage_end": 9.0370625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 27,
+      "n_alignable": 25,
+      "n_resolved": 21,
+      "n_frames": 451
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 272,
+      "frames_face_detected": 272,
+      "face_detection_coverage": 1.0,
+      "frame_width": 480,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 36,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 36,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 14
+    },
+    "bin_O_unknown_counts": {
+      "text": 14
+    }
+  },
+  {
+    "id": "-wMB_hJL-3o$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wMB_hJL-3o/7.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "So if you have a loved one who is depressed those are some of the things that you should think about doing.",
+    "verified_duration_s": 6.04401,
+    "old_manifest_duration_s": 7.315,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 181,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.033333333333333,
+    "audio_coverage_end": 5.9755625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 23,
+      "n_alignable": 22,
+      "n_resolved": 22,
+      "n_frames": 298
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 181,
+      "frames_face_detected": 175,
+      "face_detection_coverage": 0.9668508287292817,
+      "frame_width": 480,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 11
+    },
+    "bin_O_unknown_counts": {
+      "text": 11
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/0.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "trade labor unions didn’t allow Black workers to join",
+    "verified_duration_s": 3.333333,
+    "old_manifest_duration_s": 3.334,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 100,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 3.333333333333333,
+    "audio_coverage_end": 3.274,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 11,
+      "n_alignable": 10,
+      "n_resolved": 10,
+      "n_frames": 163
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 100,
+      "frames_face_detected": 100,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 37,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 13
+    },
+    "bin_O_unknown_counts": {
+      "text": 13
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/1.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "And because they couldn’t join unions, many Black workers couldn’t get manufacturing or trade work – which paid much better than service work",
+    "verified_duration_s": 6.84401,
+    "old_manifest_duration_s": 9.1,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 205,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.833333333333333,
+    "audio_coverage_end": 6.7765625,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 24,
+      "n_resolved": 24,
+      "n_frames": 338
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000002,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 205,
+      "frames_face_detected": 205,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 42,
+      "audio": 50,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 8
+    },
+    "bin_O_unknown_counts": {
+      "text": 8
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$2",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/2.mp4",
+    "label": "-0.3333333432674408",
+    "annotation": "Negative",
+    "text": "And because they couldn’t get these jobs, Black communities had more men out of work, higher rates of poverty, and more criminal behavior",
+    "verified_duration_s": 6.686979,
+    "old_manifest_duration_s": 11.934,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 197,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.666666666666667,
+    "audio_coverage_end": 6.5226875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 28,
+      "n_alignable": 24,
+      "n_resolved": 24,
+      "n_frames": 325
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 197,
+      "frames_face_detected": 197,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/3.mp4",
+    "label": "-1.3333333730697632",
+    "annotation": "Negative",
+    "text": "Which then allowed the white workers and unions to justify their decision to not allow black workers into their union",
+    "verified_duration_s": 6.146029,
+    "old_manifest_duration_s": 11.169,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 184,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.133333333333333,
+    "audio_coverage_end": 6.099875,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 20,
+      "n_alignable": 20,
+      "n_resolved": 20,
+      "n_frames": 304
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 184,
+      "frames_face_detected": 184,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 50,
+      "vision": 43
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/5.mp4",
+    "label": "1.0",
+    "annotation": "Positive",
+    "text": "This is what’s now known as racial formation theory, a theory formalized by modern sociologists Michael Omi and Howard Winant",
+    "verified_duration_s": 6.911979,
+    "old_manifest_duration_s": 9.967,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 204,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.8999999999999995,
+    "audio_coverage_end": 6.7414375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 23,
+      "n_alignable": 21,
+      "n_resolved": 20,
+      "n_frames": 336
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 204,
+      "frames_face_detected": 204,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 42,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 42,
+      "audio": 49,
+      "vision": 42
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 8
+    },
+    "bin_O_unknown_counts": {
+      "text": 8
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$7",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/7.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Omi and Winant argue that the concept of race came about as a tool to justify and maintain the economic and political power held by those of European descent",
+    "verified_duration_s": 8.067969,
+    "old_manifest_duration_s": 9.5,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 240,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 8.066666666666666,
+    "audio_coverage_end": 7.9105,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 29,
+      "n_alignable": 29,
+      "n_resolved": 29,
+      "n_frames": 395
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 240,
+      "frames_face_detected": 240,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 49,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 49,
+      "audio": 50,
+      "vision": 43
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 1
+    },
+    "bin_O_unknown_counts": {
+      "text": 1
+    }
+  },
+  {
+    "id": "-wny0OAz3g8$_$9",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/9.mp4",
+    "label": "0.6666666865348816",
+    "annotation": "Positive",
+    "text": "He explores why Black and White Americans tend to have such different outcomes in terms of income, education, and more",
+    "verified_duration_s": 6.213021,
+    "old_manifest_duration_s": 9.867,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 183,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 6.2,
+    "audio_coverage_end": 6.0435,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 22,
+      "n_alignable": 20,
+      "n_resolved": 19,
+      "n_frames": 301
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 183,
+      "frames_face_detected": 183,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 41,
+      "audio": 49,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 1,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 9
+    },
+    "bin_O_unknown_counts": {
+      "text": 9
+    }
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "it comes with the assistance and agitation of states and regimes, Yesterday Iran announced that it will finance the families of the terrorists and murderers this shows that Iran, even after the nuclear agreement, is continuing to aid terrorism, including Palestinian terrorism, Hezbollah terrorism and its assistance to Hamas.",
+    "verified_duration_s": 29.288021,
+    "old_manifest_duration_s": 34.567,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 875,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 29.26666666666667,
+    "audio_coverage_end": 29.10975,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 55,
+      "n_alignable": 49,
+      "n_resolved": 23,
+      "n_frames": 1455
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 875,
+      "frames_face_detected": 875,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$5",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/5.mp4",
+    "label": "-0.6666666865348816",
+    "annotation": "Negative",
+    "text": "Yesterday Eliav Gelman lost his life in another terrorist attack, not by the students of terrorism, but by those who teach terrorism, a Palestinian teacher.",
+    "verified_duration_s": 13.16901,
+    "old_manifest_duration_s": 13.634,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 394,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 13.166666666666666,
+    "audio_coverage_end": 13.0445625,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 29,
+      "n_alignable": 25,
+      "n_resolved": 9,
+      "n_frames": 651
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 394,
+      "frames_face_detected": 394,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/6.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "Therefore, the world needs to stand with Israel against this incitement, which is the number one cause of terrorism.",
+    "verified_duration_s": 11.241995,
+    "old_manifest_duration_s": 15.488,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 336,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 11.2,
+    "audio_coverage_end": 11.2425625,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 22,
+      "n_alignable": 19,
+      "n_resolved": 6,
+      "n_frames": 561
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 336,
+      "frames_face_detected": 336,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    },
+    "text_alignment_state": 2,
+    "text_content_present": true,
+    "text_content_representation": "text_word_feat plus text_utterance_feat",
+    "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+    "bin_P_unknown_counts": {
+      "text": 50
+    },
+    "bin_O_unknown_counts": {
+      "text": 50
+    }
+  }
+]

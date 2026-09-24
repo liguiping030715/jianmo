@@ -1,0 +1,6174 @@
+{
+  "aligned": {
+    "train": {
+      "text_valid": {
+        "min": 3,
+        "max": 50,
+        "mean": 24.645655375552284,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "allzero_samples": 0,
+        "last_nonzero_mean": 23.645655375552284,
+        "observed_value_stats": {
+          "count": 5684458,
+          "mean": 2.3295994668894733,
+          "std": 22.15417046433544,
+          "min": -47.73226547241211,
+          "max": 500.0
+        }
+      },
+      "vision": {
+        "allzero_samples": 110,
+        "last_nonzero_mean": 22.868630338733432,
+        "observed_value_stats": {
+          "count": 2542155,
+          "mean": -0.897318046867883,
+          "std": 2.5874394464831654,
+          "min": -37.746498107910156,
+          "max": 29.028600692749023
+        }
+      }
+    },
+    "valid": {
+      "text_valid": {
+        "min": 3,
+        "max": 50,
+        "mean": 25.587912087912088,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "allzero_samples": 0,
+        "last_nonzero_mean": 24.587912087912088,
+        "observed_value_stats": {
+          "count": 1267324,
+          "mean": 2.295163805675808,
+          "std": 21.706507665430504,
+          "min": -44.918243408203125,
+          "max": 499.0
+        }
+      },
+      "vision": {
+        "allzero_samples": 15,
+        "last_nonzero_mean": 23.798076923076923,
+        "observed_value_stats": {
+          "count": 566720,
+          "mean": -0.8561009671567447,
+          "std": 2.552742754363645,
+          "min": -30.58169937133789,
+          "max": 26.221500396728516
+        }
+      }
+    },
+    "test": {
+      "text_valid": {
+        "min": 4,
+        "max": 50,
+        "mean": 25.184319119669876,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "allzero_samples": 0,
+        "last_nonzero_mean": 24.184319119669876,
+        "observed_value_stats": {
+          "count": 1247270,
+          "mean": 2.329994475231676,
+          "std": 22.213124378901675,
+          "min": -50.873077392578125,
+          "max": 500.0
+        }
+      },
+      "vision": {
+        "allzero_samples": 28,
+        "last_nonzero_mean": 23.23933975240715,
+        "observed_value_stats": {
+          "count": 554085,
+          "mean": -0.8617377065077358,
+          "std": 2.535438871464146,
+          "min": -29.1875,
+          "max": 27.900800704956055
+        }
+      }
+    }
+  },
+  "unaligned": {
+    "train": {
+      "text_valid": {
+        "min": 3,
+        "max": 50,
+        "mean": 24.645655375552284,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "length_eq_last": 3395,
+        "length_less_last": 0,
+        "length_greater_last": 0,
+        "allzero_samples": 0,
+        "length_mean": 147.28836524300442,
+        "last_nonzero_mean": 147.28836524300442,
+        "observed_value_stats": {
+          "count": 37003256,
+          "mean": 2.345232279734228,
+          "std": 21.89154315779918,
+          "min": -53.72154235839844,
+          "max": 500.0
+        }
+      },
+      "vision": {
+        "length_eq_last": 2747,
+        "length_less_last": 618,
+        "length_greater_last": 30,
+        "allzero_samples": 30,
+        "length_mean": 93.25036818851252,
+        "last_nonzero_mean": 107.46421207658321,
+        "observed_value_stats": {
+          "count": 12371905,
+          "mean": -0.9064337171192571,
+          "std": 2.608720578421825,
+          "min": -37.746498107910156,
+          "max": 31.25309944152832
+        }
+      }
+    },
+    "valid": {
+      "text_valid": {
+        "min": 3,
+        "max": 50,
+        "mean": 25.587912087912088,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "length_eq_last": 728,
+        "length_less_last": 0,
+        "length_greater_last": 0,
+        "allzero_samples": 0,
+        "length_mean": 154.11263736263737,
+        "last_nonzero_mean": 154.11263736263737,
+        "observed_value_stats": {
+          "count": 8302356,
+          "mean": 2.3272255357530347,
+          "std": 21.659628143941262,
+          "min": -50.75642776489258,
+          "max": 500.0
+        }
+      },
+      "vision": {
+        "length_eq_last": 587,
+        "length_less_last": 141,
+        "length_greater_last": 0,
+        "allzero_samples": 0,
+        "length_mean": 98.6923076923077,
+        "last_nonzero_mean": 114.28846153846153,
+        "observed_value_stats": {
+          "count": 2810605,
+          "mean": -0.8649466550537271,
+          "std": 2.5448333773601877,
+          "min": -35.588401794433594,
+          "max": 28.733299255371094
+        }
+      }
+    },
+    "test": {
+      "text_valid": {
+        "min": 4,
+        "max": 50,
+        "mean": 25.184319119669876,
+        "all_suffix_padding": true
+      },
+      "audio": {
+        "length_eq_last": 727,
+        "length_less_last": 0,
+        "length_greater_last": 0,
+        "allzero_samples": 0,
+        "length_mean": 155.87757909215955,
+        "last_nonzero_mean": 155.87757909215955,
+        "observed_value_stats": {
+          "count": 8385902,
+          "mean": 2.349209091590958,
+          "std": 22.090396987004702,
+          "min": -50.873077392578125,
+          "max": 500.0
+        }
+      },
+      "vision": {
+        "length_eq_last": 588,
+        "length_less_last": 131,
+        "length_greater_last": 8,
+        "allzero_samples": 8,
+        "length_mean": 97.11004126547455,
+        "last_nonzero_mean": 114.77303988995874,
+        "observed_value_stats": {
+          "count": 2828455,
+          "mean": -0.8664499182411808,
+          "std": 2.5438509081541683,
+          "min": -35.43349838256836,
+          "max": 28.583099365234375
+        }
+      }
+    }
+  },
+  "special_gaps": [
+    {
+      "file": "附件3_01.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 7,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 43
+        },
+        "vision": {
+          "last_nonzero": 7,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 43
+        }
+      }
+    },
+    {
+      "file": "附件3_02.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 29,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              11
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 21
+        },
+        "vision": {
+          "last_nonzero": 29,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              11
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 21
+        }
+      }
+    },
+    {
+      "file": "附件3_03.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 33,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              31,
+              32
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 17
+        },
+        "vision": {
+          "last_nonzero": 33,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              20,
+              22
+            ],
+            [
+              23,
+              27
+            ],
+            [
+              31,
+              32
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 17
+        }
+      }
+    },
+    {
+      "file": "附件3_04.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 32,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              9
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 18
+        },
+        "vision": {
+          "last_nonzero": 32,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              9
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 18
+        }
+      }
+    },
+    {
+      "file": "附件3_05.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 13,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 37
+        },
+        "vision": {
+          "last_nonzero": 13,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 37
+        }
+      }
+    },
+    {
+      "file": "附件3_06.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              14,
+              15
+            ],
+            [
+              17,
+              18
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 25
+        },
+        "vision": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              14,
+              15
+            ],
+            [
+              17,
+              18
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 25
+        }
+      }
+    },
+    {
+      "file": "附件3_07.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 22,
+          "interior_zero_runs": [
+            [
+              10,
+              11
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              14,
+              15
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 28
+        },
+        "vision": {
+          "last_nonzero": 22,
+          "interior_zero_runs": [
+            [
+              10,
+              11
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              14,
+              15
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 28
+        }
+      }
+    },
+    {
+      "file": "附件3_08.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 16,
+          "interior_zero_runs": [
+            [
+              9,
+              11
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 34
+        },
+        "vision": {
+          "last_nonzero": 16,
+          "interior_zero_runs": [
+            [
+              9,
+              11
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 34
+        }
+      }
+    },
+    {
+      "file": "附件3_09.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 15,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 35
+        },
+        "vision": {
+          "last_nonzero": 15,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 35
+        }
+      }
+    },
+    {
+      "file": "附件3_10.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 7,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 43
+        },
+        "vision": {
+          "last_nonzero": 7,
+          "interior_zero_runs": [],
+          "prefix_zero": 1,
+          "suffix_zero": 43
+        }
+      }
+    },
+    {
+      "file": "附件3_11.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 14,
+          "interior_zero_runs": [
+            [
+              4,
+              6
+            ],
+            [
+              7,
+              8
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 36
+        },
+        "vision": {
+          "last_nonzero": 14,
+          "interior_zero_runs": [
+            [
+              4,
+              6
+            ],
+            [
+              7,
+              8
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 36
+        }
+      }
+    },
+    {
+      "file": "附件3_12.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 13,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 37
+        },
+        "vision": {
+          "last_nonzero": 13,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 37
+        }
+      }
+    },
+    {
+      "file": "附件3_13.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 20,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              14,
+              15
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 30
+        },
+        "vision": {
+          "last_nonzero": 20,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              14,
+              15
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 30
+        }
+      }
+    },
+    {
+      "file": "附件3_14.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 24,
+          "interior_zero_runs": [
+            [
+              21,
+              23
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 26
+        },
+        "vision": {
+          "last_nonzero": 24,
+          "interior_zero_runs": [
+            [
+              21,
+              23
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 26
+        }
+      }
+    },
+    {
+      "file": "附件3_15.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 28,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              18,
+              19
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 22
+        },
+        "vision": {
+          "last_nonzero": 28,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              18,
+              19
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 22
+        }
+      }
+    },
+    {
+      "file": "附件3_16.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 35,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              10,
+              11
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              25,
+              26
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 15
+        },
+        "vision": {
+          "last_nonzero": 35,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              10,
+              11
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              25,
+              26
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 15
+        }
+      }
+    },
+    {
+      "file": "附件3_17.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 23,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              21,
+              22
+            ]
+          ],
+          "prefix_zero": 4,
+          "suffix_zero": 27
+        },
+        "vision": {
+          "last_nonzero": 23,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              21,
+              22
+            ]
+          ],
+          "prefix_zero": 4,
+          "suffix_zero": 27
+        }
+      }
+    },
+    {
+      "file": "附件3_18.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 18,
+          "interior_zero_runs": [
+            [
+              2,
+              4
+            ],
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 32
+        },
+        "vision": {
+          "last_nonzero": 18,
+          "interior_zero_runs": [
+            [
+              2,
+              4
+            ],
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 32
+        }
+      }
+    },
+    {
+      "file": "附件3_19.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ],
+            [
+              7,
+              9
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              21,
+              22
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 25
+        },
+        "vision": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ],
+            [
+              7,
+              9
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              21,
+              22
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 25
+        }
+      }
+    },
+    {
+      "file": "附件3_20.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 48,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              10
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              38,
+              42
+            ],
+            [
+              43,
+              45
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 2
+        },
+        "vision": {
+          "last_nonzero": 48,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              10
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              38,
+              42
+            ],
+            [
+              43,
+              45
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 2
+        }
+      }
+    },
+    {
+      "file": "附件3_21.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 10,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              8,
+              9
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 40
+        },
+        "vision": {
+          "last_nonzero": 10,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              8,
+              9
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 40
+        }
+      }
+    },
+    {
+      "file": "附件3_22.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 18,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              16,
+              17
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 32
+        },
+        "vision": {
+          "last_nonzero": 18,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              16,
+              17
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 32
+        }
+      }
+    },
+    {
+      "file": "附件3_23.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 14,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              10,
+              13
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 36
+        },
+        "vision": {
+          "last_nonzero": 14,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              10,
+              13
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 36
+        }
+      }
+    },
+    {
+      "file": "附件3_24.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 9,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 41
+        },
+        "vision": {
+          "last_nonzero": 9,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 41
+        }
+      }
+    },
+    {
+      "file": "附件3_25.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 10,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 40
+        },
+        "vision": {
+          "last_nonzero": 10,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 40
+        }
+      }
+    },
+    {
+      "file": "附件3_26.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 22,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              15,
+              17
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 28
+        },
+        "vision": {
+          "last_nonzero": 22,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              15,
+              17
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 28
+        }
+      }
+    },
+    {
+      "file": "附件3_27.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 20,
+          "interior_zero_runs": [
+            [
+              2,
+              5
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              10,
+              11
+            ],
+            [
+              18,
+              19
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 30
+        },
+        "vision": {
+          "last_nonzero": 20,
+          "interior_zero_runs": [
+            [
+              2,
+              5
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              10,
+              11
+            ],
+            [
+              18,
+              19
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 30
+        }
+      }
+    },
+    {
+      "file": "附件3_28.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 34,
+          "interior_zero_runs": [
+            [
+              6,
+              8
+            ],
+            [
+              10,
+              13
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              26,
+              28
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              31,
+              32
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 16
+        },
+        "vision": {
+          "last_nonzero": 34,
+          "interior_zero_runs": [
+            [
+              6,
+              8
+            ],
+            [
+              10,
+              13
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              26,
+              28
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              31,
+              32
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 16
+        }
+      }
+    },
+    {
+      "file": "附件3_29.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 17,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              15,
+              16
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 33
+        },
+        "vision": {
+          "last_nonzero": 17,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              15,
+              16
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 33
+        }
+      }
+    },
+    {
+      "file": "附件3_30.pkl",
+      "version": "aligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              20,
+              24
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 25
+        },
+        "vision": {
+          "last_nonzero": 25,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              20,
+              24
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 25
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_01.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 49,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              38,
+              40
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 451
+        },
+        "vision": {
+          "last_nonzero": 37,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              29,
+              30
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 463
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_02.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 144,
+          "interior_zero_runs": [
+            [
+              9,
+              10
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              43,
+              44
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              54,
+              57
+            ],
+            [
+              60,
+              61
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              98,
+              99
+            ],
+            [
+              105,
+              106
+            ],
+            [
+              110,
+              112
+            ],
+            [
+              114,
+              115
+            ],
+            [
+              128,
+              129
+            ],
+            [
+              131,
+              132
+            ],
+            [
+              134,
+              135
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 356
+        },
+        "vision": {
+          "last_nonzero": 108,
+          "interior_zero_runs": [
+            [
+              28,
+              29
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              56,
+              57
+            ],
+            [
+              63,
+              65
+            ],
+            [
+              81,
+              82
+            ],
+            [
+              98,
+              99
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 392
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_03.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 195,
+          "interior_zero_runs": [
+            [
+              5,
+              7
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              32,
+              34
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              70,
+              72
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              81,
+              82
+            ],
+            [
+              88,
+              89
+            ],
+            [
+              98,
+              99
+            ],
+            [
+              100,
+              101
+            ],
+            [
+              105,
+              106
+            ],
+            [
+              111,
+              112
+            ],
+            [
+              114,
+              115
+            ],
+            [
+              120,
+              121
+            ],
+            [
+              139,
+              140
+            ],
+            [
+              143,
+              144
+            ],
+            [
+              155,
+              156
+            ],
+            [
+              164,
+              165
+            ],
+            [
+              172,
+              173
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 305
+        },
+        "vision": {
+          "last_nonzero": 147,
+          "interior_zero_runs": [
+            [
+              3,
+              50
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              78,
+              79
+            ],
+            [
+              81,
+              82
+            ],
+            [
+              90,
+              108
+            ],
+            [
+              127,
+              128
+            ],
+            [
+              135,
+              136
+            ],
+            [
+              137,
+              138
+            ],
+            [
+              140,
+              141
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 353
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_04.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 242,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              51,
+              52
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              83,
+              85
+            ],
+            [
+              91,
+              93
+            ],
+            [
+              108,
+              109
+            ],
+            [
+              112,
+              114
+            ],
+            [
+              127,
+              129
+            ],
+            [
+              132,
+              133
+            ],
+            [
+              151,
+              152
+            ],
+            [
+              158,
+              159
+            ],
+            [
+              161,
+              164
+            ],
+            [
+              178,
+              179
+            ],
+            [
+              187,
+              188
+            ],
+            [
+              190,
+              191
+            ],
+            [
+              198,
+              199
+            ],
+            [
+              201,
+              202
+            ],
+            [
+              203,
+              204
+            ],
+            [
+              210,
+              211
+            ],
+            [
+              216,
+              217
+            ],
+            [
+              218,
+              219
+            ],
+            [
+              221,
+              222
+            ],
+            [
+              235,
+              236
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 258
+        },
+        "vision": {
+          "last_nonzero": 182,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              65,
+              66
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              83,
+              84
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              110,
+              111
+            ],
+            [
+              116,
+              117
+            ],
+            [
+              119,
+              120
+            ],
+            [
+              147,
+              148
+            ],
+            [
+              149,
+              151
+            ],
+            [
+              168,
+              169
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 318
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_05.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 92,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              10,
+              11
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              50,
+              53
+            ],
+            [
+              69,
+              70
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 408
+        },
+        "vision": {
+          "last_nonzero": 69,
+          "interior_zero_runs": [
+            [
+              31,
+              33
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              67,
+              68
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 431
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_06.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 89,
+          "interior_zero_runs": [
+            [
+              46,
+              48
+            ],
+            [
+              58,
+              60
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              75,
+              76
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 411
+        },
+        "vision": {
+          "last_nonzero": 65,
+          "interior_zero_runs": [
+            [
+              18,
+              19
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              56,
+              58
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 435
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_07.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 180,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              27,
+              30
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              45,
+              47
+            ],
+            [
+              55,
+              56
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              117,
+              118
+            ],
+            [
+              139,
+              141
+            ],
+            [
+              163,
+              165
+            ],
+            [
+              169,
+              170
+            ],
+            [
+              171,
+              174
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 320
+        },
+        "vision": {
+          "last_nonzero": 136,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              94,
+              95
+            ],
+            [
+              101,
+              102
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              112,
+              113
+            ],
+            [
+              118,
+              119
+            ],
+            [
+              120,
+              121
+            ],
+            [
+              130,
+              131
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 364
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_08.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 92,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              9,
+              10
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              70,
+              71
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              82,
+              83
+            ],
+            [
+              90,
+              91
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 408
+        },
+        "vision": {
+          "last_nonzero": 69,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              54,
+              55
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              64,
+              66
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 431
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_09.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 94,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              54,
+              55
+            ],
+            [
+              70,
+              71
+            ],
+            [
+              91,
+              92
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 406
+        },
+        "vision": {
+          "last_nonzero": 68,
+          "interior_zero_runs": [
+            [
+              12,
+              13
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              48,
+              49
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              63,
+              64
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 432
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_10.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 57,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              11,
+              13
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              53,
+              54
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 443
+        },
+        "vision": {
+          "last_nonzero": 43,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              37,
+              38
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 457
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_11.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 68,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              27,
+              28
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              49,
+              52
+            ],
+            [
+              66,
+              67
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 432
+        },
+        "vision": {
+          "last_nonzero": 46,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              7,
+              9
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              22,
+              25
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              44,
+              45
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 454
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_12.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 104,
+          "interior_zero_runs": [
+            [
+              15,
+              16
+            ],
+            [
+              19,
+              20
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              54,
+              56
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              94,
+              96
+            ],
+            [
+              97,
+              99
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 396
+        },
+        "vision": {
+          "last_nonzero": 79,
+          "interior_zero_runs": [
+            [
+              8,
+              10
+            ],
+            [
+              16,
+              18
+            ],
+            [
+              19,
+              21
+            ],
+            [
+              24,
+              26
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              32,
+              34
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              49,
+              50
+            ],
+            [
+              53,
+              54
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              71,
+              72
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 421
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_13.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 136,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              49,
+              50
+            ],
+            [
+              60,
+              61
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              69,
+              70
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              96,
+              97
+            ],
+            [
+              98,
+              99
+            ],
+            [
+              105,
+              106
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              109,
+              110
+            ],
+            [
+              114,
+              115
+            ],
+            [
+              116,
+              117
+            ],
+            [
+              121,
+              122
+            ],
+            [
+              125,
+              126
+            ],
+            [
+              131,
+              132
+            ],
+            [
+              133,
+              135
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 364
+        },
+        "vision": {
+          "last_nonzero": 102,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              27,
+              28
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              35,
+              37
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              48,
+              49
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              54,
+              55
+            ],
+            [
+              56,
+              57
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              65,
+              66
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              77,
+              78
+            ],
+            [
+              97,
+              99
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 398
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_14.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 141,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              58,
+              59
+            ],
+            [
+              66,
+              68
+            ],
+            [
+              95,
+              96
+            ],
+            [
+              100,
+              101
+            ],
+            [
+              110,
+              111
+            ],
+            [
+              113,
+              114
+            ],
+            [
+              132,
+              136
+            ],
+            [
+              137,
+              138
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 359
+        },
+        "vision": {
+          "last_nonzero": 105,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              30,
+              32
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              47,
+              48
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              53,
+              54
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              82,
+              83
+            ],
+            [
+              89,
+              91
+            ],
+            [
+              99,
+              100
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 395
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_15.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 169,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              10,
+              12
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              44,
+              47
+            ],
+            [
+              54,
+              56
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              65,
+              67
+            ],
+            [
+              77,
+              78
+            ],
+            [
+              82,
+              83
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              100,
+              102
+            ],
+            [
+              115,
+              116
+            ],
+            [
+              132,
+              134
+            ],
+            [
+              140,
+              143
+            ],
+            [
+              146,
+              147
+            ],
+            [
+              149,
+              150
+            ],
+            [
+              167,
+              168
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 331
+        },
+        "vision": {
+          "last_nonzero": 102,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              11,
+              14
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              33,
+              35
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              51,
+              53
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              66,
+              67
+            ],
+            [
+              68,
+              69
+            ],
+            [
+              70,
+              71
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              94,
+              96
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 398
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_16.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 239,
+          "interior_zero_runs": [
+            [
+              7,
+              8
+            ],
+            [
+              11,
+              13
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              48,
+              49
+            ],
+            [
+              51,
+              54
+            ],
+            [
+              60,
+              62
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              84,
+              86
+            ],
+            [
+              91,
+              92
+            ],
+            [
+              93,
+              95
+            ],
+            [
+              96,
+              97
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              110,
+              111
+            ],
+            [
+              119,
+              121
+            ],
+            [
+              126,
+              127
+            ],
+            [
+              130,
+              131
+            ],
+            [
+              136,
+              137
+            ],
+            [
+              142,
+              143
+            ],
+            [
+              146,
+              147
+            ],
+            [
+              152,
+              153
+            ],
+            [
+              171,
+              172
+            ],
+            [
+              173,
+              174
+            ],
+            [
+              182,
+              183
+            ],
+            [
+              188,
+              190
+            ],
+            [
+              198,
+              199
+            ],
+            [
+              202,
+              203
+            ],
+            [
+              208,
+              209
+            ],
+            [
+              211,
+              212
+            ],
+            [
+              213,
+              215
+            ],
+            [
+              217,
+              218
+            ],
+            [
+              220,
+              221
+            ],
+            [
+              224,
+              225
+            ],
+            [
+              227,
+              228
+            ],
+            [
+              231,
+              232
+            ],
+            [
+              233,
+              234
+            ],
+            [
+              235,
+              237
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 261
+        },
+        "vision": {
+          "last_nonzero": 175,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              10
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              28,
+              30
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              37,
+              39
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              53,
+              55
+            ],
+            [
+              92,
+              95
+            ],
+            [
+              97,
+              99
+            ],
+            [
+              101,
+              102
+            ],
+            [
+              104,
+              105
+            ],
+            [
+              118,
+              119
+            ],
+            [
+              121,
+              122
+            ],
+            [
+              127,
+              128
+            ],
+            [
+              134,
+              135
+            ],
+            [
+              140,
+              141
+            ],
+            [
+              145,
+              146
+            ],
+            [
+              157,
+              158
+            ],
+            [
+              163,
+              164
+            ],
+            [
+              169,
+              170
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 325
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_17.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 199,
+          "interior_zero_runs": [
+            [
+              1,
+              2
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              51,
+              52
+            ],
+            [
+              54,
+              56
+            ],
+            [
+              58,
+              59
+            ],
+            [
+              64,
+              65
+            ],
+            [
+              69,
+              73
+            ],
+            [
+              76,
+              79
+            ],
+            [
+              80,
+              81
+            ],
+            [
+              85,
+              86
+            ],
+            [
+              87,
+              88
+            ],
+            [
+              90,
+              91
+            ],
+            [
+              96,
+              97
+            ],
+            [
+              102,
+              103
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              109,
+              110
+            ],
+            [
+              122,
+              123
+            ],
+            [
+              124,
+              125
+            ],
+            [
+              131,
+              132
+            ],
+            [
+              150,
+              151
+            ],
+            [
+              161,
+              162
+            ],
+            [
+              169,
+              171
+            ],
+            [
+              172,
+              173
+            ],
+            [
+              181,
+              182
+            ],
+            [
+              189,
+              190
+            ],
+            [
+              191,
+              193
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 301
+        },
+        "vision": {
+          "last_nonzero": 124,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              12,
+              14
+            ],
+            [
+              16,
+              18
+            ],
+            [
+              19,
+              20
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              34,
+              36
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              54,
+              55
+            ],
+            [
+              67,
+              69
+            ],
+            [
+              70,
+              71
+            ],
+            [
+              72,
+              73
+            ],
+            [
+              74,
+              75
+            ],
+            [
+              77,
+              79
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              88,
+              90
+            ],
+            [
+              91,
+              92
+            ],
+            [
+              101,
+              102
+            ],
+            [
+              107,
+              110
+            ],
+            [
+              112,
+              113
+            ],
+            [
+              114,
+              116
+            ],
+            [
+              121,
+              122
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 376
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_18.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 175,
+          "interior_zero_runs": [
+            [
+              1,
+              2
+            ],
+            [
+              4,
+              5
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              17,
+              19
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              49,
+              50
+            ],
+            [
+              72,
+              74
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              92,
+              93
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              114,
+              117
+            ],
+            [
+              121,
+              122
+            ],
+            [
+              127,
+              128
+            ],
+            [
+              130,
+              131
+            ],
+            [
+              141,
+              142
+            ],
+            [
+              148,
+              149
+            ],
+            [
+              152,
+              153
+            ],
+            [
+              159,
+              160
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 325
+        },
+        "vision": {
+          "last_nonzero": 110,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              25,
+              27
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              48,
+              50
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              85,
+              86
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              92,
+              93
+            ],
+            [
+              99,
+              100
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              108,
+              109
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 390
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_19.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 147,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              10,
+              12
+            ],
+            [
+              17,
+              19
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              56,
+              57
+            ],
+            [
+              60,
+              61
+            ],
+            [
+              66,
+              67
+            ],
+            [
+              74,
+              75
+            ],
+            [
+              77,
+              79
+            ],
+            [
+              83,
+              85
+            ],
+            [
+              88,
+              90
+            ],
+            [
+              97,
+              98
+            ],
+            [
+              99,
+              100
+            ],
+            [
+              109,
+              111
+            ],
+            [
+              120,
+              121
+            ],
+            [
+              122,
+              124
+            ],
+            [
+              126,
+              127
+            ],
+            [
+              129,
+              130
+            ],
+            [
+              133,
+              134
+            ],
+            [
+              135,
+              136
+            ],
+            [
+              139,
+              141
+            ],
+            [
+              144,
+              145
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 353
+        },
+        "vision": {
+          "last_nonzero": 111,
+          "interior_zero_runs": [
+            [
+              29,
+              30
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              51,
+              52
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              65,
+              66
+            ],
+            [
+              70,
+              73
+            ],
+            [
+              78,
+              79
+            ],
+            [
+              80,
+              81
+            ],
+            [
+              82,
+              83
+            ],
+            [
+              88,
+              89
+            ],
+            [
+              90,
+              91
+            ],
+            [
+              93,
+              95
+            ],
+            [
+              102,
+              103
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              109,
+              110
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 389
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_20.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 310,
+          "interior_zero_runs": [
+            [
+              1,
+              2
+            ],
+            [
+              7,
+              8
+            ],
+            [
+              9,
+              10
+            ],
+            [
+              11,
+              14
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              47,
+              48
+            ],
+            [
+              59,
+              62
+            ],
+            [
+              72,
+              73
+            ],
+            [
+              75,
+              76
+            ],
+            [
+              91,
+              92
+            ],
+            [
+              94,
+              95
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              117,
+              120
+            ],
+            [
+              124,
+              125
+            ],
+            [
+              127,
+              128
+            ],
+            [
+              131,
+              132
+            ],
+            [
+              134,
+              135
+            ],
+            [
+              143,
+              144
+            ],
+            [
+              145,
+              146
+            ],
+            [
+              151,
+              152
+            ],
+            [
+              153,
+              154
+            ],
+            [
+              159,
+              160
+            ],
+            [
+              166,
+              167
+            ],
+            [
+              168,
+              169
+            ],
+            [
+              173,
+              174
+            ],
+            [
+              176,
+              177
+            ],
+            [
+              181,
+              182
+            ],
+            [
+              186,
+              189
+            ],
+            [
+              203,
+              204
+            ],
+            [
+              206,
+              207
+            ],
+            [
+              208,
+              210
+            ],
+            [
+              211,
+              212
+            ],
+            [
+              213,
+              214
+            ],
+            [
+              215,
+              216
+            ],
+            [
+              220,
+              221
+            ],
+            [
+              222,
+              223
+            ],
+            [
+              224,
+              225
+            ],
+            [
+              229,
+              230
+            ],
+            [
+              231,
+              233
+            ],
+            [
+              247,
+              248
+            ],
+            [
+              249,
+              250
+            ],
+            [
+              260,
+              261
+            ],
+            [
+              268,
+              269
+            ],
+            [
+              271,
+              272
+            ],
+            [
+              276,
+              278
+            ],
+            [
+              279,
+              280
+            ],
+            [
+              284,
+              285
+            ],
+            [
+              287,
+              289
+            ],
+            [
+              298,
+              299
+            ],
+            [
+              307,
+              308
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 190
+        },
+        "vision": {
+          "last_nonzero": 233,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              27,
+              28
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              43,
+              51
+            ],
+            [
+              52,
+              56
+            ],
+            [
+              57,
+              58
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              70,
+              71
+            ],
+            [
+              72,
+              73
+            ],
+            [
+              74,
+              75
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              87,
+              90
+            ],
+            [
+              99,
+              100
+            ],
+            [
+              103,
+              104
+            ],
+            [
+              116,
+              117
+            ],
+            [
+              120,
+              121
+            ],
+            [
+              126,
+              127
+            ],
+            [
+              131,
+              132
+            ],
+            [
+              133,
+              134
+            ],
+            [
+              137,
+              138
+            ],
+            [
+              150,
+              151
+            ],
+            [
+              155,
+              156
+            ],
+            [
+              158,
+              159
+            ],
+            [
+              163,
+              164
+            ],
+            [
+              167,
+              168
+            ],
+            [
+              169,
+              170
+            ],
+            [
+              176,
+              177
+            ],
+            [
+              196,
+              197
+            ],
+            [
+              201,
+              203
+            ],
+            [
+              205,
+              206
+            ],
+            [
+              212,
+              215
+            ],
+            [
+              217,
+              218
+            ],
+            [
+              219,
+              220
+            ],
+            [
+              230,
+              231
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 267
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_21.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 67,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              13,
+              16
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              27,
+              28
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              41,
+              43
+            ],
+            [
+              45,
+              48
+            ],
+            [
+              49,
+              51
+            ],
+            [
+              57,
+              59
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              65,
+              66
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 433
+        },
+        "vision": {
+          "last_nonzero": 51,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              10
+            ],
+            [
+              13,
+              15
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              33,
+              37
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              42,
+              43
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 449
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_22.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 89,
+          "interior_zero_runs": [
+            [
+              5,
+              6
+            ],
+            [
+              19,
+              20
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              48,
+              49
+            ],
+            [
+              56,
+              58
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              67,
+              69
+            ],
+            [
+              72,
+              73
+            ],
+            [
+              75,
+              76
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              85,
+              86
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 411
+        },
+        "vision": {
+          "last_nonzero": 41,
+          "interior_zero_runs": [
+            [
+              1,
+              2
+            ],
+            [
+              4,
+              8
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              12,
+              15
+            ],
+            [
+              16,
+              24
+            ],
+            [
+              25,
+              27
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              30,
+              31
+            ],
+            [
+              36,
+              37
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 459
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_23.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 76,
+          "interior_zero_runs": [
+            [
+              2,
+              5
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              34,
+              38
+            ],
+            [
+              40,
+              41
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              51,
+              53
+            ],
+            [
+              65,
+              66
+            ],
+            [
+              68,
+              69
+            ],
+            [
+              72,
+              73
+            ],
+            [
+              74,
+              75
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 424
+        },
+        "vision": {
+          "last_nonzero": 58,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              9,
+              10
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              25,
+              26
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              36
+            ],
+            [
+              40,
+              42
+            ],
+            [
+              50,
+              53
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 442
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_24.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 63,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              11,
+              12
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              19,
+              20
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              49,
+              50
+            ],
+            [
+              61,
+              62
+            ]
+          ],
+          "prefix_zero": 1,
+          "suffix_zero": 437
+        },
+        "vision": {
+          "last_nonzero": 47,
+          "interior_zero_runs": [
+            [
+              3,
+              5
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              18,
+              20
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              41,
+              42
+            ],
+            [
+              43,
+              44
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 453
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_25.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 52,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              6,
+              8
+            ],
+            [
+              16,
+              18
+            ],
+            [
+              29,
+              31
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              38,
+              40
+            ],
+            [
+              42,
+              45
+            ],
+            [
+              46,
+              47
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 448
+        },
+        "vision": {
+          "last_nonzero": 40,
+          "interior_zero_runs": [
+            [
+              2,
+              4
+            ],
+            [
+              6,
+              8
+            ],
+            [
+              15,
+              17
+            ],
+            [
+              24,
+              26
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              35,
+              36
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 460
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_26.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 189,
+          "interior_zero_runs": [
+            [
+              2,
+              4
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              30,
+              32
+            ],
+            [
+              33,
+              34
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              48,
+              50
+            ],
+            [
+              53,
+              54
+            ],
+            [
+              65,
+              66
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              72,
+              75
+            ],
+            [
+              79,
+              84
+            ],
+            [
+              85,
+              86
+            ],
+            [
+              88,
+              89
+            ],
+            [
+              92,
+              93
+            ],
+            [
+              96,
+              99
+            ],
+            [
+              100,
+              101
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              110,
+              111
+            ],
+            [
+              112,
+              114
+            ],
+            [
+              116,
+              118
+            ],
+            [
+              123,
+              124
+            ],
+            [
+              126,
+              127
+            ],
+            [
+              128,
+              129
+            ],
+            [
+              134,
+              136
+            ],
+            [
+              137,
+              138
+            ],
+            [
+              139,
+              140
+            ],
+            [
+              146,
+              149
+            ],
+            [
+              150,
+              153
+            ],
+            [
+              161,
+              163
+            ],
+            [
+              166,
+              169
+            ],
+            [
+              170,
+              172
+            ],
+            [
+              174,
+              176
+            ],
+            [
+              178,
+              179
+            ],
+            [
+              180,
+              182
+            ],
+            [
+              183,
+              184
+            ],
+            [
+              185,
+              186
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 311
+        },
+        "vision": {
+          "last_nonzero": 141,
+          "interior_zero_runs": [
+            [
+              5,
+              7
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              10,
+              12
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              23,
+              25
+            ],
+            [
+              27,
+              32
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              38,
+              41
+            ],
+            [
+              43,
+              44
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              63,
+              64
+            ],
+            [
+              66,
+              67
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              75,
+              76
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              96,
+              97
+            ],
+            [
+              98,
+              99
+            ],
+            [
+              100,
+              101
+            ],
+            [
+              102,
+              103
+            ],
+            [
+              105,
+              106
+            ],
+            [
+              107,
+              108
+            ],
+            [
+              115,
+              119
+            ],
+            [
+              121,
+              122
+            ],
+            [
+              129,
+              131
+            ],
+            [
+              136,
+              137
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 359
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_27.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 182,
+          "interior_zero_runs": [
+            [
+              2,
+              5
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              15,
+              16
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              24,
+              26
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              36
+            ],
+            [
+              37,
+              39
+            ],
+            [
+              41,
+              44
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              56,
+              57
+            ],
+            [
+              61,
+              63
+            ],
+            [
+              66,
+              67
+            ],
+            [
+              71,
+              72
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              81,
+              82
+            ],
+            [
+              86,
+              87
+            ],
+            [
+              92,
+              94
+            ],
+            [
+              101,
+              103
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              109,
+              111
+            ],
+            [
+              114,
+              115
+            ],
+            [
+              116,
+              117
+            ],
+            [
+              126,
+              130
+            ],
+            [
+              134,
+              135
+            ],
+            [
+              141,
+              144
+            ],
+            [
+              147,
+              148
+            ],
+            [
+              149,
+              150
+            ],
+            [
+              151,
+              153
+            ],
+            [
+              155,
+              156
+            ],
+            [
+              166,
+              167
+            ],
+            [
+              173,
+              175
+            ],
+            [
+              176,
+              177
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 318
+        },
+        "vision": {
+          "last_nonzero": 136,
+          "interior_zero_runs": [
+            [
+              12,
+              13
+            ],
+            [
+              16,
+              18
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              29,
+              30
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              36
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              54,
+              55
+            ],
+            [
+              56,
+              57
+            ],
+            [
+              58,
+              59
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              69,
+              70
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              87,
+              88
+            ],
+            [
+              89,
+              90
+            ],
+            [
+              99,
+              101
+            ],
+            [
+              103,
+              105
+            ],
+            [
+              106,
+              107
+            ],
+            [
+              110,
+              111
+            ],
+            [
+              113,
+              114
+            ],
+            [
+              123,
+              125
+            ],
+            [
+              127,
+              128
+            ],
+            [
+              129,
+              130
+            ],
+            [
+              133,
+              134
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 364
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_28.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 175,
+          "interior_zero_runs": [
+            [
+              16,
+              17
+            ],
+            [
+              18,
+              19
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              23,
+              24
+            ],
+            [
+              26,
+              27
+            ],
+            [
+              28,
+              31
+            ],
+            [
+              32,
+              33
+            ],
+            [
+              34,
+              36
+            ],
+            [
+              37,
+              38
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              42,
+              43
+            ],
+            [
+              46,
+              47
+            ],
+            [
+              48,
+              49
+            ],
+            [
+              56,
+              58
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              71,
+              72
+            ],
+            [
+              73,
+              75
+            ],
+            [
+              81,
+              82
+            ],
+            [
+              84,
+              85
+            ],
+            [
+              86,
+              87
+            ],
+            [
+              95,
+              96
+            ],
+            [
+              98,
+              100
+            ],
+            [
+              103,
+              106
+            ],
+            [
+              108,
+              110
+            ],
+            [
+              115,
+              116
+            ],
+            [
+              119,
+              120
+            ],
+            [
+              121,
+              122
+            ],
+            [
+              124,
+              125
+            ],
+            [
+              128,
+              129
+            ],
+            [
+              130,
+              131
+            ],
+            [
+              132,
+              133
+            ],
+            [
+              135,
+              136
+            ],
+            [
+              137,
+              138
+            ],
+            [
+              144,
+              146
+            ],
+            [
+              152,
+              155
+            ],
+            [
+              160,
+              161
+            ],
+            [
+              162,
+              163
+            ],
+            [
+              165,
+              166
+            ],
+            [
+              169,
+              171
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 325
+        },
+        "vision": {
+          "last_nonzero": 132,
+          "interior_zero_runs": [
+            [
+              3,
+              4
+            ],
+            [
+              8,
+              9
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              17,
+              18
+            ],
+            [
+              23,
+              25
+            ],
+            [
+              27,
+              28
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              52,
+              53
+            ],
+            [
+              55,
+              58
+            ],
+            [
+              59,
+              61
+            ],
+            [
+              63,
+              65
+            ],
+            [
+              66,
+              68
+            ],
+            [
+              70,
+              72
+            ],
+            [
+              75,
+              76
+            ],
+            [
+              77,
+              78
+            ],
+            [
+              79,
+              80
+            ],
+            [
+              83,
+              85
+            ],
+            [
+              88,
+              89
+            ],
+            [
+              90,
+              92
+            ],
+            [
+              96,
+              97
+            ],
+            [
+              99,
+              100
+            ],
+            [
+              104,
+              105
+            ],
+            [
+              108,
+              109
+            ],
+            [
+              111,
+              112
+            ],
+            [
+              116,
+              119
+            ],
+            [
+              122,
+              123
+            ],
+            [
+              124,
+              125
+            ],
+            [
+              126,
+              127
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 368
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_29.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 90,
+          "interior_zero_runs": [
+            [
+              2,
+              3
+            ],
+            [
+              6,
+              7
+            ],
+            [
+              12,
+              13
+            ],
+            [
+              14,
+              15
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              21,
+              22
+            ],
+            [
+              32,
+              34
+            ],
+            [
+              36,
+              37
+            ],
+            [
+              38,
+              39
+            ],
+            [
+              42,
+              44
+            ],
+            [
+              45,
+              46
+            ],
+            [
+              51,
+              53
+            ],
+            [
+              55,
+              58
+            ],
+            [
+              59,
+              62
+            ],
+            [
+              69,
+              70
+            ],
+            [
+              71,
+              72
+            ],
+            [
+              73,
+              74
+            ],
+            [
+              75,
+              78
+            ],
+            [
+              79,
+              81
+            ],
+            [
+              85,
+              87
+            ],
+            [
+              88,
+              89
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 410
+        },
+        "vision": {
+          "last_nonzero": 68,
+          "interior_zero_runs": [
+            [
+              1,
+              2
+            ],
+            [
+              5,
+              6
+            ],
+            [
+              9,
+              14
+            ],
+            [
+              15,
+              17
+            ],
+            [
+              28,
+              29
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              39,
+              40
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              50,
+              51
+            ],
+            [
+              52,
+              53
+            ],
+            [
+              54,
+              56
+            ],
+            [
+              59,
+              60
+            ],
+            [
+              61,
+              62
+            ],
+            [
+              66,
+              67
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 432
+        }
+      }
+    },
+    {
+      "file": "附件3_未对齐版本_30.pkl",
+      "version": "unaligned",
+      "modality": {
+        "audio": {
+          "last_nonzero": 122,
+          "interior_zero_runs": [
+            [
+              4,
+              5
+            ],
+            [
+              8,
+              10
+            ],
+            [
+              16,
+              18
+            ],
+            [
+              20,
+              21
+            ],
+            [
+              22,
+              23
+            ],
+            [
+              24,
+              25
+            ],
+            [
+              27,
+              30
+            ],
+            [
+              31,
+              32
+            ],
+            [
+              34,
+              35
+            ],
+            [
+              49,
+              51
+            ],
+            [
+              52,
+              53
+            ],
+            [
+              55,
+              56
+            ],
+            [
+              62,
+              63
+            ],
+            [
+              67,
+              68
+            ],
+            [
+              69,
+              70
+            ],
+            [
+              71,
+              73
+            ],
+            [
+              74,
+              75
+            ],
+            [
+              76,
+              77
+            ],
+            [
+              82,
+              83
+            ],
+            [
+              87,
+              88
+            ],
+            [
+              95,
+              96
+            ],
+            [
+              103,
+              106
+            ],
+            [
+              111,
+              112
+            ],
+            [
+              113,
+              114
+            ],
+            [
+              116,
+              117
+            ],
+            [
+              120,
+              121
+            ]
+          ],
+          "prefix_zero": 0,
+          "suffix_zero": 378
+        },
+        "vision": {
+          "last_nonzero": 74,
+          "interior_zero_runs": [
+            [
+              6,
+              7
+            ],
+            [
+              13,
+              14
+            ],
+            [
+              16,
+              17
+            ],
+            [
+              21,
+              23
+            ],
+            [
+              27,
+              29
+            ],
+            [
+              35,
+              36
+            ],
+            [
+              37,
+              41
+            ],
+            [
+              44,
+              45
+            ],
+            [
+              48,
+              50
+            ],
+            [
+              52,
+              55
+            ],
+            [
+              60,
+              61
+            ],
+            [
+              66,
+              69
+            ],
+            [
+              70,
+              71
+            ]
+          ],
+          "prefix_zero": 2,
+          "suffix_zero": 426
+        }
+      }
+    }
+  ]
+}

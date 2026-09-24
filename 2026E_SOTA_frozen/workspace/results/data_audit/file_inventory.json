@@ -1,0 +1,2859 @@
+[
+  {
+    "path": ".gitkeep",
+    "filename": ".gitkeep",
+    "size_bytes": 1,
+    "format": ""
+  },
+  {
+    "path": "E题数据/.DS_Store",
+    "filename": ".DS_Store",
+    "size_bytes": 6148,
+    "format": ""
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/13.mp4",
+    "filename": "13.mp4",
+    "size_bytes": 1052449,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 261.0,
+    "duration_s": 8.7,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 1752558,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 424.0,
+    "duration_s": 14.133333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 2322206,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 578.0,
+    "duration_s": 19.266666666666666,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 1938491,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 486.0,
+    "duration_s": 16.2,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3nNcZdcdvU/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 336985,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 328.0,
+    "duration_s": 10.933333333333334,
+    "readable": true,
+    "frame_shape": [
+      240,
+      320,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 259577,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 152.0,
+    "duration_s": 5.066666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      486,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 813771,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 552.0,
+    "duration_s": 18.4,
+    "readable": true,
+    "frame_shape": [
+      360,
+      486,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-6rXp3zJ3kc/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 567350,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 497.0,
+    "duration_s": 16.566666666666666,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 965453,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 205.0,
+    "duration_s": 6.833333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/4.mp4",
+    "filename": "4.mp4",
+    "size_bytes": 1486121,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 277.0,
+    "duration_s": 9.233333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 1715052,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 323.0,
+    "duration_s": 10.766666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-a55Q6RWvTA/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 749365,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 678.0,
+    "duration_s": 22.6,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aNfi7CP8vM/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 430559,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 337.0,
+    "duration_s": 11.233333333333333,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aqamKhZ1Ec/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 2882018,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 329.0,
+    "duration_s": 10.966666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-AUZQgSxyPQ/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 4550251,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 818.0,
+    "duration_s": 27.266666666666666,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 771408,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 615.0,
+    "duration_s": 20.5,
+    "readable": true,
+    "frame_shape": [
+      240,
+      320,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 658423,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 589.0,
+    "duration_s": 19.633333333333333,
+    "readable": true,
+    "frame_shape": [
+      240,
+      320,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 675725,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 586.0,
+    "duration_s": 19.533333333333335,
+    "readable": true,
+    "frame_shape": [
+      240,
+      320,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 428971,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 388.0,
+    "duration_s": 12.933333333333334,
+    "readable": true,
+    "frame_shape": [
+      240,
+      320,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 658247,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 345.0,
+    "duration_s": 11.5,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/13.mp4",
+    "filename": "13.mp4",
+    "size_bytes": 394399,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 207.0,
+    "duration_s": 6.9,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/16.mp4",
+    "filename": "16.mp4",
+    "size_bytes": 391465,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 213.0,
+    "duration_s": 7.1,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/17.mp4",
+    "filename": "17.mp4",
+    "size_bytes": 774900,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 417.0,
+    "duration_s": 13.9,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/18.mp4",
+    "filename": "18.mp4",
+    "size_bytes": 737865,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 400.0,
+    "duration_s": 13.333333333333334,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/20.mp4",
+    "filename": "20.mp4",
+    "size_bytes": 823539,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 440.0,
+    "duration_s": 14.666666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/26.mp4",
+    "filename": "26.mp4",
+    "size_bytes": 688886,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 344.0,
+    "duration_s": 11.466666666666667,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 446118,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 241.0,
+    "duration_s": 8.033333333333333,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 581652,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 302.0,
+    "duration_s": 10.066666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HeZS2-Prhc/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 896960,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 474.0,
+    "duration_s": 15.8,
+    "readable": true,
+    "frame_shape": [
+      360,
+      360,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 1661111,
+    "format": ".mp4",
+    "fps": 23.976035631539084,
+    "frames": 274.0,
+    "duration_s": 11.428077777777778,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 1409433,
+    "format": ".mp4",
+    "fps": 23.976023976023978,
+    "frames": 220.0,
+    "duration_s": 9.175833333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 958873,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 244.0,
+    "duration_s": 8.133333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 1617346,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 343.0,
+    "duration_s": 11.433333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 978678,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 202.0,
+    "duration_s": 6.733333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 981914,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 343.0,
+    "duration_s": 11.433333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 487464,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 320.0,
+    "duration_s": 10.666666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 425914,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 276.0,
+    "duration_s": 9.2,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 988521,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 174.0,
+    "duration_s": 5.8058000000000005,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 1286164,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 223.0,
+    "duration_s": 7.440766666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 980176,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 172.0,
+    "duration_s": 5.739066666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 1166371,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 258.0,
+    "duration_s": 8.608600000000001,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 1084122,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 214.0,
+    "duration_s": 7.140466666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 333185,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 233.0,
+    "duration_s": 7.766666666666667,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 1088736,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 681.0,
+    "duration_s": 22.7,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 350827,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 279.0,
+    "duration_s": 9.3,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/13.mp4",
+    "filename": "13.mp4",
+    "size_bytes": 271826,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 221.0,
+    "duration_s": 7.366666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 632477,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 520.0,
+    "duration_s": 17.333333333333332,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 1040138,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 197.0,
+    "duration_s": 6.5732333333333335,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 1471617,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 203.0,
+    "duration_s": 6.773433333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 562692,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 79.0,
+    "duration_s": 2.6359666666666666,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 1578317,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 259.0,
+    "duration_s": 8.641966666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 1788453,
+    "format": ".mp4",
+    "fps": 29.97002997002997,
+    "frames": 298.0,
+    "duration_s": 9.943266666666666,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mqbVkbCndg/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 517424,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 194.0,
+    "duration_s": 6.466666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 1024510,
+    "format": ".mp4",
+    "fps": 25.0,
+    "frames": 227.0,
+    "duration_s": 9.08,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 1452918,
+    "format": ".mp4",
+    "fps": 25.0,
+    "frames": 242.0,
+    "duration_s": 9.68,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-qDkUB0GgYY/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 404331,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 290.0,
+    "duration_s": 9.666666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      360,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/11.mp4",
+    "filename": "11.mp4",
+    "size_bytes": 2061678,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 348.0,
+    "duration_s": 11.6,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 1138330,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 186.0,
+    "duration_s": 6.2,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 2256195,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 349.0,
+    "duration_s": 11.633333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 188321,
+    "format": ".mp4",
+    "fps": 23.97604418875992,
+    "frames": 79.0,
+    "duration_s": 3.2949555555555556,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 460082,
+    "format": ".mp4",
+    "fps": 23.976043214651384,
+    "frames": 166.0,
+    "duration_s": 6.923577777777778,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 550439,
+    "format": ".mp4",
+    "fps": 23.976046466253432,
+    "frames": 142.0,
+    "duration_s": 5.922577777777778,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 890272,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 204.0,
+    "duration_s": 6.8,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 1431603,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 324.0,
+    "duration_s": 10.8,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/4.mp4",
+    "filename": "4.mp4",
+    "size_bytes": 639360,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 183.0,
+    "duration_s": 6.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 1432255,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 404.0,
+    "duration_s": 13.466666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 839808,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 195.0,
+    "duration_s": 6.5,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 1601944,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 382.0,
+    "duration_s": 12.733333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/8.mp4",
+    "filename": "8.mp4",
+    "size_bytes": 781494,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 197.0,
+    "duration_s": 6.566666666666666,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 282834,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 240.0,
+    "duration_s": 8.0,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 648501,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 558.0,
+    "duration_s": 18.6,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tANM6ETl_M/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 1547930,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 271.0,
+    "duration_s": 9.033333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/12.mp4",
+    "filename": "12.mp4",
+    "size_bytes": 1262553,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 563.0,
+    "duration_s": 18.766666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 347917,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 139.0,
+    "duration_s": 4.633333333333334,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 801802,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 331.0,
+    "duration_s": 11.033333333333333,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/10.mp4",
+    "filename": "10.mp4",
+    "size_bytes": 512248,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 351.0,
+    "duration_s": 11.7,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/11.mp4",
+    "filename": "11.mp4",
+    "size_bytes": 361198,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 240.0,
+    "duration_s": 8.0,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/12.mp4",
+    "filename": "12.mp4",
+    "size_bytes": 831948,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 561.0,
+    "duration_s": 18.7,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/16.mp4",
+    "filename": "16.mp4",
+    "size_bytes": 550547,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 397.0,
+    "duration_s": 13.233333333333333,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/18.mp4",
+    "filename": "18.mp4",
+    "size_bytes": 625292,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 428.0,
+    "duration_s": 14.266666666666667,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/10.mp4",
+    "filename": "10.mp4",
+    "size_bytes": 486491,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 377.0,
+    "duration_s": 12.566666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4",
+    "filename": "4.mp4",
+    "size_bytes": 249701,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 186.0,
+    "duration_s": 6.2,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UUCSKoHeMA/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 286208,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 234.0,
+    "duration_s": 7.8,
+    "readable": true,
+    "frame_shape": [
+      360,
+      470,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 654518,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 109.0,
+    "duration_s": 3.6333333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 2032933,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 402.0,
+    "duration_s": 13.4,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 1424269,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 319.0,
+    "duration_s": 10.633333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 1662602,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 454.0,
+    "duration_s": 15.133333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-uywlfIYOS8/4.mp4",
+    "filename": "4.mp4",
+    "size_bytes": 557194,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 428.0,
+    "duration_s": 14.266666666666667,
+    "readable": true,
+    "frame_shape": [
+      270,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-vxjVxOeScU/4.mp4",
+    "filename": "4.mp4",
+    "size_bytes": 431202,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 351.0,
+    "duration_s": 11.7,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wMB_hJL-3o/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 264692,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 219.0,
+    "duration_s": 7.3,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/0.mp4",
+    "filename": "0.mp4",
+    "size_bytes": 458092,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 100.0,
+    "duration_s": 3.3333333333333335,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 1001717,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 273.0,
+    "duration_s": 9.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/2.mp4",
+    "filename": "2.mp4",
+    "size_bytes": 1365442,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 355.0,
+    "duration_s": 11.833333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/3.mp4",
+    "filename": "3.mp4",
+    "size_bytes": 1314050,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 334.0,
+    "duration_s": 11.133333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 1349104,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 296.0,
+    "duration_s": 9.866666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/7.mp4",
+    "filename": "7.mp4",
+    "size_bytes": 1016813,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 283.0,
+    "duration_s": 9.433333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/9.mp4",
+    "filename": "9.mp4",
+    "size_bytes": 1322886,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 293.0,
+    "duration_s": 9.766666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4",
+    "filename": "1.mp4",
+    "size_bytes": 5017520,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 1034.0,
+    "duration_s": 34.46666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/5.mp4",
+    "filename": "5.mp4",
+    "size_bytes": 1599984,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 408.0,
+    "duration_s": 13.6,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/6.mp4",
+    "filename": "6.mp4",
+    "size_bytes": 1779127,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 462.0,
+    "duration_s": 15.4,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/label-100.xlsx",
+    "filename": "label-100.xlsx",
+    "size_bytes": 19776,
+    "format": ".xlsx",
+    "sha256": "827334f782b1f242c84ad944a657bc7f7c63643f71ae9c977811a3eecdd3ab33",
+    "sample_count": 100,
+    "fields": [
+      "video_id",
+      "clip_id",
+      "text",
+      "label",
+      "annotation"
+    ]
+  },
+  {
+    "path": "E题数据/附件2-数据集特征文件/aligned_50.pkl",
+    "filename": "aligned_50.pkl",
+    "size_bytes": 993842861,
+    "format": ".pkl",
+    "sha256": "66e867aa74bc70a844e806e5571e371c9abb4a35f9e2887ce9b4d97ff2cb8fcd"
+  },
+  {
+    "path": "E题数据/附件2-数据集特征文件/label.xlsx",
+    "filename": "label.xlsx",
+    "size_bytes": 423826,
+    "format": ".xlsx",
+    "sha256": "0d6351ace01a2edee8861b21b2893c82d916d2a3e8b69d3b4f832ca841349875",
+    "sample_count": 4850,
+    "fields": [
+      "video_id",
+      "clip_id",
+      "text",
+      "label",
+      "annotation",
+      "mode"
+    ]
+  },
+  {
+    "path": "E题数据/附件2-数据集特征文件/unaligned_50.pkl",
+    "filename": "unaligned_50.pkl",
+    "size_bytes": 2897003035,
+    "format": ".pkl",
+    "sha256": "77eda14a06be9749a96c52ae45470c7cffcfa7219011eae391d231a0664c3762"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_01.pkl",
+    "filename": "附件3_01.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "b45b89a7eea55278abb130d44a6ee21128df5aa3239e68c968f9ac7743cfa0ea"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_02.pkl",
+    "filename": "附件3_02.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "6a628897c4b8c5e94e37f23bce680aad500fa8545414234f3564a58577c1023b"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_03.pkl",
+    "filename": "附件3_03.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "52bb6e11f4bba301e1bd90916dc9ad3a0d2d0885fec4598e3e737e2c4d100b6f"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_04.pkl",
+    "filename": "附件3_04.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "ee1f4781ee7b7bc37e71a13e4bc53eedc8327d96a69c246964d0e84a8aa99f72"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_05.pkl",
+    "filename": "附件3_05.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "9f8e5bae8488d8ee1576b1686864b7d8fc9970cfa720758fb040b9293b7e3619"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_06.pkl",
+    "filename": "附件3_06.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "9e973621f141b1af24fc3686ac329a10b66ba2b84d18c21918e86bf0429f790d"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_07.pkl",
+    "filename": "附件3_07.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "62dd394e23c80af2898e039d7eb6f47556d747887331fa2853dad72e13bb223b"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_08.pkl",
+    "filename": "附件3_08.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "e668faea97f9a338051c19ee66383df799b2e461d6d079df8c5f92b32bd6437e"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_09.pkl",
+    "filename": "附件3_09.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "ef57769eaa05f53a7d588948d565876356898658d9945202058ca763e53748b2"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_10.pkl",
+    "filename": "附件3_10.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "7c87d84d69e0e68b9252c9839747558d07a91fd2d079a9a0850683d0d197241e"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_11.pkl",
+    "filename": "附件3_11.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "10e9d5443cecf2de9170deaa56995de0cf9c52580a74cd334de8fea0e4a735f2"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_12.pkl",
+    "filename": "附件3_12.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "d0342f4931a05e40fb0a3220010f1ac801a2f06d123bc4d9a7dc5355794347ba"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_13.pkl",
+    "filename": "附件3_13.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "9e2144ab4385636b259d9e358c7e511be5242c89340f894473317b7757f218b7"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_14.pkl",
+    "filename": "附件3_14.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "f6d45e8fa882062f70fd48ee1f7584b0a75ea0ed1c85a9eb218684e954dc1b82"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_15.pkl",
+    "filename": "附件3_15.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "263b960d4d66b25a3db447fb7a16aee7b7d735e8bee3fe55c7869ad3103bf9d4"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_16.pkl",
+    "filename": "附件3_16.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "df8b4c881e3fc971d532988bbd161d8d9bf8c5d16c3e7a559bb7a4045e96547f"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_17.pkl",
+    "filename": "附件3_17.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "b6c64a55fb8050cb9fda15b0245df8f16b20d2a25d9368485dd1229e213fdba5"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_18.pkl",
+    "filename": "附件3_18.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "dc8eb37586b93bdd4debe895041275fdabb94c3392bde667b4e0ccdc6429fab1"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_19.pkl",
+    "filename": "附件3_19.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "d3a912bc3c70b60c1021babc521f28a6a34f9e916c164ad0191182e587c2385a"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_20.pkl",
+    "filename": "附件3_20.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "bf24c7189bba3904e911dd452266078d8ff15768438a9069e6596ff73a4b925e"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_21.pkl",
+    "filename": "附件3_21.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "c0605bd5757ff0c5dea345c96236ed7168ff976d37843572143efe11d6454600"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_22.pkl",
+    "filename": "附件3_22.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "6f9dc33f9d3e5680ee3a3b2b0c53b1bac51fb98f1d75375a2cb1224cd7bd4d43"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_23.pkl",
+    "filename": "附件3_23.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "5200bd05e2611777875eb1d88826bb56bb71dee4c708fec9d9f851222d243aae"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_24.pkl",
+    "filename": "附件3_24.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "76b1c126e2043f90afd5af00d51299bc8f5bf1bee8148f5ff904ccbeb931a5e5"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_25.pkl",
+    "filename": "附件3_25.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "88d52e2d0b0229ad6ec638e6e7463f6852f127ae9308fbee1cbc2405d8ebc4c8"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_26.pkl",
+    "filename": "附件3_26.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "e483daa1391987552f9ee7f21bffec918dd61267af36885a9ae3073813193234"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_27.pkl",
+    "filename": "附件3_27.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "27f16bbd4541196bb33f4caa36e038b2ff66fa72649f1b22f2328a5630de37ad"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_28.pkl",
+    "filename": "附件3_28.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "81def781fa8fa5aebb555631b59ce48ee71a10c9e4226f1a5b6d91a2078f8f32"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_29.pkl",
+    "filename": "附件3_29.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "8caf12e71117bd7334be12aba5af6322fb02a2397f8e2402e75391f4f9ef3686"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_30.pkl",
+    "filename": "附件3_30.pkl",
+    "size_bytes": 50942,
+    "format": ".pkl",
+    "sha256": "a6b272abb5d083804b6902054d4180d55d3c1d5822c483967e70e6a9657546d3"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_01.pkl",
+    "filename": "附件3_未对齐版本_01.pkl",
+    "size_bytes": 494719,
+    "format": ".pkl",
+    "sha256": "4a8cf3d22e80e29cbf042767fbd3b603b466e1f5e2adaaa2536e8a20df05778d"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_02.pkl",
+    "filename": "附件3_未对齐版本_02.pkl",
+    "size_bytes": 494811,
+    "format": ".pkl",
+    "sha256": "1c99664a44a42fffac167dfdaf21923d0acd402c210c3a8e61bea51bb3d0a9b6"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_03.pkl",
+    "filename": "附件3_未对齐版本_03.pkl",
+    "size_bytes": 494833,
+    "format": ".pkl",
+    "sha256": "463185831b192816b256b4feef74054632e697939fc51b39d7d1a16903b613d4"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_04.pkl",
+    "filename": "附件3_未对齐版本_04.pkl",
+    "size_bytes": 494845,
+    "format": ".pkl",
+    "sha256": "bcd6d1ddee46e9995806fa20132330f19c24472ae4150c561bb89ae1bcd2f235"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_05.pkl",
+    "filename": "附件3_未对齐版本_05.pkl",
+    "size_bytes": 494750,
+    "format": ".pkl",
+    "sha256": "509990f6bf3ad0a14092824273c2de31ad46e48950b2c028dcaabdf965e56f9e"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_06.pkl",
+    "filename": "附件3_未对齐版本_06.pkl",
+    "size_bytes": 494787,
+    "format": ".pkl",
+    "sha256": "90df7acd34f00150233fa56621bfc0f1adb61fe2a8deea9fa3715d9499d6e61f"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_07.pkl",
+    "filename": "附件3_未对齐版本_07.pkl",
+    "size_bytes": 494802,
+    "format": ".pkl",
+    "sha256": "775eac32a8fa8588e963640473f0d64d2c9753d034e0257adfa42959ffd23619"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_08.pkl",
+    "filename": "附件3_未对齐版本_08.pkl",
+    "size_bytes": 494757,
+    "format": ".pkl",
+    "sha256": "4d50aa2a374872732e5e53cc8d6c0ca2b16c95f142b78dc291ce4782036b0b25"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_09.pkl",
+    "filename": "附件3_未对齐版本_09.pkl",
+    "size_bytes": 494758,
+    "format": ".pkl",
+    "sha256": "868c890476dbb622e5bd8df2469f46ff5e6fb1c546a77d40f8acd45dab8315e8"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_10.pkl",
+    "filename": "附件3_未对齐版本_10.pkl",
+    "size_bytes": 494729,
+    "format": ".pkl",
+    "sha256": "585dcfdb4c3856538732dea7acc25600198308433e6ab4f26e97a2c939d081e6"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_11.pkl",
+    "filename": "附件3_未对齐版本_11.pkl",
+    "size_bytes": 494748,
+    "format": ".pkl",
+    "sha256": "ea43a1cb3d93841c2cfc063ffca804888fcd2341b59386ee26e4e05fceca665f"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_12.pkl",
+    "filename": "附件3_未对齐版本_12.pkl",
+    "size_bytes": 494780,
+    "format": ".pkl",
+    "sha256": "54db89460b17078acd4aa4683aa06982213deef1b94dfee3effe57f76980c1a9"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_13.pkl",
+    "filename": "附件3_未对齐版本_13.pkl",
+    "size_bytes": 494789,
+    "format": ".pkl",
+    "sha256": "f680fff053e4949dbef6e81739da54f961fa6b17642957cf8df536060c58e444"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_14.pkl",
+    "filename": "附件3_未对齐版本_14.pkl",
+    "size_bytes": 494811,
+    "format": ".pkl",
+    "sha256": "36c25a1251f1afce266098671a620a036c61148aa89e466c113f70ded1355f65"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_15.pkl",
+    "filename": "附件3_未对齐版本_15.pkl",
+    "size_bytes": 494837,
+    "format": ".pkl",
+    "sha256": "97cd1ac0320af870b6057c6ba0aaa1c4cae377f108bfed3b3b6764f38e0793d9"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_16.pkl",
+    "filename": "附件3_未对齐版本_16.pkl",
+    "size_bytes": 494851,
+    "format": ".pkl",
+    "sha256": "4861ab00b303cb7a89b7a50f1ba17a6e0125837c2d64ff8b7d0a366d31926c54"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_17.pkl",
+    "filename": "附件3_未对齐版本_17.pkl",
+    "size_bytes": 494798,
+    "format": ".pkl",
+    "sha256": "0285c121a125b95434ea319f1938286f92c66ee2ffe4bc9d46c2509b6fad1eee"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_18.pkl",
+    "filename": "附件3_未对齐版本_18.pkl",
+    "size_bytes": 494793,
+    "format": ".pkl",
+    "sha256": "f25009fd8965236a5c51f864a6c60a22b92a57c6e41712422e2d6f4a37af2543"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_19.pkl",
+    "filename": "附件3_未对齐版本_19.pkl",
+    "size_bytes": 494806,
+    "format": ".pkl",
+    "sha256": "a1ec22a528d865998b9c15817486efa5adb62a3162dbe20814aa1d3bb02b0452"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_20.pkl",
+    "filename": "附件3_未对齐版本_20.pkl",
+    "size_bytes": 494882,
+    "format": ".pkl",
+    "sha256": "470ba389947ff86e5e9c05072b9345858690a57cf498dd02dbc1db0f688ee8c0"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_21.pkl",
+    "filename": "附件3_未对齐版本_21.pkl",
+    "size_bytes": 494743,
+    "format": ".pkl",
+    "sha256": "ce761fc3f77857b265b4500ef98a5439dab3f45df265ee985b3db218b4730755"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_22.pkl",
+    "filename": "附件3_未对齐版本_22.pkl",
+    "size_bytes": 494772,
+    "format": ".pkl",
+    "sha256": "261cacc583d096a853cc9181768528f2e29a4b701f9f89653517e83dce08bc45"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_23.pkl",
+    "filename": "附件3_未对齐版本_23.pkl",
+    "size_bytes": 494757,
+    "format": ".pkl",
+    "sha256": "c1386ab902160eb55d1b8c0aa79e8690693daba7258a4f16b9b1963fffa7b1f2"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_24.pkl",
+    "filename": "附件3_未对齐版本_24.pkl",
+    "size_bytes": 494727,
+    "format": ".pkl",
+    "sha256": "a7f73ddd97e406440abf16336789fec83622884bf5bb1439c3da5c75a1ae9420"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_25.pkl",
+    "filename": "附件3_未对齐版本_25.pkl",
+    "size_bytes": 494731,
+    "format": ".pkl",
+    "sha256": "62d5b24ef181b5d46207b4c48b54452e0fd1e4f7ce6f64945c5ac93a813ba001"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_26.pkl",
+    "filename": "附件3_未对齐版本_26.pkl",
+    "size_bytes": 494800,
+    "format": ".pkl",
+    "sha256": "327c66c63b793e5cac0f652a77f63d6e144d0447867464108b861b441357be50"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_27.pkl",
+    "filename": "附件3_未对齐版本_27.pkl",
+    "size_bytes": 494829,
+    "format": ".pkl",
+    "sha256": "cba6f3e088380f2378bc35b989df054ac1aabbaca5c831037ce542f7e5f7a47b"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_28.pkl",
+    "filename": "附件3_未对齐版本_28.pkl",
+    "size_bytes": 494831,
+    "format": ".pkl",
+    "sha256": "a4697405668cb31a8493fb591553170d9c0338971b122f8ee5ee0268a4cab91c"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_29.pkl",
+    "filename": "附件3_未对齐版本_29.pkl",
+    "size_bytes": 494776,
+    "format": ".pkl",
+    "sha256": "86105acdca8927a1665c5480e9282306bcf8433fb4be069c7aa1ec5260f47574"
+  },
+  {
+    "path": "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_30.pkl",
+    "filename": "附件3_未对齐版本_30.pkl",
+    "size_bytes": 494807,
+    "format": ".pkl",
+    "sha256": "3a04ca9fffd401dc476968d4cfd6f1a2cbf86ae52887d339d25265acdf0d23d8"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/01.pkl",
+    "filename": "01.pkl",
+    "size_bytes": 199376,
+    "format": ".pkl",
+    "sha256": "5a08410ee779863238edcf349556a2f8e10490a70e02fc95001a64f6c8d17452"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/02.pkl",
+    "filename": "02.pkl",
+    "size_bytes": 199111,
+    "format": ".pkl",
+    "sha256": "88ed34a500bd7f11027ffc97205e23fdcde162b32bee9c447367b026b41608ac"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/03.pkl",
+    "filename": "03.pkl",
+    "size_bytes": 199400,
+    "format": ".pkl",
+    "sha256": "237a657ffb78b451b4e504ab8021e6072de404afd83d3b08be1560e98ca62860"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/04.pkl",
+    "filename": "04.pkl",
+    "size_bytes": 199256,
+    "format": ".pkl",
+    "sha256": "f7d7291b6ed0050ad3fd439bd3f85ce6fafb230a6399366a76e0b52f017bf4a7"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/05.pkl",
+    "filename": "05.pkl",
+    "size_bytes": 199067,
+    "format": ".pkl",
+    "sha256": "c6948e101e25656832290edf03daaf400b9a566e912775193d5f3ecdf9388eec"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/06.pkl",
+    "filename": "06.pkl",
+    "size_bytes": 199472,
+    "format": ".pkl",
+    "sha256": "8c432420054ac28bfcacbbee18d0e8397bc87fa0c7e8cbb11f525d6e366fdd57"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/07.pkl",
+    "filename": "07.pkl",
+    "size_bytes": 200148,
+    "format": ".pkl",
+    "sha256": "f16e44523bd82862435489552910ef3b801dd5b7501d67b84b83ee1496b0c5a0"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/08.pkl",
+    "filename": "08.pkl",
+    "size_bytes": 199075,
+    "format": ".pkl",
+    "sha256": "a1cccd885234d22478f30d0a3b253277e0567abaecc6ac683734b7e3dfc255c4"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/09.pkl",
+    "filename": "09.pkl",
+    "size_bytes": 199083,
+    "format": ".pkl",
+    "sha256": "f00ad50bdc14a4c9fe58fb4e421d6c8ee052d281d917766314f2846e48af8ff7"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/10.pkl",
+    "filename": "10.pkl",
+    "size_bytes": 199344,
+    "format": ".pkl",
+    "sha256": "693326817b8253fc907a3c1df1b05dd1f10c7bc756a86ce125bb903b01eaf571"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/11.pkl",
+    "filename": "11.pkl",
+    "size_bytes": 199067,
+    "format": ".pkl",
+    "sha256": "6e4c4b2fe76d6bbc56d1d21447ec9dff5309adb1227de8adab116ff703f42ffb"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/12.pkl",
+    "filename": "12.pkl",
+    "size_bytes": 199572,
+    "format": ".pkl",
+    "sha256": "5d003f471f20ac8d51553c3b217fc594075067a4c806fc07139839d681a97032"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/13.pkl",
+    "filename": "13.pkl",
+    "size_bytes": 199352,
+    "format": ".pkl",
+    "sha256": "e2d3d3c55bc52e7178e6e7f9b28e677018f14c76966d9ec5ac486d8fbbfd8281"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/14.pkl",
+    "filename": "14.pkl",
+    "size_bytes": 199456,
+    "format": ".pkl",
+    "sha256": "5a07719d0610e979be9cc58f4137c951259048fe6ab9918cafd9e27d62f0b5dd"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/15.pkl",
+    "filename": "15.pkl",
+    "size_bytes": 199296,
+    "format": ".pkl",
+    "sha256": "1fd8521f61b769038a991088f11a9693e0ad9f05ad92f9924d502cc147a7cd1f"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/16.pkl",
+    "filename": "16.pkl",
+    "size_bytes": 198987,
+    "format": ".pkl",
+    "sha256": "5528f121c021c3648f41e013e829c0a73870eafbbde73415147a074be81d722f"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/17.pkl",
+    "filename": "17.pkl",
+    "size_bytes": 199352,
+    "format": ".pkl",
+    "sha256": "7b841ea3fdea42ef7d0ba607d90ea61a86a44066eb4ee3d1a70e8180a7b47796"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/18.pkl",
+    "filename": "18.pkl",
+    "size_bytes": 199908,
+    "format": ".pkl",
+    "sha256": "1fc0a00c832183dceeae626937716da6c4c096f621a7706c9268b76dedfa7f06"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/19.pkl",
+    "filename": "19.pkl",
+    "size_bytes": 199652,
+    "format": ".pkl",
+    "sha256": "ef099682c44a9e6ba5135a74d4babf12a91ba5ee2895b32d191679244dd1c221"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/20.pkl",
+    "filename": "20.pkl",
+    "size_bytes": 199516,
+    "format": ".pkl",
+    "sha256": "c9aed197e075fa99518e71cbb2ed17406178d9237d40c785409eacf1fa7f1a68"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/01.mp4",
+    "filename": "01.mp4",
+    "size_bytes": 824021,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 270.0,
+    "duration_s": 9.0,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/02.mp4",
+    "filename": "02.mp4",
+    "size_bytes": 142336,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 108.0,
+    "duration_s": 3.6,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/03.mp4",
+    "filename": "03.mp4",
+    "size_bytes": 2973584,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 480.0,
+    "duration_s": 16.0,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/04.mp4",
+    "filename": "04.mp4",
+    "size_bytes": 1200845,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 277.0,
+    "duration_s": 9.233333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/05.mp4",
+    "filename": "05.mp4",
+    "size_bytes": 836064,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 183.0,
+    "duration_s": 6.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/06.mp4",
+    "filename": "06.mp4",
+    "size_bytes": 638126,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 292.0,
+    "duration_s": 9.733333333333333,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/07.mp4",
+    "filename": "07.mp4",
+    "size_bytes": 3559307,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 723.0,
+    "duration_s": 24.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/08.mp4",
+    "filename": "08.mp4",
+    "size_bytes": 1026677,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 239.0,
+    "duration_s": 7.966666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/09.mp4",
+    "filename": "09.mp4",
+    "size_bytes": 741504,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 339.0,
+    "duration_s": 11.3,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/10.mp4",
+    "filename": "10.mp4",
+    "size_bytes": 783573,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 325.0,
+    "duration_s": 10.833333333333334,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/11.mp4",
+    "filename": "11.mp4",
+    "size_bytes": 672655,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 342.0,
+    "duration_s": 11.4,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/12.mp4",
+    "filename": "12.mp4",
+    "size_bytes": 2233107,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 609.0,
+    "duration_s": 20.3,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/13.mp4",
+    "filename": "13.mp4",
+    "size_bytes": 262575,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 260.0,
+    "duration_s": 8.666666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/14.mp4",
+    "filename": "14.mp4",
+    "size_bytes": 2257001,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 415.0,
+    "duration_s": 13.833333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/15.mp4",
+    "filename": "15.mp4",
+    "size_bytes": 705745,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 220.0,
+    "duration_s": 7.333333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/16.mp4",
+    "filename": "16.mp4",
+    "size_bytes": 226884,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 167.0,
+    "duration_s": 5.566666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/17.mp4",
+    "filename": "17.mp4",
+    "size_bytes": 1951911,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 419.0,
+    "duration_s": 13.966666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/18.mp4",
+    "filename": "18.mp4",
+    "size_bytes": 2262931,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 686.0,
+    "duration_s": 22.866666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/19.mp4",
+    "filename": "19.mp4",
+    "size_bytes": 1091162,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 561.0,
+    "duration_s": 18.7,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/20.mp4",
+    "filename": "20.mp4",
+    "size_bytes": 971427,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 561.0,
+    "duration_s": 18.7,
+    "readable": true,
+    "frame_shape": [
+      360,
+      360,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/01.pkl",
+    "filename": "01.pkl",
+    "size_bytes": 591833,
+    "format": ".pkl",
+    "sha256": "70e55e2709905d7ea9becf70d8dd91d83688e5902b6c5e601aa6d16e703e4659"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/02.pkl",
+    "filename": "02.pkl",
+    "size_bytes": 591568,
+    "format": ".pkl",
+    "sha256": "17e1a7c74f20dd25ca240b289add7a3b632ff2d6fb73d71eb1e1c6006b1f3cb9"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/03.pkl",
+    "filename": "03.pkl",
+    "size_bytes": 591857,
+    "format": ".pkl",
+    "sha256": "0d959289f51abebc34cb911895d7da4c70bb032d2fe281906b8f27ef6411cd8b"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/04.pkl",
+    "filename": "04.pkl",
+    "size_bytes": 591713,
+    "format": ".pkl",
+    "sha256": "f05343ac26cc037a6023a8e00ca1ffa7d5578db9bac6f2dad2e97bebf2ee188c"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/05.pkl",
+    "filename": "05.pkl",
+    "size_bytes": 591524,
+    "format": ".pkl",
+    "sha256": "cf0cd1b562e4516a25a04c23953f9baecaa0f42ce4044aa4eb9b1aba221e70a9"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/06.pkl",
+    "filename": "06.pkl",
+    "size_bytes": 591929,
+    "format": ".pkl",
+    "sha256": "3a5e9de011531ec38d60430053a221bfde7e05b253cbbf414b6ec08c42b9eee4"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/07.pkl",
+    "filename": "07.pkl",
+    "size_bytes": 592607,
+    "format": ".pkl",
+    "sha256": "b6f9a61599a16d0dee901ec277cdb32bde3ab50a223b15823fd0368b61f32314"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/08.pkl",
+    "filename": "08.pkl",
+    "size_bytes": 591532,
+    "format": ".pkl",
+    "sha256": "842aa20b0b30bd8cdef2d1f2e3c458abf01caaacb416b23a4dc8b7129ca660f3"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/09.pkl",
+    "filename": "09.pkl",
+    "size_bytes": 591540,
+    "format": ".pkl",
+    "sha256": "f42d91d2c1b8e6cad707eccd029c57eb1cb9e9300544ad1ba10bf0a96627ce65"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/10.pkl",
+    "filename": "10.pkl",
+    "size_bytes": 591801,
+    "format": ".pkl",
+    "sha256": "b12cb66e785c60faaa92d91be71bcae87dd4c0282bdd7e53241a7bb3e7413aa9"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/11.pkl",
+    "filename": "11.pkl",
+    "size_bytes": 591524,
+    "format": ".pkl",
+    "sha256": "64b0b19f12977bb24684cbb874d88e3dde71ad7f93821f8a382d05d3047c3005"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/12.pkl",
+    "filename": "12.pkl",
+    "size_bytes": 592030,
+    "format": ".pkl",
+    "sha256": "fd7cb86a2952ef384b0f1ce0dc58391332379e1d065d48100735b40ce991a624"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/13.pkl",
+    "filename": "13.pkl",
+    "size_bytes": 591809,
+    "format": ".pkl",
+    "sha256": "4d8b77cdc24eecaa5104f19eaff60bad12fbf1886f40f1d95491decc9b31f7e0"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/14.pkl",
+    "filename": "14.pkl",
+    "size_bytes": 591913,
+    "format": ".pkl",
+    "sha256": "17b0576012b71cdbebddfd38375e19f21fbe8e1eefa4813ac945196c734c9f55"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/15.pkl",
+    "filename": "15.pkl",
+    "size_bytes": 591753,
+    "format": ".pkl",
+    "sha256": "e12cb1d0b69558c7f81eecb2063769b872e58718051c7ea6b2761c066763f594"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/16.pkl",
+    "filename": "16.pkl",
+    "size_bytes": 591444,
+    "format": ".pkl",
+    "sha256": "359fae06a5df658729772eda07de43a12627a53574df95164942eb5f7a594153"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/17.pkl",
+    "filename": "17.pkl",
+    "size_bytes": 591809,
+    "format": ".pkl",
+    "sha256": "5d52d13cec0e716c6dab949e3296607d6f32bf320cb4029fde1d2b532101a41c"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/18.pkl",
+    "filename": "18.pkl",
+    "size_bytes": 592367,
+    "format": ".pkl",
+    "sha256": "7991357145a879fa8d85a028f043a6835243b24a6454bf5ec89c485cbc6335cf"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/19.pkl",
+    "filename": "19.pkl",
+    "size_bytes": 592110,
+    "format": ".pkl",
+    "sha256": "14041c0d6b2d351cd900603044f617d549e25821fa04b3f57d62c4a4e52fad4e"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/20.pkl",
+    "filename": "20.pkl",
+    "size_bytes": 591973,
+    "format": ".pkl",
+    "sha256": "2ed97e598f321dc82392e6b3d85963c629cea4ea8bc166705b697a7694ff7f44"
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/01.mp4",
+    "filename": "01.mp4",
+    "size_bytes": 824021,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 270.0,
+    "duration_s": 9.0,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/02.mp4",
+    "filename": "02.mp4",
+    "size_bytes": 142336,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 108.0,
+    "duration_s": 3.6,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/03.mp4",
+    "filename": "03.mp4",
+    "size_bytes": 2973584,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 480.0,
+    "duration_s": 16.0,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/04.mp4",
+    "filename": "04.mp4",
+    "size_bytes": 1200845,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 277.0,
+    "duration_s": 9.233333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/05.mp4",
+    "filename": "05.mp4",
+    "size_bytes": 836064,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 183.0,
+    "duration_s": 6.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/06.mp4",
+    "filename": "06.mp4",
+    "size_bytes": 638126,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 292.0,
+    "duration_s": 9.733333333333333,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/07.mp4",
+    "filename": "07.mp4",
+    "size_bytes": 3559307,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 723.0,
+    "duration_s": 24.1,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/08.mp4",
+    "filename": "08.mp4",
+    "size_bytes": 1026677,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 239.0,
+    "duration_s": 7.966666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/09.mp4",
+    "filename": "09.mp4",
+    "size_bytes": 741504,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 339.0,
+    "duration_s": 11.3,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/10.mp4",
+    "filename": "10.mp4",
+    "size_bytes": 783573,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 325.0,
+    "duration_s": 10.833333333333334,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/11.mp4",
+    "filename": "11.mp4",
+    "size_bytes": 672655,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 342.0,
+    "duration_s": 11.4,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/12.mp4",
+    "filename": "12.mp4",
+    "size_bytes": 2233107,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 609.0,
+    "duration_s": 20.3,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/13.mp4",
+    "filename": "13.mp4",
+    "size_bytes": 262575,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 260.0,
+    "duration_s": 8.666666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      640,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/14.mp4",
+    "filename": "14.mp4",
+    "size_bytes": 2257001,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 415.0,
+    "duration_s": 13.833333333333334,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/15.mp4",
+    "filename": "15.mp4",
+    "size_bytes": 705745,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 220.0,
+    "duration_s": 7.333333333333333,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/16.mp4",
+    "filename": "16.mp4",
+    "size_bytes": 226884,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 167.0,
+    "duration_s": 5.566666666666666,
+    "readable": true,
+    "frame_shape": [
+      360,
+      480,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/17.mp4",
+    "filename": "17.mp4",
+    "size_bytes": 1951911,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 419.0,
+    "duration_s": 13.966666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/18.mp4",
+    "filename": "18.mp4",
+    "size_bytes": 2262931,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 686.0,
+    "duration_s": 22.866666666666667,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/19.mp4",
+    "filename": "19.mp4",
+    "size_bytes": 1091162,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 561.0,
+    "duration_s": 18.7,
+    "readable": true,
+    "frame_shape": [
+      720,
+      1280,
+      3
+    ]
+  },
+  {
+    "path": "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/20.mp4",
+    "filename": "20.mp4",
+    "size_bytes": 971427,
+    "format": ".mp4",
+    "fps": 30.0,
+    "frames": 561.0,
+    "duration_s": 18.7,
+    "readable": true,
+    "frame_shape": [
+      360,
+      360,
+      3
+    ]
+  }
+]

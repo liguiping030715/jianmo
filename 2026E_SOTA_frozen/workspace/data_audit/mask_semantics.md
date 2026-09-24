@@ -1,0 +1,18 @@
+# Valid, observed and reliability states — critical gate
+
+Evidence: direct Attachment 2/3/4 unpickling; reproducible counts in `workspace/results/data_audit/zero_statistics.json` and `deep_checks.json`. `P` is a valid coordinate, `O` is genuinely observed input, `R` is quality/reliability. No quality scores are supplied, so `R` is **unknown**, never inferred from feature magnitude.
+
+## Attachment 2
+
+- **Text:** `text_bert[:,1,:]` is a binary attention mask with strict suffix padding in all 4,850 samples; mean valid tokens 24.65 train, 25.59 valid, 25.18 test, range 3–50. The precomputed `text` array has no all-zero rows, including masked token positions. Thus its numerical zeros do **not** define `P`.
+- **Aligned audio/vision:** no length fields. Audio has an all-zero first vector in every sample and a zero suffix; no interior all-zero runs in any split. The last nonzero audio position is consistently one less than text attention-mask length. Vision shares general aligned positions but can be all zero (110 train, 15 valid, 28 test) and has interior all-zero runs (210 train, 68 valid, 56 test). Hence `vision == 0` can indicate a native failure/absence; it is not proof of synthetic missingness.
+- **Unaligned audio:** `audio_lengths` exactly equals nonzero prefix length in all splits; no zero vector inside that prefix. Padding is right-side exact zero.
+- **Unaligned vision:** `vision_lengths` **does not reliably mark the last observed position**: 618 train, 141 valid, 131 test samples have nonzero features beyond the stated length; 30 train and 8 test have length beyond the last nonzero position. In 30 train and 8 test samples vision is entirely zero. Right-side zero padding exists, but a strict `index < vision_lengths` valid mask would discard observed vectors.
+
+## Attachment 3 and the missingness limit
+
+Thirty aligned and thirty unaligned one-sample PKLs contain no explicit observed mask, valid lengths, or ID. Exact all-zero vectors occur in audio and vision; they also occur in complete Attachment 2/4. Within the last-nonzero envelope, aligned special audio has 83 interior zero runs across 27/30 samples (versus zero in Attachment 2 audio); aligned vision also has 83. Unaligned special audio has 602 short interior runs across all 30 and vision 424. Most intervals are length 1–3 positions, and multiple runs occur in a sample. Aligned audio and vision zero masks coincide in 29/30 files. These are strong evidence of altered observation patterns, **not a complete ground-truth gap annotation**. Prefix and terminal gaps cannot always be distinguished from padding, and unaligned vision length semantics already fail on complete samples. Exact modality/type/location/duration/ratio cannot therefore be certified for every special sample.
+
+Aligned Attachment 3 text is `text_bert` with token IDs, attention and segment rows; token ID 0 is suffix padding, and token ID 100 can be the tokenizer's unknown token, not a zero gap. Unaligned Attachment 3 provides `raw_text` only. Neither special version contains the precomputed `text` array used in Attachment 2. `text_bert` is float32 in aligned special files versus int64 in Attachment 2, requiring validated integer casting before any token encoder. No text missing mask is supplied.
+
+**Gate:** `P` for text and unaligned audio is supported; aligned positions have partial structural rules. `O` for Attachment 3 internal audio gaps is detectable as a *candidate* by zero runs, but complete separation of padding, native vision absence and injected missingness is unresolved. `R` remains unknown. This is a Stage 2 blocker, not permission to mark every zero as missing.

@@ -1,0 +1,18 @@
+{
+  "E0_clean_guards": {
+    "d_f1_ge-0.015": false,
+    "d_mae_le+0.025": true
+  },
+  "mean_d_f1": -0.036262373019564274,
+  "mean_d_mae": -0.01318426595306991,
+  "gap_overall_f1_gain": -0.03314526196262468,
+  "gap_overall_mae_red": 0.009792868282978545,
+  "ABCD_by_seed": {
+    "1729": "D",
+    "2718": "B",
+    "31415": "A"
+  },
+  "B_seeds": 1,
+  "C_seeds": 0,
+  "verdict": "E0_REJECTED"
+}

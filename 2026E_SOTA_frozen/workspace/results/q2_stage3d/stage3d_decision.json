@@ -1,0 +1,106 @@
+{
+  "status": "Q2_E1_MECHANISM_FAILED",
+  "plan_sha256": "4fb1c2f71f8d98661c7adf04e09f8832eb79bd8b5e7c67b11eb54520baa5d932",
+  "calibration_sha256": "6d6b2436af9c4ad39e7761400302f5a9d7234a1b7d3171c934b4201780e18c82",
+  "seed1729": {
+    "clean_macro_f1_change_vs_R1": -0.12456652514067151,
+    "clean_mae_change_vs_R1": 0.01868151091672432,
+    "scenario_rows": [
+      {
+        "scenario": "S1",
+        "n_eligible": 728,
+        "gap_f1_gain": -0.13640001958671705,
+        "gap_mae_reduction": -0.0254056753565437,
+        "f1_degradation_reduction": -0.011833494446045534,
+        "mae_degradation_reduction": -0.00672416443981938
+      },
+      {
+        "scenario": "S2",
+        "n_eligible": 724,
+        "gap_f1_gain": -0.12709927752069156,
+        "gap_mae_reduction": -0.01899176966225291,
+        "f1_degradation_reduction": -0.002583732360475488,
+        "mae_degradation_reduction": -0.0008865742466942494
+      },
+      {
+        "scenario": "S3",
+        "n_eligible": 700,
+        "gap_f1_gain": -0.12828952347644745,
+        "gap_mae_reduction": -0.017565546290383538,
+        "f1_degradation_reduction": 0.00829217351995959,
+        "mae_degradation_reduction": 0.0006139471985600053
+      },
+      {
+        "scenario": "S4",
+        "n_eligible": 722,
+        "gap_f1_gain": -0.08318508695347837,
+        "gap_mae_reduction": -0.04629340228060941,
+        "f1_degradation_reduction": 0.04419026530474224,
+        "mae_degradation_reduction": -0.028808741282718042
+      },
+      {
+        "scenario": "S5",
+        "n_eligible": 703,
+        "gap_f1_gain": -0.13554689903616174,
+        "gap_mae_reduction": -0.04784189857533239,
+        "f1_degradation_reduction": -0.001155160901033514,
+        "mae_degradation_reduction": -0.02967087885465569
+      },
+      {
+        "scenario": "S6",
+        "n_eligible": 713,
+        "gap_f1_gain": -0.12389103156705483,
+        "gap_mae_reduction": -0.018753910799044426,
+        "f1_degradation_reduction": 0.008415550947026673,
+        "mae_degradation_reduction": -0.00014910638250076325
+      }
+    ],
+    "mean": {
+      "gap_f1_gain": -0.12240197302342516,
+      "gap_mae_reduction": -0.029142033827361063,
+      "f1_degradation_reduction": 0.00755426701069566,
+      "mae_degradation_reduction": -0.01093758633463802
+    },
+    "restoration_gain": 0.7399602795630194,
+    "representation_gain": -0.09227663789630047,
+    "mechanism_gate": false,
+    "noncatastrophic": false,
+    "clean_guard_f1": false,
+    "clean_guard_mae": true
+  },
+  "seeds_2718_31415": "NOT_RUN_PER_FROZEN_FIRST_SEED_STOP",
+  "artifacts_present": {
+    "full": {
+      "config.json": true,
+      "mask_manifest.jsonl": true,
+      "training_log.jsonl": true,
+      "metrics.json": true,
+      "predictions_valid.jsonl": true,
+      "failures.jsonl": true,
+      "environment_checksums.json": true,
+      "checkpoint.pt": true
+    },
+    "local_only": {
+      "config.json": true,
+      "mask_manifest.jsonl": true,
+      "training_log.jsonl": true,
+      "metrics.json": true,
+      "predictions_valid.jsonl": true,
+      "failures.jsonl": true,
+      "environment_checksums.json": true,
+      "checkpoint.pt": true
+    },
+    "consistency_only": {
+      "config.json": true,
+      "mask_manifest.jsonl": true,
+      "training_log.jsonl": true,
+      "metrics.json": true,
+      "predictions_valid.jsonl": true,
+      "failures.jsonl": true,
+      "environment_checksums.json": true,
+      "checkpoint.pt": true
+    }
+  },
+  "frozen_comparator_hashes_unchanged": true,
+  "special_test_access": false
+}

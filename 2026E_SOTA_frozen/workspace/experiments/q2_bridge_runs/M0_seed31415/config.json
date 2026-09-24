@@ -1,0 +1,37 @@
+{
+  "run_id": "M0_seed31415",
+  "level": "M0",
+  "seed": 31415,
+  "source": "cleaning_2026e_v2/unaligned train+valid",
+  "native_shapes": {
+    "text": [
+      50,
+      768
+    ],
+    "audio": [
+      500,
+      74
+    ],
+    "vision": [
+      500,
+      35
+    ]
+  },
+  "model": "text-query cross-attention to audio and vision",
+  "width": 48,
+  "heads": 2,
+  "cross_layers_per_direction": 1,
+  "feed_forward": 96,
+  "dropout": 0.1,
+  "adapter": false,
+  "batch": 32,
+  "epochs_cap": 12,
+  "patience": 3,
+  "optimizer": "AdamW",
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "lambda_reg": 2.0526115894317627,
+  "selection": "half clean plus half six-gap mean loss",
+  "mask_sha256": "1c7f479395cc8b1d0c87d48090158b7542619e63110063a603dc14278fae94df",
+  "plan_sha256": "8f3804102add69975d1f8c24e19099311f960ffde34af7f798a6ada03cdf30eb"
+}

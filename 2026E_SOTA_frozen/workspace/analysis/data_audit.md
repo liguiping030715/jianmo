@@ -1,0 +1,5 @@
+# Stage 2 audit provenance
+
+No raw file was changed during Stage 2. Read-only scripts `workspace/data_audit/run_audit.py`, `analyze_summary.py`, and `deep_checks.py` generated inventories, field summaries, mask/length checks, label and split checks, and media decode metadata. JSON/CSV outputs are under `workspace/results/data_audit/`; the only image is a frame-inspection contact sheet under `workspace/figures/data_audit/`. The requested Stage 2 reports are under `workspace/data_audit/`. NumPy compatibility aliases allowed the installed NumPy 1.24 to read official Attachment 4 pickles created with NumPy 2 module names; no values were modified. The `.xlsx` files were read as OOXML with the Python standard library because `openpyxl` was unavailable.
+
+Subsequent Stage 2.5 minimal preprocessing is documented separately in `workspace/evidence_recovery/cleaning_contract.md` and `workspace/data_audit/cleaning_report.md`; its derived arrays are under `workspace/data/processed/cleaning_2026e_v2/`.

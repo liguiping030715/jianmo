@@ -1,0 +1,110 @@
+{
+  "aligned": {
+    "train": {
+      "classification": {
+        "2.0": 1670,
+        "0.0": 967,
+        "1.0": 758
+      },
+      "regression": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 758,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "sign_cross": {
+        "2.0|1": 1670,
+        "0.0|-1": 967,
+        "1.0|0": 758
+      },
+      "neutral_exact": 758,
+      "unique_regression": 23
+    },
+    "valid": {
+      "classification": {
+        "2.0": 338,
+        "1.0": 184,
+        "0.0": 206
+      },
+      "regression": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 184,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "sign_cross": {
+        "2.0|1": 338,
+        "1.0|0": 184,
+        "0.0|-1": 206
+      },
+      "neutral_exact": 184,
+      "unique_regression": 22
+    }
+  },
+  "unaligned": {
+    "train": {
+      "classification": {
+        "2.0": 1670,
+        "0.0": 967,
+        "1.0": 758
+      },
+      "regression": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 758,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "sign_cross": {
+        "2.0|1": 1670,
+        "0.0|-1": 967,
+        "1.0|0": 758
+      },
+      "neutral_exact": 758,
+      "unique_regression": 23
+    },
+    "valid": {
+      "classification": {
+        "2.0": 338,
+        "1.0": 184,
+        "0.0": 206
+      },
+      "regression": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 184,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "sign_cross": {
+        "2.0|1": 338,
+        "1.0|0": 184,
+        "0.0|-1": 206
+      },
+      "neutral_exact": 184,
+      "unique_regression": 22
+    }
+  }
+}

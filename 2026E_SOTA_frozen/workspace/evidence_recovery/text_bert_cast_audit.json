@@ -1,0 +1,661 @@
+[
+  {
+    "file": "附件3_01.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 3340.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_02.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 19422.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_03.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 26114.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_04.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 18868.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_05.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 3427.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_06.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 27572.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_07.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 28428.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_08.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 17704.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_09.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 9650.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_10.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 4617.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_11.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 7840.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_12.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 7312.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_13.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 27612.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_14.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 21892.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_15.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 7705.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_16.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 26653.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_17.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 11360.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_18.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 14396.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_19.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 18704.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_20.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 100.0,
+    "id_max": 26114.0,
+    "mask_values": [
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_21.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 4553.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_22.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 4695.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_23.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 20338.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_24.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 2428.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_25.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 9994.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_26.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 3632.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_27.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 18402.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_28.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 25703.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_29.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 5544.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  },
+  {
+    "file": "附件3_30.pkl",
+    "shape": [
+      1,
+      3,
+      50
+    ],
+    "dtype": "float32",
+    "finite": true,
+    "all_integer": true,
+    "id_min": 0.0,
+    "id_max": 4357.0,
+    "mask_values": [
+      0.0,
+      1.0
+    ],
+    "segment_values": [
+      0.0
+    ],
+    "mask_suffix": true,
+    "int64_roundtrip": true
+  }
+]

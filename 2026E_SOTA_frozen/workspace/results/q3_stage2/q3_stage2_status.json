@@ -1,0 +1,27 @@
+{
+  "status": "Q3_STAGE2_ANALYSIS_COMPLETE",
+  "scope": "Inference-only analysis of frozen Q3 Stage 1 evidence. No model update, no A2 test / Attachment 3 / 4 access.",
+  "n_samples": 728,
+  "frozen_checkpoint_sha256": "6b1d31d2af92a5edb84ea133350db98eb5a7a5fcdbece2debd4887b978e26c56",
+  "figures": [
+    "q3_modality_contribution_boxplot.png",
+    "q3_dominant_modality.png",
+    "q3_faithfulness_top_random_bottom.png",
+    "q3_stability.png",
+    "q3_top_text_phrases.png"
+  ],
+  "key_findings": {
+    "text_is_dominant_modality": "text dominant in cls: 551/728 (75.7%), reg: 615/728 (84.5%)",
+    "text_donor_response_much_larger": "text mean Delta_cls=0.9226 vs audio=0.0300 vs vision=0.0517",
+    "faithfulness_all_pass": true,
+    "text_stability_lower_than_av": "text cls top1=0.643, audio cls top1=0.961",
+    "audio_vision_joint_less_than_text": "joint A+V mean Delta_cls=0.0815 < text=0.9226"
+  },
+  "limitations": [
+    "Donor responses are model intervention responses, not causal effects.",
+    "Text phrases are tokenizer reconstructions, not verified spoken timestamps.",
+    "Audio/vision use native indices only; seconds are unavailable.",
+    "Stability perturbation is a declared small masking/[UNK] intervention, not a comprehensive robustness test.",
+    "No attention-weight attribution or certified hidden missing mask is used."
+  ]
+}

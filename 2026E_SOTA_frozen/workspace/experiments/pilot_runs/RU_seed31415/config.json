@@ -1,0 +1,21 @@
+{
+  "run_id": "RU_seed31415",
+  "model_level": "RU",
+  "seed": 31415,
+  "lambda_cls": 1.0,
+  "lambda_reg": 2.0526115894317627,
+  "epochs_cap": 12,
+  "batch_size": 64,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "huber_delta": 1.0,
+  "condition": "clean_plus_one_gap_copy_native",
+  "source_version": "cleaning_2026e_v2/unaligned",
+  "interface": "unaligned_500",
+  "bert_frozen": true,
+  "unknown_policy": "retained_native",
+  "alignment_network": false,
+  "vision_truncated_from_lengths": false,
+  "mask_sha256": "1c7f479395cc8b1d0c87d48090158b7542619e63110063a603dc14278fae94df"
+}

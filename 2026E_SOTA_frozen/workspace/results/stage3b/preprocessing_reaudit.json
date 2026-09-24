@@ -1,0 +1,97 @@
+{
+  "status": "PREPROCESSING_REAUDIT_PASS",
+  "checks": [
+    {
+      "name": "A1_injected_orig_P1O1",
+      "passed": true,
+      "detail": {
+        "checked": 92869,
+        "bad": 0
+      }
+    },
+    {
+      "name": "A2_inject_P1O0_only_on_mask",
+      "passed": true,
+      "detail": {
+        "applied": 184,
+        "bad": 0
+      }
+    },
+    {
+      "name": "A3_native2_unchanged_outside_mask",
+      "passed": true,
+      "detail": {
+        "aligned_has_2": true,
+        "native2_checked": 10525,
+        "violations": 0
+      }
+    },
+    {
+      "name": "A3b_unaligned_native2_present",
+      "passed": true,
+      "detail": {
+        "native2_positions": 1627714
+      }
+    },
+    {
+      "name": "A4_R0a_R1_same_mask_manifest",
+      "passed": true,
+      "detail": {
+        "bytes": 4106578
+      }
+    },
+    {
+      "name": "A5_text_key_post_intervention",
+      "passed": true,
+      "detail": {
+        "distinct_post_keys": 2150
+      }
+    },
+    {
+      "name": "A6_no_clean_state_reuse",
+      "passed": true,
+      "detail": {
+        "row": 0,
+        "gap_idx": 1692
+      }
+    },
+    {
+      "name": "A7_scaler_data_identical",
+      "passed": true,
+      "detail": {
+        "v2_manifest_sha256": [
+          "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83",
+          "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83"
+        ],
+        "scaler_sha256": [
+          "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+          "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724"
+        ],
+        "bert_weights_sha256": [
+          "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+          "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a"
+        ],
+        "mask_sha256": [
+          "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+          "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb"
+        ]
+      }
+    },
+    {
+      "name": "A8_order_label_preserved",
+      "passed": true,
+      "detail": {
+        "conditions": [
+          "clean",
+          "S1",
+          "S2",
+          "S3",
+          "S4",
+          "S5",
+          "S6"
+        ]
+      }
+    }
+  ],
+  "note": "No re-clean performed. All 8 loader semantic assertions executed through the existing pilot_stage4 loader/gap code on train+valid."
+}

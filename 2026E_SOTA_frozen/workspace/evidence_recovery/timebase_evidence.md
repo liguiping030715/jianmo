@@ -1,0 +1,7 @@
+# Stage 2.5 MP4 timebase evidence
+
+Direct read-only inspection of each MP4 `moov/mvhd` timescale and duration field produced [`mp4_mvhd_durations.json`](mp4_mvhd_durations.json). All 140 files yielded a finite `mvhd` duration. Attachment 1: 100 files, minimum **2.648 s**, maximum **34.567 s** — exactly the range in the official statement. Attachment 4: 40 versioned files, **3.700–24.134 s**. **Correction after edit-list recovery:** `mvhd` is a container field, not necessarily the playable duration. See [media_timebase.md](media_timebase.md) for edit-list presentation durations and decoded PTS validation.
+
+Sequential OpenCV decoding returned fewer frames than the raw sample count in 90/100 Attachment 1 videos and 32/40 Attachment 4 videos; for three inspected clips, raw versus decoded counts were 261/163, 424/278 and 578/431. The subsequent edit-list probe established the cause of the count discrepancy: **decoded frames match the edit-presented sample count in all 140 files**. See [media_timebase.md](media_timebase.md). Feature-to-second mapping remains unresolved without the feature extractor's timing metadata.
+
+No word-level timestamps were supplied. `raw_text` and `text_bert` permit clip-level and token-index traceability, not exact phrase seconds. Do not linearly spread words or 50/500 feature positions across container duration and report the resulting times as measured evidence.

@@ -1,0 +1,23 @@
+# 2026E Stage 2.5 readiness reassessment
+
+**Decision: READY_WITH_LIMITATIONS.** This permits a *restricted, declared-interface pilot* after this Stage 2.5 review; it does not authorize Stage 3 work in this request, select a final feature version, or assert that the official hidden missing mask has been recovered. Only frozen `workspace/data/processed/cleaning_2026e_v2/` is valid. No further cleaning, imputation, interpolation, smoothing, outlier or sample deletion is supported by current evidence.
+
+## H1–H7 against the Stage 1.5 architecture
+
+| Hypothesis | Reassessment | Evidence and pilot boundary |
+|---|---|---|
+| H1 Source-linked temporal observation | **Supported at mixed resolution** | Official IDs/source files, token/feature indices, and now verified decoded MP4 frame/audio-packet timebase. Existing PKL feature rows and words lack a measured media-second map; retain null time and named uncertainty. A3 uses local file key, not invented ID. |
+| H2 Separate valid `P`, observed `O`, reliability `R` | **Supported as an explicit tri-state interface; exact official mask unresolved** | Frozen v2 preserves `0/1/2`; attention and verified audio lengths identify some padding, nonzero rows provide usable observation, zeros remain unknown. Aligned A3 text has 131 active ID-100 positions with `O=2` at runtime. `R` has no official field. The previous claim that a *fully resolved binary missing mask* was feasible remains falsified; the restricted tri-state pilot does not require it. |
+| H3 Local contiguous gap interpretation | **Plausible, unverified as a generator** | A3 has internal zero runs, but native zeros also exist in complete A2. `zero_context=3` remains diagnostic, never a label. Any later synthetic gap pilot must set its own known intervention mask from A2 train and validate only on valid; A3 cannot tune its distribution. |
+| H4 Aligned/unaligned choice remains open | **Both text paths resolved; aligned_50 supports the narrower pilot** | Pinned tokenizer and BERT encoder load and run. A2 tokens reproduce exactly, A4 exact, and A3 version-specific fields have executable paths. Aligned fixed length and tri-state unknown vision support a declared restricted interface. Unaligned vision validity remains highly ambiguous and `vision_lengths` cannot truncate it. No final architecture/version selected. |
+| H5 Source-linked Q3 explanation | **Supported at token/phrase and feature-index resolution** | A4 local IDs pair PKL/video; text offsets support phrases; video frame PTS and audio packet timestamps are verified. Existing feature-to-media time and exact word times are unknown. Explanation output requires resolution and mapping uncertainty, plus deletion/retention response. |
+| H6 Full-input teacher without leakage | **Split protocol supported, performance untested** | If later considered, fit/fine-tune on A2 train, select on valid, reserve A2 test and A3/A4 for final use. Generic pretrained BERT is a text encoder, not external sentiment training data. No teacher has been trained or selected. |
+| H7 Official validation split | **Supported** | A2 train/valid/test are 3,395/728/727 with previously verified no ID/source-video overlap. v2 scalers fit train only; labels unchanged. Q1 source clips must not augment A2 training. Mechanism and explanation faithfulness must be checked on valid before special-set inference. |
+
+## Pilot eligibility and explicit limits
+
+The aligned_50 interface meets the minimum pilot requirements: a common train/special text encoder, explicit safe `P/O` handling without zero→missing conversion, fixed feature semantics and train-fitted scaling, feature-index-level Q3 evidence, and a leakage-safe split. The unaligned text pathway is also executable, but unaligned visual length/zero semantics make it a more limited comparative path. A pilot does **not** require exact hidden missing masks, the A3 generator, or exact word timestamps.
+
+Outstanding limitations: A3 has no official observation mask or original ID; aligned A3 `[UNK]` positions are ambiguous; `R` must be estimated rather than read; unaligned visual boundary is unresolved; existing audio/vision features have no verified map to MP4 seconds; standalone `ffprobe` best-effort and decoded PCM audio timestamps were not available, although container audio packet PTS and FFmpeg-backed video decoded PTS were verified. These limitations constrain claims and output resolution, not the restricted pilot's input consistency.
+
+This reassessment **stops at Stage 2.5**. No Stage 3 candidate design, training, special-set prediction, or final architecture choice is performed here.

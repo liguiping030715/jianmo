@@ -1,0 +1,66 @@
+{
+  "id": "-dxfTGcXJoc$_$1",
+  "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4",
+  "label": "1.6666666269302368",
+  "annotation": "Positive",
+  "text": "For the 10th straight year, some of Kentucky’s best and most innovative biotech companies and technologies were on display at the annual BIO International Convention, which I and other state officials attended this week in Chicago.",
+  "verified_duration_s": 16.161003,
+  "old_manifest_duration_s": 19.7,
+  "nominal_fps": 30.0,
+  "n_video_frames_decoded": 482,
+  "orig_audio_sr": 44100,
+  "orig_audio_channels": 2,
+  "video_coverage_end": 16.133333333333336,
+  "audio_coverage_end": 16.018125,
+  "text_alignment": {
+    "status": "VERIFIED",
+    "n_words": 41,
+    "n_alignable": 37,
+    "n_resolved": 37,
+    "n_frames": 800
+  },
+  "audio_meta": {
+    "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+    "opensmile_python_version": "2.5.0",
+    "sample_rate": 16000,
+    "channels": 1,
+    "hop_s": 0.009999999999999787,
+    "window_s": 0.02,
+    "feature_dimensions": 25,
+    "feature_names": []
+  },
+  "visual_meta": {
+    "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+    "feature_dimensions": 1404,
+    "frames_processed": 482,
+    "frames_face_detected": 482,
+    "face_detection_coverage": 1.0,
+    "frame_width": 320,
+    "frame_height": 240
+  },
+  "bin_P_counts": {
+    "text": 47,
+    "audio": 50,
+    "vision": 50
+  },
+  "bin_O_counts": {
+    "text": 47,
+    "audio": 50,
+    "vision": 50
+  },
+  "finite_check": {
+    "text": true,
+    "audio": true,
+    "vision": true
+  },
+  "text_alignment_state": 1,
+  "text_content_present": true,
+  "text_content_representation": "text_word_feat plus text_utterance_feat",
+  "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+  "bin_P_unknown_counts": {
+    "text": 3
+  },
+  "bin_O_unknown_counts": {
+    "text": 3
+  }
+}

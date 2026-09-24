@@ -1,0 +1,89 @@
+{
+  "aligned": {
+    "train": {
+      "n": 3395,
+      "exact_all_three": 3395,
+      "mismatch_indices": []
+    },
+    "valid": {
+      "n": 728,
+      "exact_all_three": 728,
+      "mismatch_indices": []
+    },
+    "test": {
+      "n": 727,
+      "exact_all_three": 727,
+      "mismatch_indices": []
+    }
+  },
+  "unaligned": {
+    "train": {
+      "n": 3395,
+      "exact_all_three": 3395,
+      "mismatch_indices": []
+    },
+    "valid": {
+      "n": 728,
+      "exact_all_three": 728,
+      "mismatch_indices": []
+    },
+    "test": {
+      "n": 727,
+      "exact_all_three": 727,
+      "mismatch_indices": []
+    }
+  },
+  "attachment3_pair": {
+    "n": 30,
+    "exact_all_three": 3,
+    "mismatch_indices": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "row_order": [
+      "input_ids",
+      "attention_mask",
+      "token_type_ids"
+    ],
+    "attention_and_type_exact": 30,
+    "active_token_id_mismatch_rows": 27,
+    "active_token_id_mismatch_positions": 131,
+    "id_100_on_active_positions": 131,
+    "interpretation": "Aligned Attachment 3 differs from unaligned raw_text at active token IDs; retain supplied aligned tokens and mark ID 100 availability unresolved. Do not cross-version repair."
+  },
+  "attachment4_aligned": {
+    "n": 20,
+    "exact_all_three": 20,
+    "mismatch_indices": []
+  },
+  "attachment4_unaligned": {
+    "n": 20,
+    "exact_all_three": 20,
+    "mismatch_indices": []
+  }
+}

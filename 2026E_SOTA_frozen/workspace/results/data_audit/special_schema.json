@@ -1,0 +1,5396 @@
+{
+  "附件3": {
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_01.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 134,
+        "min": 0.0,
+        "max": 3340.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1540,
+        "min": -7.564650058746338,
+        "max": 1.8787599802017212
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3292,
+        "min": -8.658441543579102,
+        "max": 181.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_02.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 90,
+        "min": 0.0,
+        "max": 19422.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 945,
+        "min": -10.714099884033203,
+        "max": 16.45170021057129
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2159,
+        "min": -9.320782661437988,
+        "max": 282.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_03.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 82,
+        "min": 0.0,
+        "max": 26114.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 945,
+        "min": -18.39109992980957,
+        "max": 8.892419815063477
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1896,
+        "min": -23.909896850585938,
+        "max": 354.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_04.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 84,
+        "min": 0.0,
+        "max": 18868.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 735,
+        "min": -26.90880012512207,
+        "max": 8.706130027770996
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1794,
+        "min": -9.303241729736328,
+        "max": 236.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_05.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 122,
+        "min": 0.0,
+        "max": 3427.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1330,
+        "min": -3.4275999069213867,
+        "max": 14.526599884033203
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2956,
+        "min": -8.071998596191406,
+        "max": 325.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_06.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 96,
+        "min": 0.0,
+        "max": 27572.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 980,
+        "min": -4.594419956207275,
+        "max": 7.532670021057129
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2264,
+        "min": -9.707183837890625,
+        "max": 411.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_07.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 104,
+        "min": 0.0,
+        "max": 28428.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1120,
+        "min": -5.627490043640137,
+        "max": 5.061860084533691
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2524,
+        "min": -10.640353202819824,
+        "max": 294.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_08.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 116,
+        "min": 0.0,
+        "max": 17704.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1295,
+        "min": -13.448699951171875,
+        "max": 4.942739963531494
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2835,
+        "min": -8.934793472290039,
+        "max": 280.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_09.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 118,
+        "min": 0.0,
+        "max": 9650.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1330,
+        "min": -9.6599702835083,
+        "max": 14.019000053405762
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2889,
+        "min": -11.542604446411133,
+        "max": 296.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_10.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 134,
+        "min": 0.0,
+        "max": 4617.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1540,
+        "min": -9.869970321655273,
+        "max": 4.122990131378174
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3306,
+        "min": -8.428711891174316,
+        "max": 216.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_11.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 118,
+        "min": 0.0,
+        "max": 7840.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1400,
+        "min": -8.094579696655273,
+        "max": 5.019559860229492
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3051,
+        "min": -8.072840690612793,
+        "max": 414.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_12.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 120,
+        "min": 0.0,
+        "max": 7312.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1365,
+        "min": -10.972599983215332,
+        "max": 11.078399658203125
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2994,
+        "min": -19.504980087280273,
+        "max": 295.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_13.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 108,
+        "min": 0.0,
+        "max": 27612.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1155,
+        "min": -6.587800025939941,
+        "max": 11.3326997756958
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2618,
+        "min": -9.853248596191406,
+        "max": 492.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_14.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 100,
+        "min": 0.0,
+        "max": 21892.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1015,
+        "min": -5.52318000793457,
+        "max": 6.028140068054199
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2306,
+        "min": -15.67367935180664,
+        "max": 327.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_15.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 92,
+        "min": 0.0,
+        "max": 7705.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 910,
+        "min": -22.771299362182617,
+        "max": 4.716929912567139
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2134,
+        "min": -9.182467460632324,
+        "max": 350.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_16.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 78,
+        "min": 0.0,
+        "max": 26653.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 700,
+        "min": -14.250499725341797,
+        "max": 6.347320079803467
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1752,
+        "min": -9.545711517333984,
+        "max": 317.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_17.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 102,
+        "min": 0.0,
+        "max": 11360.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1260,
+        "min": -8.674989700317383,
+        "max": 6.738729953765869
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2778,
+        "min": -6.052651405334473,
+        "max": 314.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_18.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 112,
+        "min": 0.0,
+        "max": 14396.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1260,
+        "min": -17.09280014038086,
+        "max": 2.809309959411621
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2744,
+        "min": -15.249076843261719,
+        "max": 376.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_19.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 98,
+        "min": 0.0,
+        "max": 18704.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1155,
+        "min": -7.6844000816345215,
+        "max": 3.5129199028015137
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2592,
+        "min": -8.295221328735352,
+        "max": 462.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_20.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 50,
+        "min": 0.0,
+        "max": 26114.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 560,
+        "min": -6.367919921875,
+        "max": 9.639200210571289
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1388,
+        "min": -12.550454139709473,
+        "max": 242.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_21.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 128,
+        "min": 0.0,
+        "max": 4553.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1540,
+        "min": -2.8084800243377686,
+        "max": 8.15429973602295
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3307,
+        "min": -9.139824867248535,
+        "max": 190.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_22.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 112,
+        "min": 0.0,
+        "max": 4695.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1295,
+        "min": -14.46030044555664,
+        "max": 3.5754199028015137
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2840,
+        "min": -7.034547328948975,
+        "max": 260.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_23.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 120,
+        "min": 0.0,
+        "max": 20338.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1435,
+        "min": -25.39900016784668,
+        "max": 15.36460018157959
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3095,
+        "min": -8.577741622924805,
+        "max": 200.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_24.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 130,
+        "min": 0.0,
+        "max": 2428.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1540,
+        "min": -4.67756986618042,
+        "max": 11.451000213623047
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3306,
+        "min": -8.068368911743164,
+        "max": 295.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_25.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 128,
+        "min": 0.0,
+        "max": 9994.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1505,
+        "min": -6.4136199951171875,
+        "max": 8.080430030822754
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3243,
+        "min": -7.194633483886719,
+        "max": 278.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_26.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 102,
+        "min": 0.0,
+        "max": 3632.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1190,
+        "min": -7.5234599113464355,
+        "max": 8.535409927368164
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2647,
+        "min": -11.221335411071777,
+        "max": 365.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_27.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 104,
+        "min": 0.0,
+        "max": 18402.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1295,
+        "min": -4.4904398918151855,
+        "max": 3.042249917984009
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2822,
+        "min": -9.431385040283203,
+        "max": 178.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_28.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 80,
+        "min": 0.0,
+        "max": 25703.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 980,
+        "min": -8.90680980682373,
+        "max": 4.810210227966309
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2275,
+        "min": -11.124604225158691,
+        "max": 317.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_29.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 110,
+        "min": 0.0,
+        "max": 5544.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1400,
+        "min": -17.662500381469727,
+        "max": 5.391689777374268
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3019,
+        "min": -14.446937561035156,
+        "max": 294.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_30.pkl": {
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 98,
+        "min": 0.0,
+        "max": 4357.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1330,
+        "min": -25.70560073852539,
+        "max": 15.295900344848633
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          1,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2948,
+        "min": -7.535102367401123,
+        "max": 441.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_01.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16345,
+        "min": -7.564650058746338,
+        "max": 2.6966500282287598
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33925,
+        "min": -14.077605247497559,
+        "max": 199.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_02.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13965,
+        "min": -22.281999588012695,
+        "max": 21.30389976501465
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28543,
+        "min": -20.824161529541016,
+        "max": 283.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_03.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14910,
+        "min": -19.274099349975586,
+        "max": 8.937849998474121
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 25520,
+        "min": -27.141315460205078,
+        "max": 354.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_04.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 11620,
+        "min": -26.90880012512207,
+        "max": 9.860250473022461
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 23092,
+        "min": -9.482094764709473,
+        "max": 360.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_05.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15330,
+        "min": -12.000499725341797,
+        "max": 15.156299591064453
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31588,
+        "min": -15.485101699829102,
+        "max": 325.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_06.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15365,
+        "min": -11.348199844360352,
+        "max": 8.257280349731445
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31733,
+        "min": -12.091134071350098,
+        "max": 456.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_07.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13300,
+        "min": -11.137800216674805,
+        "max": 7.320559978485107
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 26541,
+        "min": -27.328258514404297,
+        "max": 294.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_08.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15330,
+        "min": -20.571199417114258,
+        "max": 9.97854995727539
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31583,
+        "min": -26.488258361816406,
+        "max": 324.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_09.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15295,
+        "min": -12.844400405883789,
+        "max": 17.416799545288086
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31180,
+        "min": -21.547805786132812,
+        "max": 303.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_10.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16135,
+        "min": -12.72070026397705,
+        "max": 11.160499572753906
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33664,
+        "min": -16.614028930664062,
+        "max": 216.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_11.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16275,
+        "min": -8.745880126953125,
+        "max": 6.792510032653809
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33241,
+        "min": -8.072840690612793,
+        "max": 414.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_12.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15330,
+        "min": -14.723999977111816,
+        "max": 13.887499809265137
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31235,
+        "min": -19.504980087280273,
+        "max": 321.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_13.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14595,
+        "min": -25.868000030517578,
+        "max": 25.7273006439209
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 30045,
+        "min": -9.897065162658691,
+        "max": 495.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_14.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14490,
+        "min": -5.905399799346924,
+        "max": 6.1374101638793945
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28927,
+        "min": -19.650691986083984,
+        "max": 327.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_15.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14735,
+        "min": -22.771299362182617,
+        "max": 9.978039741516113
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28058,
+        "min": -16.338876724243164,
+        "max": 460.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_16.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12495,
+        "min": -15.891900062561035,
+        "max": 6.347320079803467
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 24289,
+        "min": -15.394501686096191,
+        "max": 339.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_17.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14525,
+        "min": -8.569860458374023,
+        "max": 12.741900444030762
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 26561,
+        "min": -23.072704315185547,
+        "max": 396.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_18.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14350,
+        "min": -17.09280014038086,
+        "max": 6.7073798179626465
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 27062,
+        "min": -18.090356826782227,
+        "max": 467.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_19.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14350,
+        "min": -8.55735969543457,
+        "max": 4.334549903869629
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 29725,
+        "min": -8.607837677001953,
+        "max": 462.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_20.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 11165,
+        "min": -11.499699592590332,
+        "max": 13.127599716186523
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 20510,
+        "min": -21.241207122802734,
+        "max": 256.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_21.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16275,
+        "min": -7.285669803619385,
+        "max": 13.924400329589844
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 34160,
+        "min": -19.104280471801758,
+        "max": 284.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_22.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16870,
+        "min": -14.770600318908691,
+        "max": 19.50909996032715
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 32303,
+        "min": -25.2716121673584,
+        "max": 276.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_23.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16065,
+        "min": -27.599899291992188,
+        "max": 15.36460018157959
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33322,
+        "min": -9.66122817993164,
+        "max": 262.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_24.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16240,
+        "min": -8.5729398727417,
+        "max": 12.767200469970703
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33902,
+        "min": -9.275433540344238,
+        "max": 403.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_25.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16485,
+        "min": -6.4136199951171875,
+        "max": 13.495200157165527
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 34522,
+        "min": -7.21650505065918,
+        "max": 279.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_26.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13965,
+        "min": -27.962900161743164,
+        "max": 7.844160079956055
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28837,
+        "min": -13.316243171691895,
+        "max": 396.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_27.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13930,
+        "min": -5.690800189971924,
+        "max": 6.7592902183532715
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28728,
+        "min": -27.89603042602539,
+        "max": 281.0
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_28.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14280,
+        "min": -14.35099983215332,
+        "max": 5.664420127868652
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 29009,
+        "min": -20.56689453125,
+        "max": 325.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_29.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15820,
+        "min": -19.259700775146484,
+        "max": 8.5169095993042
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33115,
+        "min": -18.79773712158203,
+        "max": 295.5
+      }
+    },
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_30.pkl": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          1
+        ]
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15785,
+        "min": -25.70560073852539,
+        "max": 17.572599411010742
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          1,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 31351,
+        "min": -21.080739974975586,
+        "max": 499.0
+      }
+    }
+  },
+  "附件4": {
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/01.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U137",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2249,
+        "min": -11.075508117675781,
+        "max": 359.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 980,
+        "min": -10.019100189208984,
+        "max": 3.403359889984131
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.06031608581543,
+        "max": 4.044243812561035
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 102,
+        "min": 0.0,
+        "max": 12725.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/02.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U71",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2422,
+        "min": -11.110877990722656,
+        "max": 233.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1085,
+        "min": -4.731480121612549,
+        "max": 5.720379829406738
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.69237995147705,
+        "max": 4.406132698059082
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 108,
+        "min": 0.0,
+        "max": 14624.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/03.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U143",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1494,
+        "min": -14.33398723602295,
+        "max": 290.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 595,
+        "min": -15.686200141906738,
+        "max": 11.663800239562988
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.184549331665039,
+        "max": 3.779907703399658
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 80,
+        "min": 0.0,
+        "max": 19650.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/04.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U107",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2041,
+        "min": -9.641474723815918,
+        "max": 393.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 840,
+        "min": -17.322999954223633,
+        "max": 4.162680149078369
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.079286575317383,
+        "max": 4.219977855682373
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 94,
+        "min": 0.0,
+        "max": 24867.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/05.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U61",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2708,
+        "min": -18.08108139038086,
+        "max": 396.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1225,
+        "min": -13.525300025939941,
+        "max": 3.54052996635437
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.00801944732666,
+        "max": 3.889223098754883
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 116,
+        "min": 0.0,
+        "max": 9540.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/06.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U161",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1358,
+        "min": -10.706009864807129,
+        "max": 214.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 525,
+        "min": -9.39546012878418,
+        "max": 10.495400428771973
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.87608528137207,
+        "max": 3.8010687828063965
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 76,
+        "min": 0.0,
+        "max": 9578.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/07.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U330",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 501,
+        "min": -8.78067684173584,
+        "max": 324.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 70,
+        "min": -8.076530456542969,
+        "max": 4.040170192718506
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.40792465209961,
+        "max": 3.662226438522339
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 50,
+        "min": 0.0,
+        "max": 24935.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/08.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U63",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2980,
+        "min": -20.413673400878906,
+        "max": 338.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1365,
+        "min": -15.298700332641602,
+        "max": 3.218820095062256
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.247478485107422,
+        "max": 3.4921152591705322
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 124,
+        "min": 0.0,
+        "max": 7545.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/09.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U64",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2531,
+        "min": -10.6195650100708,
+        "max": 319.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1120,
+        "min": -14.532500267028809,
+        "max": 11.747599601745605
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.801466941833496,
+        "max": 4.01938533782959
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 110,
+        "min": 0.0,
+        "max": 16755.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/10.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U129",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1755,
+        "min": -11.375502586364746,
+        "max": 476.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 700,
+        "min": -8.352580070495605,
+        "max": 4.3686699867248535
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.763877868652344,
+        "max": 3.874321699142456
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 86,
+        "min": 0.0,
+        "max": 27036.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/11.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U61",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2773,
+        "min": -9.844372749328613,
+        "max": 154.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1260,
+        "min": -6.290279865264893,
+        "max": 10.976300239562988
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.641456604003906,
+        "max": 4.008959770202637
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 118,
+        "min": 0.0,
+        "max": 14984.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/12.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U186",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 815,
+        "min": -14.456451416015625,
+        "max": 176.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 280,
+        "min": -7.350940227508545,
+        "max": 9.136919975280762
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.17011833190918,
+        "max": 4.348796844482422
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 62,
+        "min": 0.0,
+        "max": 7842.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/13.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U131",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1662,
+        "min": -20.65252113342285,
+        "max": 229.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1750,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.921731948852539,
+        "max": 3.865204334259033
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 86,
+        "min": 0.0,
+        "max": 5876.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/14.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U157",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1426,
+        "min": -10.485553741455078,
+        "max": 277.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 525,
+        "min": -12.16469955444336,
+        "max": 11.011300086975098
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.968740463256836,
+        "max": 4.215691089630127
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 76,
+        "min": 0.0,
+        "max": 29525.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/15.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U117",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2364,
+        "min": -9.073613166809082,
+        "max": 379.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1015,
+        "min": -9.79623031616211,
+        "max": 4.093090057373047
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.150476455688477,
+        "max": 3.934380054473877
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 104,
+        "min": 0.0,
+        "max": 25090.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/16.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U41",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2978,
+        "min": -25.82414436340332,
+        "max": 207.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1365,
+        "min": -6.222859859466553,
+        "max": 12.712499618530273
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.416325569152832,
+        "max": 3.9556097984313965
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 124,
+        "min": 0.0,
+        "max": 6659.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/17.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U131",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 2062,
+        "min": -9.984375,
+        "max": 252.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 910,
+        "min": -10.635700225830078,
+        "max": 7.581789970397949
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.660411834716797,
+        "max": 3.3648617267608643
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 98,
+        "min": 0.0,
+        "max": 18216.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/18.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U270",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 575,
+        "min": -13.328980445861816,
+        "max": 386.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 70,
+        "min": -4.564340114593506,
+        "max": 2.38031005859375
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.010797500610352,
+        "max": 3.651571750640869
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 50,
+        "min": 0.0,
+        "max": 23794.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/19.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U206",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1173,
+        "min": -9.825160026550293,
+        "max": 281.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 385,
+        "min": -19.706600189208984,
+        "max": 5.049610137939453
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.033617973327637,
+        "max": 4.151073455810547
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 68,
+        "min": 0.0,
+        "max": 29238.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/20.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U172",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 888,
+        "min": -10.310030937194824,
+        "max": 311.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 245,
+        "min": -21.98699951171875,
+        "max": 10.761099815368652
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.409927368164062,
+        "max": 3.796436309814453
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 60,
+        "min": 0.0,
+        "max": 14409.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/01.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U137",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 25312,
+        "min": -26.587984085083008,
+        "max": 362.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12775,
+        "min": -16.054899215698242,
+        "max": 13.210800170898438
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.06031608581543,
+        "max": 4.044243812561035
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 102,
+        "min": 0.0,
+        "max": 12725.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 179.0,
+        "max": 179.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 135.0,
+        "max": 135.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/02.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U71",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 32572,
+        "min": -16.388381958007812,
+        "max": 233.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 15750,
+        "min": -5.116819858551025,
+        "max": 6.461309909820557
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.69237995147705,
+        "max": 4.406132698059082
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 108,
+        "min": 0.0,
+        "max": 14624.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 66.0,
+        "max": 66.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 50.0,
+        "max": 50.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/03.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U143",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 24276,
+        "min": -20.648536682128906,
+        "max": 290.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12460,
+        "min": -15.931400299072266,
+        "max": 12.411600112915039
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.184549331665039,
+        "max": 3.779907703399658
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 80,
+        "min": 0.0,
+        "max": 19650.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 191.0,
+        "max": 191.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 144.0,
+        "max": 144.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/04.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U107",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 28116,
+        "min": -30.874128341674805,
+        "max": 440.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13895,
+        "min": -17.322999954223633,
+        "max": 5.793610095977783
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.079286575317383,
+        "max": 4.219977855682373
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 94,
+        "min": 0.0,
+        "max": 24867.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 137.0,
+        "max": 137.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 103.0,
+        "max": 103.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/05.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U61",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 29305,
+        "min": -18.2728214263916,
+        "max": 400.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14350,
+        "min": -16.49679946899414,
+        "max": 11.434900283813477
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.00801944732666,
+        "max": 3.889223098754883
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 116,
+        "min": 0.0,
+        "max": 9540.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 120.0,
+        "max": 120.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 90.0,
+        "max": 90.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/06.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U161",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 26113,
+        "min": -17.603879928588867,
+        "max": 229.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13195,
+        "min": -13.956999778747559,
+        "max": 10.495400428771973
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.87608528137207,
+        "max": 3.8010687828063965
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 76,
+        "min": 0.0,
+        "max": 9578.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 163.0,
+        "max": 163.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 123.0,
+        "max": 123.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/07.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U330",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 8665,
+        "min": -30.350238800048828,
+        "max": 332.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 6335,
+        "min": -11.115500450134277,
+        "max": 8.169520378112793
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.40792465209961,
+        "max": 3.662226438522339
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 50,
+        "min": 0.0,
+        "max": 24935.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 425.0,
+        "max": 425.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 319.0,
+        "max": 319.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/08.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U63",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 30547,
+        "min": -20.413673400878906,
+        "max": 338.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14910,
+        "min": -18.403600692749023,
+        "max": 3.8881399631500244
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.247478485107422,
+        "max": 3.4921152591705322
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 124,
+        "min": 0.0,
+        "max": 7545.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 98.0,
+        "max": 98.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 74.0,
+        "max": 74.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/09.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U64",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 30534,
+        "min": -22.639812469482422,
+        "max": 365.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14875,
+        "min": -21.16230010986328,
+        "max": 13.103500366210938
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.801466941833496,
+        "max": 4.01938533782959
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 110,
+        "min": 0.0,
+        "max": 16755.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 99.0,
+        "max": 99.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 75.0,
+        "max": 75.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/10.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U129",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 24426,
+        "min": -12.435673713684082,
+        "max": 492.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12355,
+        "min": -16.414199829101562,
+        "max": 16.372499465942383
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.763877868652344,
+        "max": 3.874321699142456
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 86,
+        "min": 0.0,
+        "max": 27036.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 195.0,
+        "max": 195.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 147.0,
+        "max": 147.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/11.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U61",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 29248,
+        "min": -31.075037002563477,
+        "max": 195.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 14490,
+        "min": -8.753860473632812,
+        "max": 10.976300239562988
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.641456604003906,
+        "max": 4.008959770202637
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 118,
+        "min": 0.0,
+        "max": 14984.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 114.0,
+        "max": 114.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 86.0,
+        "max": 86.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/12.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U186",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 19424,
+        "min": -15.52524185180664,
+        "max": 207.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 10745,
+        "min": -8.784720420837402,
+        "max": 10.451700210571289
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.17011833190918,
+        "max": 4.348796844482422
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 62,
+        "min": 0.0,
+        "max": 7842.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 257.0,
+        "max": 257.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 193.0,
+        "max": 193.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/13.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U131",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 25221,
+        "min": -20.65252113342285,
+        "max": 229.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16905,
+        "min": -3.232419967651367,
+        "max": 9.134710311889648
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.921731948852539,
+        "max": 3.865204334259033
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 86,
+        "min": 0.0,
+        "max": 5876.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 173.0,
+        "max": 173.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/14.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U157",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 23657,
+        "min": -28.730640411376953,
+        "max": 383.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12145,
+        "min": -19.79990005493164,
+        "max": 13.71720027923584
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.968740463256836,
+        "max": 4.215691089630127
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 76,
+        "min": 0.0,
+        "max": 29525.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 204.0,
+        "max": 204.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 153.0,
+        "max": 153.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/15.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U117",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 27681,
+        "min": -25.584028244018555,
+        "max": 379.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 13650,
+        "min": -10.972700119018555,
+        "max": 4.781599998474121
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.150476455688477,
+        "max": 3.934380054473877
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 104,
+        "min": 0.0,
+        "max": 25090.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 145.0,
+        "max": 145.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 110.0,
+        "max": 110.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/16.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U41",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 33000,
+        "min": -25.82414436340332,
+        "max": 246.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 16100,
+        "min": -7.848710060119629,
+        "max": 14.745100021362305
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.416325569152832,
+        "max": 3.9556097984313965
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 124,
+        "min": 0.0,
+        "max": 6659.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 60.0,
+        "max": 60.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/17.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U131",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 24050,
+        "min": -27.55594253540039,
+        "max": 252.5
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12495,
+        "min": -10.635700225830078,
+        "max": 11.032099723815918
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -8.660411834716797,
+        "max": 3.3648617267608643
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 98,
+        "min": 0.0,
+        "max": 18216.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 191.0,
+        "max": 191.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 143.0,
+        "max": 143.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/18.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U270",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 12804,
+        "min": -25.272462844848633,
+        "max": 406.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 7700,
+        "min": -5.577340126037598,
+        "max": 2.9530999660491943
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.010797500610352,
+        "max": 3.651571750640869
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 50,
+        "min": 0.0,
+        "max": 23794.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 372.0,
+        "max": 372.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 280.0,
+        "max": 280.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/19.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U206",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 19070,
+        "min": -19.236309051513672,
+        "max": 306.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 10360,
+        "min": -22.203699111938477,
+        "max": 6.93179988861084
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.033617973327637,
+        "max": 4.151073455810547
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 68,
+        "min": 0.0,
+        "max": 29238.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 272.0,
+        "max": 272.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 204.0,
+        "max": 204.0
+      }
+    },
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/20.pkl": {
+      "raw_text": {
+        "type": "str_",
+        "dtype": "<U172",
+        "shape": []
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 22890,
+        "min": -23.08530616760254,
+        "max": 360.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 11830,
+        "min": -22.44099998474121,
+        "max": 11.838700294494629
+      },
+      "id": {
+        "type": "str",
+        "dtype": "<U2",
+        "shape": []
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.409927368164062,
+        "max": 3.796436309814453
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 60,
+        "min": 0.0,
+        "max": 14409.0
+      },
+      "audio_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 216.0,
+        "max": 216.0
+      },
+      "vision_lengths": {
+        "type": "int",
+        "dtype": "int32",
+        "shape": [],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 162.0,
+        "max": 162.0
+      }
+    }
+  }
+}

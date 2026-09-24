@@ -1,0 +1,18 @@
+{
+  "python": "3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "torch": "2.4.1+cpu",
+  "cuda": false,
+  "cpu_threads": 8,
+  "ram_total_bytes": 16877125632,
+  "code_sha256": "158f524ac1d9c675a79df5c648ddeff2851feac5f9fc27a66534dffafc71d2ae",
+  "v2_manifest_sha256": "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83",
+  "scaler_sha256": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+  "bert_weights_sha256": "0974173802d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+  "bert_vocab_sha256": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f",
+  "mask_sha256": "66bf73a083e9869fc823f9d937fd44657c813aef9e4257ff862d9f765ad3e4dc",
+  "allowed_input_splits": [
+    "train",
+    "valid"
+  ]
+}

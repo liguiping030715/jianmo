@@ -1,0 +1,282 @@
+{
+  "id": "-tANM6ETl_M$_$3",
+  "transcript": "The first place is either you have a prospect, or a customer who's never done it before, or they've never tried it.",
+  "alignment": {
+    "status": "VERIFIED",
+    "n_words": 29,
+    "n_alignable": 26,
+    "n_resolved": 23,
+    "n_frames": 329
+  },
+  "words": [
+    {
+      "word": "The",
+      "char_start": 0,
+      "char_end": 3,
+      "align_conf": 0.9996589848566969,
+      "start_s": 0.54,
+      "end_s": 0.64,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "first",
+      "char_start": 4,
+      "char_end": 9,
+      "align_conf": 0.9763460617118934,
+      "start_s": 0.7000000000000001,
+      "end_s": 0.9400000000000001,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "place",
+      "char_start": 10,
+      "char_end": 15,
+      "align_conf": 0.9629471544190421,
+      "start_s": 1.0,
+      "end_s": 1.3,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "is",
+      "char_start": 16,
+      "char_end": 18,
+      "align_conf": 0.9980983101733278,
+      "start_s": 1.3800000000000001,
+      "end_s": 1.46,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "either",
+      "char_start": 19,
+      "char_end": 25,
+      "align_conf": 0.9993175525664832,
+      "start_s": 1.54,
+      "end_s": 1.76,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "you",
+      "char_start": 26,
+      "char_end": 29,
+      "align_conf": 0.999870358755731,
+      "start_s": 1.86,
+      "end_s": 1.96,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "have",
+      "char_start": 30,
+      "char_end": 34,
+      "align_conf": 0.9911566143865715,
+      "start_s": 2.04,
+      "end_s": 2.22,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "a",
+      "char_start": 35,
+      "char_end": 36,
+      "align_conf": 0.9980908196860411,
+      "start_s": 2.2800000000000002,
+      "end_s": 2.32,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "prospect",
+      "char_start": 37,
+      "char_end": 45,
+      "align_conf": 0.9736410069980923,
+      "start_s": 2.38,
+      "end_s": 2.9,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": ",",
+      "char_start": 45,
+      "char_end": 46,
+      "start_s": null,
+      "end_s": null,
+      "align_conf": null,
+      "align_status": "NON_SPEECH"
+    },
+    {
+      "word": "or",
+      "char_start": 47,
+      "char_end": 49,
+      "align_conf": 0.9632702329837743,
+      "start_s": 2.94,
+      "end_s": 3.02,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "a",
+      "char_start": 50,
+      "char_end": 51,
+      "align_conf": 0.9883946279386434,
+      "start_s": 3.06,
+      "end_s": 3.1,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "customer",
+      "char_start": 52,
+      "char_end": 60,
+      "align_conf": 0.9895330495098551,
+      "start_s": 3.14,
+      "end_s": 3.52,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "who",
+      "char_start": 61,
+      "char_end": 64,
+      "align_conf": 0.08282467401839531,
+      "start_s": null,
+      "end_s": null,
+      "align_status": "UNRESOLVED"
+    },
+    {
+      "word": "'",
+      "char_start": 64,
+      "char_end": 65,
+      "align_conf": 0.028919604993138715,
+      "start_s": null,
+      "end_s": null,
+      "align_status": "UNRESOLVED"
+    },
+    {
+      "word": "s",
+      "char_start": 65,
+      "char_end": 66,
+      "align_conf": 0.9866785696220083,
+      "start_s": 3.66,
+      "end_s": 3.7,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "never",
+      "char_start": 67,
+      "char_end": 72,
+      "align_conf": 0.95923116720271,
+      "start_s": 3.88,
+      "end_s": 4.18,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "done",
+      "char_start": 73,
+      "char_end": 77,
+      "align_conf": 0.9746413418442097,
+      "start_s": 4.28,
+      "end_s": 4.48,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "it",
+      "char_start": 78,
+      "char_end": 80,
+      "align_conf": 0.9987022475774463,
+      "start_s": 4.5200000000000005,
+      "end_s": 4.58,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "before",
+      "char_start": 81,
+      "char_end": 87,
+      "align_conf": 0.8318177980833722,
+      "start_s": 4.66,
+      "end_s": 5.04,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": ",",
+      "char_start": 87,
+      "char_end": 88,
+      "start_s": null,
+      "end_s": null,
+      "align_conf": null,
+      "align_status": "NON_SPEECH"
+    },
+    {
+      "word": "or",
+      "char_start": 89,
+      "char_end": 91,
+      "align_conf": 2.948508506320249e-06,
+      "start_s": null,
+      "end_s": null,
+      "align_status": "UNRESOLVED"
+    },
+    {
+      "word": "they",
+      "char_start": 92,
+      "char_end": 96,
+      "align_conf": 0.7032968259493553,
+      "start_s": 5.14,
+      "end_s": 5.24,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "'",
+      "char_start": 96,
+      "char_end": 97,
+      "align_conf": 0.910751816361308,
+      "start_s": 5.24,
+      "end_s": 5.28,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "ve",
+      "char_start": 97,
+      "char_end": 99,
+      "align_conf": 0.49051049980149425,
+      "start_s": 5.28,
+      "end_s": 5.34,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "never",
+      "char_start": 100,
+      "char_end": 105,
+      "align_conf": 0.9868078659423174,
+      "start_s": 5.42,
+      "end_s": 5.66,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "tried",
+      "char_start": 106,
+      "char_end": 111,
+      "align_conf": 0.9988501233588784,
+      "start_s": 5.72,
+      "end_s": 5.98,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": "it",
+      "char_start": 112,
+      "char_end": 114,
+      "align_conf": 0.7937340851564738,
+      "start_s": 6.04,
+      "end_s": 6.1000000000000005,
+      "align_status": "VERIFIED"
+    },
+    {
+      "word": ".",
+      "char_start": 114,
+      "char_end": 115,
+      "start_s": null,
+      "end_s": null,
+      "align_conf": null,
+      "align_status": "NON_SPEECH"
+    }
+  ],
+  "duration_s": 6.758008,
+  "audio_pcm_end_s": 6.603625,
+  "audio_feature_frames": 656,
+  "audio_feature_last_start_s": 6.55,
+  "audio_feature_last_end_s": 6.603625,
+  "video_frame_count": 200,
+  "video_last_pts_s": 6.7,
+  "video_coverage_end_s": 6.733333333333333
+}

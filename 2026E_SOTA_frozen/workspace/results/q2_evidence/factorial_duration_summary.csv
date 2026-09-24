@@ -1,0 +1,10 @@
+﻿modality,requested_ratio,samples,native_length_median,native_length_p05,native_length_p95,realized_support_ratio_mean,unit
+audio,0.1,715,14.0,6.0,31.299999999999955,0.09975098848138013,"native feature/token positions, not seconds"
+audio,0.2,715,28.0,11.0,62.299999999999955,0.20001097423688935,"native feature/token positions, not seconds"
+audio,0.3,715,41.0,17.0,92.59999999999991,0.3001317401593341,"native feature/token positions, not seconds"
+text,0.1,715,2.0,1.0,5.0,0.10540570801783763,"native feature/token positions, not seconds"
+text,0.2,715,4.0,1.7000000000000028,10.0,0.2009077885964902,"native feature/token positions, not seconds"
+text,0.3,715,6.0,2.0,14.0,0.30042460201610305,"native feature/token positions, not seconds"
+vision,0.1,715,10.0,3.0,22.299999999999955,0.10151581886551844,"native feature/token positions, not seconds"
+vision,0.2,715,20.0,7.0,45.0,0.20030466126405083,"native feature/token positions, not seconds"
+vision,0.3,715,30.0,10.0,67.29999999999995,0.29967546568368764,"native feature/token positions, not seconds"

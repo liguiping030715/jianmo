@@ -1,0 +1,654 @@
+{
+  "aligned": {
+    "train": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1662",
+        "shape": [
+          3395
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 7464946,
+        "min": -47.73226547241211,
+        "max": 500.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 3399170,
+        "min": -37.746498107910156,
+        "max": 29.028600692749023
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          3395
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3395,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 341906,
+        "min": 0.0,
+        "max": 29824.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 967,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 758,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          3395,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1,
+        "min": -9.978325843811035,
+        "max": 4.965427398681641
+      }
+    },
+    "valid": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1570",
+        "shape": [
+          728
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1553467,
+        "min": -44.918243408203125,
+        "max": 499.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 707400,
+        "min": -30.58169937133789,
+        "max": 26.221500396728516
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          728
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          728,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 71944,
+        "min": 0.0,
+        "max": 29589.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 206,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 184,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          728,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.845565795898438,
+        "max": 4.626781940460205
+      }
+    },
+    "test": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          727
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727,
+          50,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1570682,
+        "min": -50.873077392578125,
+        "max": 500.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727,
+          50,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 718175,
+        "min": -29.1875,
+        "max": 27.900800704956055
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          727
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          727,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 72432,
+        "min": 0.0,
+        "max": 29476.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 207,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 158,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          727,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.85290241241455,
+        "max": 5.553917407989502
+      }
+    }
+  },
+  "unaligned": {
+    "train": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1662",
+        "shape": [
+          3395
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 92465717,
+        "min": -53.72154235839844,
+        "max": 500.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 47041115,
+        "min": -37.746498107910156,
+        "max": 31.25309944152832
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          3395
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          3395,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 341906,
+        "min": 0.0,
+        "max": 29824.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 967,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 758,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          3395,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 1,
+        "min": -9.978325843811035,
+        "max": 4.965427398681641
+      },
+      "audio_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 8.0,
+        "max": 500.0
+      },
+      "vision_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          3395
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 1.0,
+        "max": 500.0
+      }
+    },
+    "valid": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1570",
+        "shape": [
+          728
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 19486501,
+        "min": -50.75642776489258,
+        "max": 500.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 9929655,
+        "min": -35.588401794433594,
+        "max": 28.733299255371094
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          728
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          728,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 71944,
+        "min": 0.0,
+        "max": 29589.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 206,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 184,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          728,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.845565795898438,
+        "max": 4.626781940460205
+      },
+      "audio_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 12.0,
+        "max": 500.0
+      },
+      "vision_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          728
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 1.0,
+        "max": 500.0
+      }
+    },
+    "test": {
+      "raw_text": {
+        "type": "ndarray",
+        "dtype": "<U1479",
+        "shape": [
+          727
+        ]
+      },
+      "audio": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727,
+          500,
+          74
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 19391465,
+        "min": -50.873077392578125,
+        "max": 500.0
+      },
+      "vision": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727,
+          500,
+          35
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 9894180,
+        "min": -35.43349838256836,
+        "max": 28.583099365234375
+      },
+      "id": {
+        "type": "list",
+        "dtype": "<U16",
+        "shape": [
+          727
+        ]
+      },
+      "text_bert": {
+        "type": "ndarray",
+        "dtype": "int64",
+        "shape": [
+          727,
+          3,
+          50
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 72432,
+        "min": 0.0,
+        "max": 29476.0
+      },
+      "classification_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 207,
+        "min": 0.0,
+        "max": 2.0
+      },
+      "regression_labels": {
+        "type": "ndarray",
+        "dtype": "float64",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 158,
+        "min": -3.0,
+        "max": 3.0
+      },
+      "text": {
+        "type": "ndarray",
+        "dtype": "float32",
+        "shape": [
+          727,
+          50,
+          768
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": -9.85290241241455,
+        "max": 5.553917407989502
+      },
+      "audio_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 23.0,
+        "max": 500.0
+      },
+      "vision_lengths": {
+        "type": "list",
+        "dtype": "int32",
+        "shape": [
+          727
+        ],
+        "nan": 0,
+        "inf": 0,
+        "zero": 0,
+        "min": 1.0,
+        "max": 456.0
+      }
+    }
+  }
+}

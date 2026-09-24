@@ -1,0 +1,12 @@
+{
+  "workspace\\q1_final\\q1_run.py": "cb97e12145b05eab2a55b257c79546fc5c23aee90b66b5187da962190c75909e",
+  "workspace\\q1_final\\q1_text.py": "c9fb7d04195a4e1278f728c84235ed2a20bf4457a23f9401f193697d8447a029",
+  "workspace\\q1_final\\q1_align.py": "acd0ae589cc604e5a76068b17ea5b7cf4ac284a4ae2badeee70a3f40a5f8a69c",
+  "workspace\\q1_final\\q1_audio.py": "c7be45c2264e265b7654f4e154b66e16918d08b71f63913d28100002a9d9963e",
+  "workspace\\q1_final\\q1_visual.py": "9f573bb12aec67b751e3c2df35965578bacb7208051ecc219e00a72535e97999",
+  "workspace\\q1_final\\q1_media.py": "233e1781b2a606782de222996ca54ec21cba2cfbeacceacd3939a14517f26cb8",
+  "workspace\\q1_final\\q1_extractor_freeze.json": "74101ffed6078fb318bcc981a238c0acb378679b654a553b5e910fa7a4d9a7e1",
+  "workspace\\references\\bert-base-uncased\\pytorch_model.bin": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+  "workspace\\references\\bert-base-uncased\\model.safetensors": "6d60194d86a0856f50cb18251d129b9f41ca69bfbe24f33ffa3fe6e1048660e6",
+  "workspace\\references\\bert-base-uncased\\vocab.txt": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f"
+}

@@ -1,0 +1,11 @@
+# Synthetic local-gap protocol (specification only)
+
+No gap model was trained. Candidate simulator uses **Attachment 2 train** inputs for training-time augmentation and **valid** only for choosing its parameters/evaluating degradation. Attachment 3 supplies encoding clues (exact all-zero vectors, multiple short interior runs, occasional boundary-touching zeros), not labels or an optimization target.
+
+1. Fix and record one feature version, a global seed and per-sample deterministic seed derived from `(split,id,scenario)`. Preserve raw features.
+2. Construct `P` from the `text_bert` attention mask for text, `audio_lengths` for unaligned audio, and a separately audited observed-support rule for vision. For aligned audio/vision use the shared coordinate with structural first/suffix padding and document any uncertain positions. **Do not simulate into uncertain or padded positions.**
+3. Choose one or more of T/A/V, number of simultaneous modalities (1–3), starting position (early/middle/late or uniform within valid support), contiguous duration in valid positions and ratio relative to that modality's valid support. Prespecify a small scenario grid and report exact realized ratio, not only requested ratio. Include boundary-touching scenarios as separate conditions.
+4. For selected positions set only the selected feature channel to an exact all-zero vector and record a separate `injected_mask`; never derive ground truth back from zeros. For `text_bert`, modifying token IDs is a different encoder-specific intervention and must not be conflated with zeroing continuous `text`. Simulate text gaps only after the Attachment 3 text-interface mismatch is resolved.
+5. Keep native baseline zeros and padding unchanged; log modality, start/end, valid length, realized ratio, existing-zero overlap, version and seed per sample. Evaluate same masks across candidate models; never tune to Attachment 3 predictions.
+
+**Current blocker:** Attachment 3 has no explicit mask or lengths, and unaligned vision lengths are inconsistent. The generator can define *known injected masks* on sufficiently well-defined train/valid regions, but cannot claim to reproduce the exact official gap distribution, especially terminal gaps. This limitation must be resolved or carried to a restricted pilot.

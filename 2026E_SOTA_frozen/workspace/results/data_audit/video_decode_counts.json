@@ -1,0 +1,982 @@
+{
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/13.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 261.0,
+    "decoded_frames": 163,
+    "decoded_duration_s": 5.433333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 424.0,
+    "decoded_frames": 278,
+    "decoded_duration_s": 9.266666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 578.0,
+    "decoded_frames": 431,
+    "decoded_duration_s": 14.366666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/9.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 486.0,
+    "decoded_frames": 263,
+    "decoded_duration_s": 8.766666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3nNcZdcdvU/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 328.0,
+    "decoded_frames": 236,
+    "decoded_duration_s": 7.866666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 152.0,
+    "decoded_frames": 152,
+    "decoded_duration_s": 5.066666666666666,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 552.0,
+    "decoded_frames": 455,
+    "decoded_duration_s": 15.166666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-6rXp3zJ3kc/8.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 497.0,
+    "decoded_frames": 384,
+    "decoded_duration_s": 12.8,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 205.0,
+    "decoded_frames": 205,
+    "decoded_duration_s": 6.833333333333333,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/4.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 277.0,
+    "decoded_frames": 81,
+    "decoded_duration_s": 2.7,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/8.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 323.0,
+    "decoded_frames": 149,
+    "decoded_duration_s": 4.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-a55Q6RWvTA/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 678.0,
+    "decoded_frames": 664,
+    "decoded_duration_s": 22.133333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aNfi7CP8vM/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 337.0,
+    "decoded_frames": 257,
+    "decoded_duration_s": 8.566666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aqamKhZ1Ec/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 329.0,
+    "decoded_frames": 329,
+    "decoded_duration_s": 10.966666666666667,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-AUZQgSxyPQ/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 818.0,
+    "decoded_frames": 674,
+    "decoded_duration_s": 22.466666666666665,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 615.0,
+    "decoded_frames": 615,
+    "decoded_duration_s": 20.5,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 589.0,
+    "decoded_frames": 482,
+    "decoded_duration_s": 16.066666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 586.0,
+    "decoded_frames": 500,
+    "decoded_duration_s": 16.666666666666668,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 388.0,
+    "decoded_frames": 381,
+    "decoded_duration_s": 12.7,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 345.0,
+    "decoded_frames": 306,
+    "decoded_duration_s": 10.2,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/13.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 207.0,
+    "decoded_frames": 123,
+    "decoded_duration_s": 4.1,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/16.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 213.0,
+    "decoded_frames": 166,
+    "decoded_duration_s": 5.533333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/17.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 417.0,
+    "decoded_frames": 215,
+    "decoded_duration_s": 7.166666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/18.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 400.0,
+    "decoded_frames": 250,
+    "decoded_duration_s": 8.333333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/20.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 440.0,
+    "decoded_frames": 196,
+    "decoded_duration_s": 6.533333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/26.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 344.0,
+    "decoded_frames": 179,
+    "decoded_duration_s": 5.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 241.0,
+    "decoded_frames": 187,
+    "decoded_duration_s": 6.233333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/9.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 302.0,
+    "decoded_frames": 150,
+    "decoded_duration_s": 5.0,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HeZS2-Prhc/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 474.0,
+    "decoded_frames": 246,
+    "decoded_duration_s": 8.2,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4": {
+    "fps": 23.976035631539084,
+    "claimed_frames": 274.0,
+    "decoded_frames": 153,
+    "decoded_duration_s": 6.38137189781022,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/7.mp4": {
+    "fps": 23.976023976023978,
+    "claimed_frames": 220.0,
+    "decoded_frames": 176,
+    "decoded_duration_s": 7.3406666666666665,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 244.0,
+    "decoded_frames": 119,
+    "decoded_duration_s": 3.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 343.0,
+    "decoded_frames": 168,
+    "decoded_duration_s": 5.6,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 202.0,
+    "decoded_frames": 99,
+    "decoded_duration_s": 3.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/9.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 343.0,
+    "decoded_frames": 232,
+    "decoded_duration_s": 7.733333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/3.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 174.0,
+    "decoded_frames": 167,
+    "decoded_duration_s": 5.572233333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/6.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 223.0,
+    "decoded_frames": 85,
+    "decoded_duration_s": 2.8361666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/7.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 172.0,
+    "decoded_frames": 120,
+    "decoded_duration_s": 4.0040000000000004,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/8.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 258.0,
+    "decoded_frames": 241,
+    "decoded_duration_s": 8.041366666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/9.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 214.0,
+    "decoded_frames": 102,
+    "decoded_duration_s": 3.4034,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 320.0,
+    "decoded_frames": 225,
+    "decoded_duration_s": 7.5,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 276.0,
+    "decoded_frames": 271,
+    "decoded_duration_s": 9.033333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 233.0,
+    "decoded_frames": 229,
+    "decoded_duration_s": 7.633333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 681.0,
+    "decoded_frames": 443,
+    "decoded_duration_s": 14.766666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 279.0,
+    "decoded_frames": 279,
+    "decoded_duration_s": 9.3,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/13.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 221.0,
+    "decoded_frames": 159,
+    "decoded_duration_s": 5.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 520.0,
+    "decoded_frames": 314,
+    "decoded_duration_s": 10.466666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/1.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 197.0,
+    "decoded_frames": 182,
+    "decoded_duration_s": 6.072733333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/2.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 203.0,
+    "decoded_frames": 171,
+    "decoded_duration_s": 5.7057,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 79.0,
+    "decoded_frames": 67,
+    "decoded_duration_s": 2.2355666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/8.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 259.0,
+    "decoded_frames": 125,
+    "decoded_duration_s": 4.170833333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/9.mp4": {
+    "fps": 29.97002997002997,
+    "claimed_frames": 298.0,
+    "decoded_frames": 208,
+    "decoded_duration_s": 6.940266666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mqbVkbCndg/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 194.0,
+    "decoded_frames": 194,
+    "decoded_duration_s": 6.466666666666667,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/1.mp4": {
+    "fps": 25.0,
+    "claimed_frames": 227.0,
+    "decoded_frames": 142,
+    "decoded_duration_s": 5.68,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/2.mp4": {
+    "fps": 25.0,
+    "claimed_frames": 242.0,
+    "decoded_frames": 169,
+    "decoded_duration_s": 6.76,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-qDkUB0GgYY/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 290.0,
+    "decoded_frames": 140,
+    "decoded_duration_s": 4.666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/11.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 348.0,
+    "decoded_frames": 154,
+    "decoded_duration_s": 5.133333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 186.0,
+    "decoded_frames": 164,
+    "decoded_duration_s": 5.466666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/8.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 349.0,
+    "decoded_frames": 137,
+    "decoded_duration_s": 4.566666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4": {
+    "fps": 23.97604418875992,
+    "claimed_frames": 79.0,
+    "decoded_frames": 67,
+    "decoded_duration_s": 2.794455977496484,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/2.mp4": {
+    "fps": 23.976043214651384,
+    "claimed_frames": 166.0,
+    "decoded_frames": 143,
+    "decoded_duration_s": 5.96428688085676,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/5.mp4": {
+    "fps": 23.976046466253432,
+    "claimed_frames": 142.0,
+    "decoded_frames": 83,
+    "decoded_duration_s": 3.461788419405321,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 204.0,
+    "decoded_frames": 204,
+    "decoded_duration_s": 6.8,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 324.0,
+    "decoded_frames": 140,
+    "decoded_duration_s": 4.666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/4.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 183.0,
+    "decoded_frames": 129,
+    "decoded_duration_s": 4.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 404.0,
+    "decoded_frames": 253,
+    "decoded_duration_s": 8.433333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 195.0,
+    "decoded_frames": 71,
+    "decoded_duration_s": 2.3666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 382.0,
+    "decoded_frames": 207,
+    "decoded_duration_s": 6.9,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/8.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 197.0,
+    "decoded_frames": 97,
+    "decoded_duration_s": 3.2333333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 240.0,
+    "decoded_frames": 170,
+    "decoded_duration_s": 5.666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 558.0,
+    "decoded_frames": 512,
+    "decoded_duration_s": 17.066666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tANM6ETl_M/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 271.0,
+    "decoded_frames": 200,
+    "decoded_duration_s": 6.666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/12.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 563.0,
+    "decoded_frames": 445,
+    "decoded_duration_s": 14.833333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 139.0,
+    "decoded_frames": 128,
+    "decoded_duration_s": 4.266666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 331.0,
+    "decoded_frames": 241,
+    "decoded_duration_s": 8.033333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/10.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 351.0,
+    "decoded_frames": 142,
+    "decoded_duration_s": 4.733333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/11.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 240.0,
+    "decoded_frames": 164,
+    "decoded_duration_s": 5.466666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/12.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 561.0,
+    "decoded_frames": 353,
+    "decoded_duration_s": 11.766666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/16.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 397.0,
+    "decoded_frames": 216,
+    "decoded_duration_s": 7.2,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/18.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 428.0,
+    "decoded_frames": 199,
+    "decoded_duration_s": 6.633333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/10.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 377.0,
+    "decoded_frames": 218,
+    "decoded_duration_s": 7.266666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 186.0,
+    "decoded_frames": 142,
+    "decoded_duration_s": 4.733333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UUCSKoHeMA/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 234.0,
+    "decoded_frames": 234,
+    "decoded_duration_s": 7.8,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 109.0,
+    "decoded_frames": 109,
+    "decoded_duration_s": 3.6333333333333333,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 402.0,
+    "decoded_frames": 309,
+    "decoded_duration_s": 10.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 319.0,
+    "decoded_frames": 123,
+    "decoded_duration_s": 4.1,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 454.0,
+    "decoded_frames": 240,
+    "decoded_duration_s": 8.0,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-uywlfIYOS8/4.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 428.0,
+    "decoded_frames": 179,
+    "decoded_duration_s": 5.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-vxjVxOeScU/4.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 351.0,
+    "decoded_frames": 272,
+    "decoded_duration_s": 9.066666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wMB_hJL-3o/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 219.0,
+    "decoded_frames": 181,
+    "decoded_duration_s": 6.033333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/0.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 100.0,
+    "decoded_frames": 100,
+    "decoded_duration_s": 3.3333333333333335,
+    "count_disagrees": false
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 273.0,
+    "decoded_frames": 205,
+    "decoded_duration_s": 6.833333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/2.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 355.0,
+    "decoded_frames": 197,
+    "decoded_duration_s": 6.566666666666666,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/3.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 334.0,
+    "decoded_frames": 184,
+    "decoded_duration_s": 6.133333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 296.0,
+    "decoded_frames": 204,
+    "decoded_duration_s": 6.8,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/7.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 283.0,
+    "decoded_frames": 240,
+    "decoded_duration_s": 8.0,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/9.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 293.0,
+    "decoded_frames": 183,
+    "decoded_duration_s": 6.1,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 1034.0,
+    "decoded_frames": 875,
+    "decoded_duration_s": 29.166666666666668,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/5.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 408.0,
+    "decoded_frames": 394,
+    "decoded_duration_s": 13.133333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/6.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 462.0,
+    "decoded_frames": 336,
+    "decoded_duration_s": 11.2,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/01.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 270.0,
+    "decoded_frames": 270,
+    "decoded_duration_s": 9.0,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/02.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 108.0,
+    "decoded_frames": 101,
+    "decoded_duration_s": 3.3666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/03.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 480.0,
+    "decoded_frames": 289,
+    "decoded_duration_s": 9.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/04.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 277.0,
+    "decoded_frames": 207,
+    "decoded_duration_s": 6.9,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/05.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 183.0,
+    "decoded_frames": 183,
+    "decoded_duration_s": 6.1,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/06.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 292.0,
+    "decoded_frames": 247,
+    "decoded_duration_s": 8.233333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/07.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 723.0,
+    "decoded_frames": 639,
+    "decoded_duration_s": 21.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/08.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 239.0,
+    "decoded_frames": 149,
+    "decoded_duration_s": 4.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/09.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 339.0,
+    "decoded_frames": 151,
+    "decoded_duration_s": 5.033333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/10.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 325.0,
+    "decoded_frames": 295,
+    "decoded_duration_s": 9.833333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/11.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 342.0,
+    "decoded_frames": 174,
+    "decoded_duration_s": 5.8,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/12.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 609.0,
+    "decoded_frames": 388,
+    "decoded_duration_s": 12.933333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/13.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 260.0,
+    "decoded_frames": 260,
+    "decoded_duration_s": 8.666666666666666,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/14.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 415.0,
+    "decoded_frames": 308,
+    "decoded_duration_s": 10.266666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/15.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 220.0,
+    "decoded_frames": 220,
+    "decoded_duration_s": 7.333333333333333,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/16.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 167.0,
+    "decoded_frames": 93,
+    "decoded_duration_s": 3.1,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/17.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 419.0,
+    "decoded_frames": 289,
+    "decoded_duration_s": 9.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/18.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 686.0,
+    "decoded_frames": 561,
+    "decoded_duration_s": 18.7,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/19.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 561.0,
+    "decoded_frames": 409,
+    "decoded_duration_s": 13.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/20.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 561.0,
+    "decoded_frames": 326,
+    "decoded_duration_s": 10.866666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/01.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 270.0,
+    "decoded_frames": 270,
+    "decoded_duration_s": 9.0,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/02.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 108.0,
+    "decoded_frames": 101,
+    "decoded_duration_s": 3.3666666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/03.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 480.0,
+    "decoded_frames": 289,
+    "decoded_duration_s": 9.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/04.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 277.0,
+    "decoded_frames": 207,
+    "decoded_duration_s": 6.9,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/05.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 183.0,
+    "decoded_frames": 183,
+    "decoded_duration_s": 6.1,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/06.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 292.0,
+    "decoded_frames": 247,
+    "decoded_duration_s": 8.233333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/07.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 723.0,
+    "decoded_frames": 639,
+    "decoded_duration_s": 21.3,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/08.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 239.0,
+    "decoded_frames": 149,
+    "decoded_duration_s": 4.966666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/09.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 339.0,
+    "decoded_frames": 151,
+    "decoded_duration_s": 5.033333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/10.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 325.0,
+    "decoded_frames": 295,
+    "decoded_duration_s": 9.833333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/11.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 342.0,
+    "decoded_frames": 174,
+    "decoded_duration_s": 5.8,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/12.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 609.0,
+    "decoded_frames": 388,
+    "decoded_duration_s": 12.933333333333334,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/13.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 260.0,
+    "decoded_frames": 260,
+    "decoded_duration_s": 8.666666666666666,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/14.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 415.0,
+    "decoded_frames": 308,
+    "decoded_duration_s": 10.266666666666667,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/15.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 220.0,
+    "decoded_frames": 220,
+    "decoded_duration_s": 7.333333333333333,
+    "count_disagrees": false
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/16.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 167.0,
+    "decoded_frames": 93,
+    "decoded_duration_s": 3.1,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/17.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 419.0,
+    "decoded_frames": 289,
+    "decoded_duration_s": 9.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/18.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 686.0,
+    "decoded_frames": 561,
+    "decoded_duration_s": 18.7,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/19.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 561.0,
+    "decoded_frames": 409,
+    "decoded_duration_s": 13.633333333333333,
+    "count_disagrees": true
+  },
+  "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/20.mp4": {
+    "fps": 30.0,
+    "claimed_frames": 561.0,
+    "decoded_frames": 326,
+    "decoded_duration_s": 10.866666666666667,
+    "count_disagrees": true
+  }
+}

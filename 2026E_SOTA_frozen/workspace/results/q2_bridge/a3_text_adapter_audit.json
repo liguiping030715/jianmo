@@ -1,0 +1,304 @@
+{
+  "status": "BRIDGE_A3_TEXT_ADAPTER_VALIDATED",
+  "scope": "interface validation using only A2 train/valid and frozen M0 checkpoints; no A3 sample access",
+  "adapter_source": "q2_unaligned_text_adapter.py",
+  "adapter_source_sha256": "b8a5ba1d9a30763d1101538b7df33601dfb9f433bfdbddaa8f649092ad2a5945",
+  "M0_source_sha256": "dc0367156de2bd7108d7910557692c173c35964b5c2307beb0dd8d32a2fedccf",
+  "provenance": {
+    "local_model": "workspace\\references\\bert-base-uncased",
+    "model_revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+    "file_sha256": {
+      "pytorch_model.bin": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+      "vocab.txt": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f",
+      "tokenizer.json": "ce64fce797c24f68df90b40a3f74f579b336a493db14bd583fd520ea0d8c9a98",
+      "tokenizer_config.json": "a025160ef0431f1a392f6f050c1310f4c5d9fb6f275932dbccba73c4d214bf10",
+      "config.json": "b92c83fdd39b9dcdded83e388feefd12a9bfc6e4e81cda9328c73b6865b10b3f"
+    },
+    "transformers_version": "4.26.0",
+    "torch_version": "2.4.1+cpu",
+    "tokenizer_class": "BertTokenizerFast",
+    "tokenizer_settings": {
+      "add_special_tokens": true,
+      "padding": "max_length",
+      "truncation": true,
+      "max_length": 50,
+      "padding_side": "right",
+      "truncation_side": "right",
+      "do_lower_case": true,
+      "return_attention_mask": true,
+      "return_token_type_ids": true,
+      "triplet_row_order": [
+        "input_ids",
+        "attention_mask",
+        "token_type_ids"
+      ],
+      "special_token_ids": {
+        "CLS": 101,
+        "SEP": 102,
+        "PAD": 0,
+        "UNK": 100
+      }
+    },
+    "bert_eval_mode": true,
+    "bert_parameters_require_grad": false,
+    "bert_batch_size": 16,
+    "cpu_threads": 8,
+    "output_shape_per_sample": [
+      50,
+      768
+    ],
+    "output_dtype": "float32"
+  },
+  "token_equivalence": {
+    "train": {
+      "split": "train",
+      "exact_rows": 3395,
+      "total_rows": 3395,
+      "mismatched_rows": 0,
+      "first_mismatch": null,
+      "attention_mask_exact": true,
+      "token_type_ids_exact": true
+    },
+    "valid": {
+      "split": "valid",
+      "exact_rows": 728,
+      "total_rows": 728,
+      "mismatched_rows": 0,
+      "first_mismatch": null,
+      "attention_mask_exact": true,
+      "token_type_ids_exact": true
+    }
+  },
+  "hidden_state_equivalence": {
+    "shape": [
+      728,
+      50,
+      768
+    ],
+    "bridge_dtype": "float32",
+    "adapter_dtype": "float32",
+    "bridge_finite": true,
+    "adapter_finite": true,
+    "max_abs_error": 0.0,
+    "mean_abs_error": 0.0,
+    "rmse": 0.0,
+    "allclose": true,
+    "rtol": 1e-05,
+    "atol": 1e-06,
+    "attention_mask_exact": true
+  },
+  "mask_semantics": {
+    "text_P_equals_regenerated_attention_mask": true,
+    "text_P_equals_stored_A2_P": true,
+    "text_O_equals_stored_A2_O": true,
+    "no_hidden_magnitude_missingness_rule": true,
+    "M0_text_pool_criterion": "P != 0; O unused by M0",
+    "padded_hidden_states_enter_final_pool": false
+  },
+  "prediction_equivalence": {
+    "1729": {
+      "checkpoint_sha256": "3061d80e9e5b4de57992259976f68866a549d8238fa6e7a99971b935e5cec44b",
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "logits_allclose": true,
+      "regression_allclose": true,
+      "metrics_path_A": {
+        "n": 728,
+        "accuracy": 0.6332417582417582,
+        "macro_f1": 0.6029556503452445,
+        "weighted_f1": 0.6284195967374558,
+        "mae": 0.6110567622798864,
+        "pearson": 0.6353120620256136,
+        "predicted_class_counts": {
+          "0": 202,
+          "1": 159,
+          "2": 367
+        }
+      },
+      "metrics_path_B": {
+        "n": 728,
+        "accuracy": 0.6332417582417582,
+        "macro_f1": 0.6029556503452445,
+        "weighted_f1": 0.6284195967374558,
+        "mae": 0.6110567622798864,
+        "pearson": 0.6353120620256136,
+        "predicted_class_counts": {
+          "0": 202,
+          "1": 159,
+          "2": 367
+        }
+      },
+      "metric_difference_B_minus_A": {
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "mae": 0.0,
+        "pearson": 0.0
+      }
+    },
+    "2718": {
+      "checkpoint_sha256": "6b1d31d2af92a5edb84ea133350db98eb5a7a5fcdbece2debd4887b978e26c56",
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "logits_allclose": true,
+      "regression_allclose": true,
+      "metrics_path_A": {
+        "n": 728,
+        "accuracy": 0.6304945054945055,
+        "macro_f1": 0.5877008377703787,
+        "weighted_f1": 0.6154087065769958,
+        "mae": 0.5787909589544742,
+        "pearson": 0.6522651400099061,
+        "predicted_class_counts": {
+          "0": 234,
+          "1": 113,
+          "2": 381
+        }
+      },
+      "metrics_path_B": {
+        "n": 728,
+        "accuracy": 0.6304945054945055,
+        "macro_f1": 0.5877008377703787,
+        "weighted_f1": 0.6154087065769958,
+        "mae": 0.5787909589544742,
+        "pearson": 0.6522651400099061,
+        "predicted_class_counts": {
+          "0": 234,
+          "1": 113,
+          "2": 381
+        }
+      },
+      "metric_difference_B_minus_A": {
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "mae": 0.0,
+        "pearson": 0.0
+      }
+    },
+    "31415": {
+      "checkpoint_sha256": "ab9362e6eea36bf51ee580a7a5e09e9700ce0ada7320e8231052d1cf6af9eb54",
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "logits_allclose": true,
+      "regression_allclose": true,
+      "metrics_path_A": {
+        "n": 728,
+        "accuracy": 0.6153846153846154,
+        "macro_f1": 0.5529250821912134,
+        "weighted_f1": 0.5878658436749064,
+        "mae": 0.6280767334037292,
+        "pearson": 0.634807453301007,
+        "predicted_class_counts": {
+          "0": 221,
+          "1": 83,
+          "2": 424
+        }
+      },
+      "metrics_path_B": {
+        "n": 728,
+        "accuracy": 0.6153846153846154,
+        "macro_f1": 0.5529250821912134,
+        "weighted_f1": 0.5878658436749064,
+        "mae": 0.6280767334037292,
+        "pearson": 0.634807453301007,
+        "predicted_class_counts": {
+          "0": 221,
+          "1": 83,
+          "2": 424
+        }
+      },
+      "metric_difference_B_minus_A": {
+        "accuracy": 0.0,
+        "macro_f1": 0.0,
+        "weighted_f1": 0.0,
+        "mae": 0.0,
+        "pearson": 0.0
+      }
+    }
+  },
+  "future_unaligned_A3_runner_contract": {
+    "input_fields": [
+      "external official file/order key",
+      "raw_text",
+      "audio [500,74]",
+      "vision [500,35]",
+      "audited audio/vision P/O states"
+    ],
+    "text_path": "raw_text -> this pinned adapter -> [3,50] token triplet + [50,768] hidden states; attention_mask -> text P and tokenizer padding O",
+    "model_path": "text hidden/audio/vision plus P/O -> frozen M0 -> three polarity logits/class and continuous intensity",
+    "internal_sample_id_required_by_model": false,
+    "correspondence": "caller retains external official file/order key; no synthetic ID needed",
+    "version_rule": "do not mix aligned A3 text_bert with unaligned A/V",
+    "validation_limit": "contract only; no A3 runner or A3 sample was executed"
+  },
+  "accessed_competition_splits": [
+    "A2 train",
+    "A2 valid"
+  ],
+  "csv_rows": [
+    {
+      "seed": 1729,
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "A_accuracy": 0.6332417582417582,
+      "A_macro_f1": 0.6029556503452445,
+      "A_weighted_f1": 0.6284195967374558,
+      "A_mae": 0.6110567622798864,
+      "A_pearson": 0.6353120620256136,
+      "B_accuracy": 0.6332417582417582,
+      "B_macro_f1": 0.6029556503452445,
+      "B_weighted_f1": 0.6284195967374558,
+      "B_mae": 0.6110567622798864,
+      "B_pearson": 0.6353120620256136
+    },
+    {
+      "seed": 2718,
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "A_accuracy": 0.6304945054945055,
+      "A_macro_f1": 0.5877008377703787,
+      "A_weighted_f1": 0.6154087065769958,
+      "A_mae": 0.5787909589544742,
+      "A_pearson": 0.6522651400099061,
+      "B_accuracy": 0.6304945054945055,
+      "B_macro_f1": 0.5877008377703787,
+      "B_weighted_f1": 0.6154087065769958,
+      "B_mae": 0.5787909589544742,
+      "B_pearson": 0.6522651400099061
+    },
+    {
+      "seed": 31415,
+      "max_abs_logit_difference": 0.0,
+      "mean_abs_logit_difference": 0.0,
+      "classification_disagreement_count": 0,
+      "max_abs_regression_difference": 0.0,
+      "mean_abs_regression_difference": 0.0,
+      "A_accuracy": 0.6153846153846154,
+      "A_macro_f1": 0.5529250821912134,
+      "A_weighted_f1": 0.5878658436749064,
+      "A_mae": 0.6280767334037292,
+      "A_pearson": 0.634807453301007,
+      "B_accuracy": 0.6153846153846154,
+      "B_macro_f1": 0.5529250821912134,
+      "B_weighted_f1": 0.5878658436749064,
+      "B_mae": 0.6280767334037292,
+      "B_pearson": 0.634807453301007
+    }
+  ]
+}

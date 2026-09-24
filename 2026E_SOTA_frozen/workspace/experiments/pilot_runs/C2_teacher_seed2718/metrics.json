@@ -1,0 +1,39 @@
+{
+  "status": "COMPLETE",
+  "run_id": "C2_teacher_seed2718",
+  "level": "B1",
+  "seed": 2718,
+  "lambda_reg": 2.0526115894317627,
+  "clean": {
+    "n": 728,
+    "accuracy": 0.6456043956043956,
+    "macro_f1": 0.6157562128503881,
+    "weighted_f1": 0.6399923371657622,
+    "mae": 0.5910562245446451,
+    "pearson": 0.6440148294676968,
+    "predicted_class_counts": {
+      "0": 196,
+      "1": 155,
+      "2": 377
+    }
+  },
+  "best_epoch": 6,
+  "best_valid_loss": 1.3895718789362645,
+  "epoch_times_seconds": [
+    2.2352223,
+    2.2142419,
+    1.8828246999999996,
+    1.9850098999999997,
+    1.8007422999999996,
+    1.8115306999999987,
+    1.7445456000000004,
+    1.9113494000000024,
+    1.6727226000000002
+  ],
+  "mean_epoch_seconds": 1.9175765999999999,
+  "train_wall_seconds": 18.169804900000003,
+  "bert_cache_seconds": 86.96691360000001,
+  "bert_cache_reused": true,
+  "peak_rss_bytes": 1049968640,
+  "checkpoint_sha256": "d5a4690a73febbe3ca28be3c4a081439884eeaae35269b73ca2013538d241f15"
+}

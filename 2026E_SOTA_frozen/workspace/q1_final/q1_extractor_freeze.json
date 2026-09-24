@@ -1,0 +1,51 @@
+{
+  "frozen_after_smoke": true,
+  "common_temporal_alignment": {
+    "K_bins": 50,
+    "duration_authority": "container mvhd (verified)"
+  },
+  "text_embedding": {
+    "model": "bert-base-uncased",
+    "frozen": true,
+    "local_path": "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\references\\bert-base-uncased",
+    "weights_sha256": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+    "vocab_sha256": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f",
+    "word_embedding": "mean of subword states grouped by word_id"
+  },
+  "forced_alignment": {
+    "model": "facebook/wav2vec2-base-960h",
+    "type": "generic ASR CTC (NOT sentiment-trained)",
+    "local_path": "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\references\\wav2vec2-base-960h",
+    "weights_sha256": "c34f9827b034a1b9141dbf6f652f8a60eda61cdf5771c9e05bfa99033c92cd96",
+    "method": "CTC Viterbi over blank-separated uppercase token sequence",
+    "frame_hop_s": 0.02,
+    "verified_threshold_resolved_fraction": 0.8,
+    "on_failure": "mark words/sample UNRESOLVED, never invent timestamps"
+  },
+  "audio": {
+    "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+    "opensmile_python_version": "2.5.0",
+    "pcm": "mono 16 kHz s16 (resampled from source via PyAV)",
+    "lld_hop_s": 0.01,
+    "lld_window_s": 0.02,
+    "frame_timestamp": "exact clip-relative start/end"
+  },
+  "visual": {
+    "extractor": "MediaPipe FaceDetection(model_selection=1,min_conf=0.5) + FaceMesh(468,static)",
+    "mediapipe_version": "0.10.10",
+    "feature_dim": 1404,
+    "on_no_face": "record observation state, never delete frame"
+  },
+  "state_rules": {
+    "P": "verified present in media timeline",
+    "O": "valid extractor observation",
+    "P0": "verified padding/hard exclude",
+    "O0": "known unavailable/no observation",
+    "zero_magnitude_never_defines_missing": true
+  },
+  "versions": {
+    "pyav": "12.3.0",
+    "transformers": "4.26.0"
+  },
+  "boundary": "Attachment 1 only; not merged into Q2 training; no A2 test/A3/A4 access"
+}

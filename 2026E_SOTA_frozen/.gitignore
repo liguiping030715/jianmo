@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Large data (regenerate from raw attachments)
+workspace/data/raw/
+workspace/data/processed/
+workspace/experiments/pilot_cache/
+workspace/references/
+
+# Archives
+*.zip
+*.tar.gz
+.agents.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

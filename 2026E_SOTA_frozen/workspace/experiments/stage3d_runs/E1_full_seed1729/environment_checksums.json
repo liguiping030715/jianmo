@@ -1,0 +1,26 @@
+{
+  "torch": "2.4.1+cpu",
+  "python": "3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]",
+  "cuda": false,
+  "model_code_sha256": "51791519b3537300fcc1d943db0ab5145193655761291e472639ba67ab638951",
+  "runner_sha256": "f73fd0630d73e9eeddd9f31908416282ef251d4d9b97a99aab2ec88adf2995b1",
+  "plan_sha256": "4fb1c2f71f8d98661c7adf04e09f8832eb79bd8b5e7c67b11eb54520baa5d932",
+  "v2_manifest_sha256": "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83",
+  "scaler_sha256": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+  "bert_weights_sha256": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+  "mask_sha256": "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+  "frozen_comparators": {
+    "R0a": {
+      "metrics_sha256": "e8cd01d8ee315499c79d167e0c291d39e1c9972830edb76861a94526b91ba0a3",
+      "config_sha256": "ffaeede1fc85ebf91c924567ce7d0c4601e444bfd8d425bdffe1743eb0761646"
+    },
+    "R1": {
+      "metrics_sha256": "71e391840b2a0622a20ea9871c04e6d2b99e3962bbf46e9e1171f888c5dea633",
+      "config_sha256": "b660a35d6d250c3854059f1789f411626dba73b51d94bcaa6f0069bc06f9267f"
+    },
+    "E0": {
+      "metrics_sha256": "a6dbd40c31680383e163dd4746619fc3ca97dc4bcad3146193b4b72f866a4068",
+      "config_sha256": "1476ce5923abef03fd98112f7ebf7b5fcc4a19b62cc6e6f97d59f5e0dad931bb"
+    }
+  }
+}

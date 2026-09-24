@@ -1,0 +1,33 @@
+{
+  "status": "COMPLETE",
+  "run_id": "R0_lambda_high_seed1729",
+  "level": "B0",
+  "seed": 1729,
+  "lambda_reg": 4.105223178863525,
+  "clean": {
+    "n": 728,
+    "accuracy": 0.6236263736263736,
+    "macro_f1": 0.5890079293338542,
+    "weighted_f1": 0.6157738207949038,
+    "mae": 0.6046126345469959,
+    "pearson": 0.6210819202888691,
+    "predicted_class_counts": {
+      "0": 242,
+      "1": 139,
+      "2": 347
+    }
+  },
+  "best_epoch": 3,
+  "best_valid_loss": 2.023953843902756,
+  "epoch_times_seconds": [
+    1.4973703,
+    1.3621855999999983,
+    1.389879399999998
+  ],
+  "mean_epoch_seconds": 1.4164784333333322,
+  "train_wall_seconds": 4.4777542,
+  "bert_cache_seconds": 86.96691360000001,
+  "bert_cache_reused": true,
+  "peak_rss_bytes": 1183813632,
+  "checkpoint_sha256": "1429caf205a8c2bd33cb54b2ab78e9581d6bf8f65442a377fa9d37b9cc1691b4"
+}

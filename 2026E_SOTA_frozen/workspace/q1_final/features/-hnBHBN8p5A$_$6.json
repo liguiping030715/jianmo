@@ -1,0 +1,66 @@
+{
+  "id": "-hnBHBN8p5A$_$6",
+  "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4",
+  "label": "1.0",
+  "annotation": "Positive",
+  "text": "Discussion, how to discuss ideas and opinions more effectively than a native speaker",
+  "verified_duration_s": 6.401,
+  "old_manifest_duration_s": 11.429,
+  "nominal_fps": 23.976035631539084,
+  "n_video_frames_decoded": 153,
+  "orig_audio_sr": 44100,
+  "orig_audio_channels": 2,
+  "video_coverage_end": 6.38137497972425,
+  "audio_coverage_end": 6.3328125,
+  "text_alignment": {
+    "status": "UNRESOLVED",
+    "n_words": 14,
+    "n_alignable": 13,
+    "n_resolved": 4,
+    "n_frames": 316
+  },
+  "audio_meta": {
+    "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+    "opensmile_python_version": "2.5.0",
+    "sample_rate": 16000,
+    "channels": 1,
+    "hop_s": 0.010000000000000009,
+    "window_s": 0.02,
+    "feature_dimensions": 25,
+    "feature_names": []
+  },
+  "visual_meta": {
+    "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+    "feature_dimensions": 1404,
+    "frames_processed": 153,
+    "frames_face_detected": 125,
+    "face_detection_coverage": 0.8169934640522876,
+    "frame_width": 1280,
+    "frame_height": 720
+  },
+  "bin_P_counts": {
+    "text": 0,
+    "audio": 50,
+    "vision": 50
+  },
+  "bin_O_counts": {
+    "text": 0,
+    "audio": 50,
+    "vision": 13
+  },
+  "finite_check": {
+    "text": true,
+    "audio": true,
+    "vision": true
+  },
+  "text_alignment_state": 2,
+  "text_content_present": true,
+  "text_content_representation": "text_word_feat plus text_utterance_feat",
+  "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+  "bin_P_unknown_counts": {
+    "text": 50
+  },
+  "bin_O_unknown_counts": {
+    "text": 50
+  }
+}

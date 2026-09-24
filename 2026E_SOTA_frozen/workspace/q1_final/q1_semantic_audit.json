@@ -1,0 +1,18 @@
+{
+  "status": "Q1_COMPLETE",
+  "counts": {
+    "records": 100,
+    "transcript_preserved": 100,
+    "bert_content_preserved": 100,
+    "verified": 78,
+    "unresolved": 22,
+    "unknown_not_absent": 22,
+    "finite_observed": 100,
+    "finite_model_input": 100,
+    "label_preserved": 100,
+    "extractor_hashes_unchanged": 10
+  },
+  "frozen_hash_count": 10,
+  "failures": [],
+  "note": "Original nonobserved *_feat entries may be NaN. All observed entries and *_model_input arrays are finite."
+}

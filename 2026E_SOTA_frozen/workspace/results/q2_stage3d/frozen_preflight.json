@@ -1,0 +1,62 @@
+{
+  "status": "PASSED",
+  "plan_sha256": "4fb1c2f71f8d98661c7adf04e09f8832eb79bd8b5e7c67b11eb54520baa5d932",
+  "model_code_sha256": "51791519b3537300fcc1d943db0ab5145193655761291e472639ba67ab638951",
+  "pilot_code_sha256": "f73fd0630d73e9eeddd9f31908416282ef251d4d9b97a99aab2ec88adf2995b1",
+  "v2_manifest_sha256": "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83",
+  "scaler_sha256": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+  "bert_weights_sha256": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+  "mask_sha256": {
+    "1729": "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+    "2718": "ce250f2ec4f6ff54969d818e522cdb986e15ba5b669013caff4d25c0067f2154",
+    "31415": "aa6afe458af9b88c3383b9162af3f2f3c1d4d254ad622e402e0c84d1aa36f336"
+  },
+  "comparators": {
+    "1729": {
+      "R0a": {
+        "metrics_sha256": "e8cd01d8ee315499c79d167e0c291d39e1c9972830edb76861a94526b91ba0a3",
+        "config_sha256": "ffaeede1fc85ebf91c924567ce7d0c4601e444bfd8d425bdffe1743eb0761646"
+      },
+      "R1": {
+        "metrics_sha256": "71e391840b2a0622a20ea9871c04e6d2b99e3962bbf46e9e1171f888c5dea633",
+        "config_sha256": "b660a35d6d250c3854059f1789f411626dba73b51d94bcaa6f0069bc06f9267f"
+      },
+      "E0": {
+        "metrics_sha256": "a6dbd40c31680383e163dd4746619fc3ca97dc4bcad3146193b4b72f866a4068",
+        "config_sha256": "1476ce5923abef03fd98112f7ebf7b5fcc4a19b62cc6e6f97d59f5e0dad931bb"
+      }
+    },
+    "2718": {
+      "R0a": {
+        "metrics_sha256": "b4c8fa0fe6cb54f815f4eae29920ab3b133409b06183afc2b255bb0f40ba5295",
+        "config_sha256": "f24f4a35c1be6d85327781922f4dcdf3dfa2ecc76be2c608aea757398a9279f1"
+      },
+      "R1": {
+        "metrics_sha256": "42120d61516b623956ccb7025773218055cd0ceae5569f9cf8f7279c1e1bf848",
+        "config_sha256": "d12febbd9504ebeb1dcd4aea513aee233e5a0857af35085cdfe0b36c21b9b0f9"
+      },
+      "E0": {
+        "metrics_sha256": "720f9d396ae43d985e4c3ed2bcb1926df05d0d746019e4ce8658ada87c937fad",
+        "config_sha256": "ace8023f781e3ef710345cde3aa40a66c8515dafa486a83f566357a27d90fa6f"
+      }
+    },
+    "31415": {
+      "R0a": {
+        "metrics_sha256": "5f357384b480e0b6053a98ee7ff775299426fe07ac9080ae7a9fc32651060bd3",
+        "config_sha256": "253f6439d0e6006e1b42ebf11ba837882a7dcd4d4f743b5fc01bf950c2d195cc"
+      },
+      "R1": {
+        "metrics_sha256": "08e471495fab93c2f6ece1c6cfd3639ab1a1d4e0a6d2beaa8361a1bf69fe89d8",
+        "config_sha256": "4054046673e9d213292c008c5288fecf5f3f4b2ee80e6026950917d3d5e0dca0"
+      },
+      "E0": {
+        "metrics_sha256": "84fd652af312888560375640d639aaf18a5a3fab93ed3eab0f816076235d0d63",
+        "config_sha256": "28d8c0565bf86cbbe9fdf521008722721016779165fffb40c6c820a0597e0f3e"
+      }
+    }
+  },
+  "allowed_splits": [
+    "train",
+    "valid"
+  ]
+}

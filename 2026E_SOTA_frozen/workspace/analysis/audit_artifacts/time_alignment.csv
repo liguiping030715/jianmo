@@ -1,0 +1,13 @@
+station,profiler_timestamp,exact_microwave_timestamp_present,exact_microwave_cycle_count,nearest_microwave_timestamps,nearest_absolute_offset_minutes,nearest_total_cycle_count
+station_a,2025-08-02 00:00,True,1,2025-08-02 00:00,0.0,1
+station_a,2025-08-02 00:06,True,1,2025-08-02 00:06,0.0,1
+station_a,2025-08-02 00:12,True,1,2025-08-02 00:12,0.0,1
+station_a,2025-08-02 00:18,True,1,2025-08-02 00:18,0.0,1
+station_a,2025-08-02 00:24,True,1,2025-08-02 00:24,0.0,1
+station_a,2025-08-02 00:30,True,1,2025-08-02 00:30,0.0,1
+station_b,2025-08-02 00:00,False,0,2025-08-02 00:02,2.0,2
+station_b,2025-08-02 00:06,True,1,2025-08-02 00:06,0.0,1
+station_b,2025-08-02 00:12,True,1,2025-08-02 00:12,0.0,1
+station_b,2025-08-02 00:18,True,1,2025-08-02 00:18,0.0,1
+station_b,2025-08-02 00:24,True,2,2025-08-02 00:24,0.0,2
+station_b,2025-08-02 00:30,True,1,2025-08-02 00:30,0.0,1

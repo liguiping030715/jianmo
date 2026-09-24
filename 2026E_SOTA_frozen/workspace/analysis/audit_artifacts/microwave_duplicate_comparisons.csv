@@ -1,0 +1,25 @@
+station,timestamp,baseline_cycle,comparison_cycle,code_token,baseline_record_id,comparison_record_id,named_changed_count,named_changed_columns,profile_changed_count,profile_max_abs_difference,profile_mean_abs_difference,qc_equal,payload_equal_excluding_record_id
+station_b,2025-08-02 00:02,1,2,11,1,9,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.14599999999999724,0.06813253012048187,True,False
+station_b,2025-08-02 00:02,1,2,12,2,10,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),83,0.5199999999999996,0.18702409638554207,True,False
+station_b,2025-08-02 00:02,1,2,13,3,11,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),83,25.547,12.203421686746989,True,False
+station_b,2025-08-02 00:02,1,2,14,4,12,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),37,0.07200000000000006,0.013686746987951812,True,False
+station_b,2025-08-02 00:08,1,2,11,17,25,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.03500000000000014,0.017855421686746822,True,False
+station_b,2025-08-02 00:08,1,2,12,18,26,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.35599999999999987,0.11912048192771081,True,False
+station_b,2025-08-02 00:08,1,2,13,19,27,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),83,20.893000000000004,10.030819277108433,True,False
+station_b,2025-08-02 00:08,1,2,14,20,28,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),40,0.056999999999999995,0.010638554216867473,True,False
+station_b,2025-08-02 00:10,1,2,11,21,29,5,SurPre(hPa);Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.045999999999999375,0.019361445783132644,True,False
+station_b,2025-08-02 00:10,1,2,12,22,30,5,SurPre(hPa);Tir(??);CloudBase(km);Vint(mm);Lqint(mm),79,0.4980000000000011,0.15380722891566256,True,False
+station_b,2025-08-02 00:10,1,2,13,23,31,5,SurPre(hPa);Tir(??);CloudBase(km);Vint(mm);Lqint(mm),79,26.416000000000004,10.038698795180723,True,False
+station_b,2025-08-02 00:10,1,2,14,24,32,5,SurPre(hPa);Tir(??);CloudBase(km);Vint(mm);Lqint(mm),42,0.09500000000000003,0.017867469879518073,True,False
+station_b,2025-08-02 00:20,1,2,11,45,49,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.019000000000000128,0.008108433734939831,True,False
+station_b,2025-08-02 00:20,1,2,12,46,50,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.33800000000000097,0.1507228915662652,True,False
+station_b,2025-08-02 00:20,1,2,13,47,51,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,2.5180000000000007,0.7980602409638562,True,False
+station_b,2025-08-02 00:20,1,2,14,48,52,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),54,0.10099999999999998,0.01697590361445783,True,False
+station_b,2025-08-02 00:24,1,2,11,53,57,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),77,0.021000000000000796,0.006987951807228915,True,False
+station_b,2025-08-02 00:24,1,2,12,54,58,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),83,0.8309999999999995,0.3427831325301205,True,False
+station_b,2025-08-02 00:24,1,2,13,55,59,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),83,13.171,3.7597228915662653,True,False
+station_b,2025-08-02 00:24,1,2,14,56,60,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),58,0.36000000000000004,0.07040963855421686,True,False
+station_b,2025-08-02 00:28,1,2,11,61,65,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.04199999999999804,0.022674698795180647,True,False
+station_b,2025-08-02 00:28,1,2,12,62,66,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),82,0.7399999999999984,0.3344216867469882,True,False
+station_b,2025-08-02 00:28,1,2,13,63,67,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),79,20.541,3.1523373493975906,True,False
+station_b,2025-08-02 00:28,1,2,14,64,68,4,Tir(??);CloudBase(km);Vint(mm);Lqint(mm),69,0.703,0.19254216867469878,True,False

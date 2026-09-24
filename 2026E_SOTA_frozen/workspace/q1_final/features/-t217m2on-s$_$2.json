@@ -1,0 +1,66 @@
+{
+  "id": "-t217m2on-s$_$2",
+  "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4",
+  "label": "0.6666666865348816",
+  "annotation": "Positive",
+  "text": "But a good thing to do is yawning, chewing gum is effective.",
+  "verified_duration_s": 5.686003,
+  "old_manifest_duration_s": 8.011,
+  "nominal_fps": 30.0,
+  "n_video_frames_decoded": 170,
+  "orig_audio_sr": 44100,
+  "orig_audio_channels": 2,
+  "video_coverage_end": 5.666666666666667,
+  "audio_coverage_end": 5.6301875,
+  "text_alignment": {
+    "status": "VERIFIED",
+    "n_words": 14,
+    "n_alignable": 12,
+    "n_resolved": 12,
+    "n_frames": 281
+  },
+  "audio_meta": {
+    "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+    "opensmile_python_version": "2.5.0",
+    "sample_rate": 16000,
+    "channels": 1,
+    "hop_s": 0.010000000000000009,
+    "window_s": 0.02,
+    "feature_dimensions": 25,
+    "feature_names": []
+  },
+  "visual_meta": {
+    "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+    "feature_dimensions": 1404,
+    "frames_processed": 170,
+    "frames_face_detected": 170,
+    "face_detection_coverage": 1.0,
+    "frame_width": 480,
+    "frame_height": 270
+  },
+  "bin_P_counts": {
+    "text": 29,
+    "audio": 50,
+    "vision": 50
+  },
+  "bin_O_counts": {
+    "text": 29,
+    "audio": 50,
+    "vision": 50
+  },
+  "finite_check": {
+    "text": true,
+    "audio": true,
+    "vision": true
+  },
+  "text_alignment_state": 1,
+  "text_content_present": true,
+  "text_content_representation": "text_word_feat plus text_utterance_feat",
+  "temporal_text_representation": "50-bin only where forced alignment VERIFIED",
+  "bin_P_unknown_counts": {
+    "text": 21
+  },
+  "bin_O_unknown_counts": {
+    "text": 21
+  }
+}

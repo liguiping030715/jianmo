@@ -1,0 +1,23 @@
+{
+  "run_id": "E1_local_only_seed1729",
+  "seed": 1729,
+  "mode": "local_only",
+  "source_version": "cleaning_2026e_v2/aligned",
+  "allowed_splits": [
+    "train",
+    "valid"
+  ],
+  "epochs_cap": 12,
+  "patience": 3,
+  "batch_size": 64,
+  "optimizer": "AdamW",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "lambda_reg": 2.0526115894317627,
+  "lambda_local": 0.9656400593728972,
+  "lambda_global": 0.0,
+  "restoration_enabled": true,
+  "mask_sha256": "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+  "plan_sha256": "4fb1c2f71f8d98661c7adf04e09f8832eb79bd8b5e7c67b11eb54520baa5d932",
+  "calibration_sha256": "6d6b2436af9c4ad39e7761400302f5a9d7234a1b7d3171c934b4201780e18c82"
+}

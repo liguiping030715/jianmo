@@ -1,0 +1,46 @@
+{
+  "n": 728,
+  "baseline_alpha_mean": [
+    0.6534836888313293,
+    0.13234975934028625,
+    0.2141665816307068
+  ],
+  "interventions": {
+    "text": {
+      "altered_alpha_mean": [
+        0.7171791195869446,
+        0.10813096910715103,
+        0.17469018697738647
+      ],
+      "mean_target_alpha_change": 0.06369533389806747,
+      "median_target_alpha_change": 0.06822139024734497,
+      "fraction_target_alpha_decreased": 0.29395604395604397,
+      "mean_absolute_alpha_change": 0.06751050055027008,
+      "max_absolute_alpha_change": 0.30351683497428894
+    },
+    "audio": {
+      "altered_alpha_mean": [
+        0.650577187538147,
+        0.13675512373447418,
+        0.2126675695180893
+      ],
+      "mean_target_alpha_change": 0.004405353218317032,
+      "median_target_alpha_change": 0.005782231688499451,
+      "fraction_target_alpha_decreased": 0.18406593406593408,
+      "mean_absolute_alpha_change": 0.005754649639129639,
+      "max_absolute_alpha_change": 0.09921979904174805
+    },
+    "vision": {
+      "altered_alpha_mean": [
+        0.6254173517227173,
+        0.12575572729110718,
+        0.24882639944553375
+      ],
+      "mean_target_alpha_change": 0.03465985879302025,
+      "median_target_alpha_change": 0.031298235058784485,
+      "fraction_target_alpha_decreased": 0.04532967032967033,
+      "mean_absolute_alpha_change": 0.023796824738383293,
+      "max_absolute_alpha_change": 0.14852143824100494
+    }
+  }
+}

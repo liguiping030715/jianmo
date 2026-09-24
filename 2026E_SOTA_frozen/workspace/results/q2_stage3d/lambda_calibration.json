@@ -1,0 +1,24 @@
+{
+  "status": "FROZEN_TRAIN_ONLY",
+  "plan_sha256": "4fb1c2f71f8d98661c7adf04e09f8832eb79bd8b5e7c67b11eb54520baa5d932",
+  "seed": 1729,
+  "sample_count": 256,
+  "sample_id_sha256": "1dff0096879bad7904ae4ae00ab1ebf5833a9fe96f4ba529ddf1c2858db75b33",
+  "train_loss_means": {
+    "prediction": 3.177917242050171,
+    "local": 0.3290995657444,
+    "global": 0.003007455263286829
+  },
+  "target_auxiliary_fraction_each": 0.1,
+  "clip_interval": [
+    0.01,
+    10.0
+  ],
+  "lambda_local": 0.9656400593728972,
+  "lambda_global": 10.0,
+  "lambda_reg": 2.0526115894317627,
+  "mask_sha256": "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+  "scaler_sha256": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+  "bert_weights_sha256": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+  "valid_predictions_inspected": false
+}

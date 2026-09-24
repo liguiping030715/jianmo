@@ -1,0 +1,9 @@
+# Q3 Attachment 4 explanation traceability
+
+**Stage 2.5 addendum:** Direct MP4 container parsing yields 3.700–24.134 s for the 40 files. Clip-level duration is known, while exact decoded-frame, feature-index and word timestamps remain unresolved. See `workspace/evidence_recovery/timebase_evidence.md`.
+
+Attachment 4 has 20 local samples, each with aligned and unaligned PKL and MP4. All 40 videos decode an initial frame; OpenCV metadata durations span 3.6–24.1 s, but full sequential decoding disagreed with the reported frame count in **32/40** files. Media timestamp verification is required before converting any index to exact seconds. The two versions share local IDs `01`–`20`. Each PKL has `id`, `raw_text`, `text`, `text_bert`, audio and vision; unaligned additionally has scalar audio/vision lengths. There are no word timestamps, per-feature timestamps or original CMU-MOSEI video IDs.
+
+The MP4 gives frame index and approximate seconds via FPS. A model can report a feature **position** and local video ID exactly. Converting that position to a physical interval requires a documented extraction/alignment map, absent from the supplied PKL. Uniform `duration/valid_length` spacing would be an unverified approximation, especially for wordpiece text positions and unaligned audio/vision. A transcript phrase can be located in `raw_text` by string/token matching when unambiguous, but its spoken seconds cannot be certified from `text_bert` alone. A claimed visual keyframe can be reviewed by timestamp only after that mapping is established; at present it is a candidate clip-relative frame interval with uncertainty.
+
+Thus source-linked explanation is **partially feasible** at clip ID and token/feature-index resolution, but second-level precision and phrase-to-audio/frame correspondence remain unresolved. Q3 outputs must state this resolution and cannot use attention weights as a substitute for source mapping or perturbation faithfulness.

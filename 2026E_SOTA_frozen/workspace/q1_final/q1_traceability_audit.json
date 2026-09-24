@@ -1,0 +1,19 @@
+{
+  "status": "TRACEABILITY_PARTIAL",
+  "observed": {
+    "sample_maps": 100,
+    "bins": 5000,
+    "feature_npz": 100,
+    "feature_json": 100,
+    "recovery_log_lines": 100,
+    "video_frames_mapped": 23241,
+    "audio_lld_frames_mapped": 77261,
+    "bert_words_mapped": 2251
+  },
+  "failures": [],
+  "limitations": [
+    "The original visual extractor did not persist per-frame FaceMesh success or raw per-frame feature vectors; exact frame contributors to a bin cannot be proven without rerunning it.",
+    "Existing source maps identify exact candidate decoded frame IDs/PTS for every bin and reproduce vision P. Bin O certifies at least one finite visual observation, not which candidate frame contributed.",
+    "No unsupported timestamp is assigned to an unresolved word."
+  ]
+}

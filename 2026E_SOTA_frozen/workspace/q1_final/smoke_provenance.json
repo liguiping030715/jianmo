@@ -1,0 +1,277 @@
+[
+  {
+    "id": "-mJ2ud6oKI8$_$6",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "They are all very safe",
+    "verified_duration_s": 2.257,
+    "old_manifest_duration_s": 2.648,
+    "nominal_fps": 29.97002997002997,
+    "n_video_frames_decoded": 67,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.2355666666666667,
+    "audio_coverage_end": 2.228125,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 5,
+      "n_resolved": 5,
+      "n_frames": 111
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 67,
+      "frames_face_detected": 67,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 23,
+      "audio": 50,
+      "vision": 49
+    },
+    "bin_O_counts": {
+      "text": 23,
+      "audio": 50,
+      "vision": 49
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    }
+  },
+  {
+    "id": "-UuX1xuaiiE$_$3",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4",
+    "label": "0.3333333432674408",
+    "annotation": "Positive",
+    "text": "My goal is to become a human rights lawyer",
+    "verified_duration_s": 4.130013,
+    "old_manifest_duration_s": 10.634,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 123,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.1,
+    "audio_coverage_end": 4.038375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 9,
+      "n_resolved": 9,
+      "n_frames": 201
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 123,
+      "frames_face_detected": 123,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 29,
+      "audio": 49,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 29,
+      "audio": 49,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    }
+  },
+  {
+    "id": "-yRb-Jum7EQ$_$1",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "it comes with the assistance and agitation of states and regimes, Yesterday Iran announced that it will finance the families of the terrorists and murderers this shows that Iran, even after the nuclear agreement, is continuing to aid terrorism, including Palestinian terrorism, Hezbollah terrorism and its assistance to Hamas.",
+    "verified_duration_s": 29.288021,
+    "old_manifest_duration_s": 34.567,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 875,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 29.26666666666667,
+    "audio_coverage_end": 29.10975,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 55,
+      "n_resolved": 47,
+      "n_frames": 1455
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.009999999999999787,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 875,
+      "frames_face_detected": 875,
+      "face_detection_coverage": 1.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    }
+  },
+  {
+    "id": "-UacrmKiTn4$_$4",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4",
+    "label": "-1.3333333730697632",
+    "annotation": "Negative",
+    "text": "Just given to their own devices they are not going to read the textbook.",
+    "verified_duration_s": 4.741016,
+    "old_manifest_duration_s": 6.223,
+    "nominal_fps": 30.0,
+    "n_video_frames_decoded": 142,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 4.733333333333333,
+    "audio_coverage_end": 4.6819375,
+    "text_alignment": {
+      "status": "VERIFIED",
+      "n_words": 15,
+      "n_resolved": 14,
+      "n_frames": 233
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 142,
+      "frames_face_detected": 142,
+      "face_detection_coverage": 1.0,
+      "frame_width": 470,
+      "frame_height": 360
+    },
+    "bin_P_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 39,
+      "audio": 50,
+      "vision": 50
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    }
+  },
+  {
+    "id": "-ri04Z7vwnc$_$0",
+    "mp4": "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4",
+    "label": "0.0",
+    "annotation": "Neutral",
+    "text": "going to get married or are already married",
+    "verified_duration_s": 2.807,
+    "old_manifest_duration_s": 3.295,
+    "nominal_fps": 23.97604418875992,
+    "n_video_frames_decoded": 67,
+    "orig_audio_sr": 44100,
+    "orig_audio_channels": 2,
+    "video_coverage_end": 2.794463853727145,
+    "audio_coverage_end": 2.76325,
+    "text_alignment": {
+      "status": "UNRESOLVED",
+      "n_words": 8,
+      "n_resolved": 2,
+      "n_frames": 137
+    },
+    "audio_meta": {
+      "extractor": "openSMILE eGeMAPSv02 LowLevelDescriptors",
+      "opensmile_python_version": "2.5.0",
+      "sample_rate": 16000,
+      "channels": 1,
+      "hop_s": 0.010000000000000009,
+      "window_s": 0.02,
+      "feature_dimensions": 25,
+      "feature_names": []
+    },
+    "visual_meta": {
+      "extractor": "MediaPipe FaceDetection + FaceMesh(468) static per frame",
+      "feature_dimensions": 1404,
+      "frames_processed": 67,
+      "frames_face_detected": 0,
+      "face_detection_coverage": 0.0,
+      "frame_width": 1280,
+      "frame_height": 720
+    },
+    "bin_P_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 50
+    },
+    "bin_O_counts": {
+      "text": 0,
+      "audio": 50,
+      "vision": 0
+    },
+    "finite_check": {
+      "text": true,
+      "audio": true,
+      "vision": true
+    }
+  }
+]

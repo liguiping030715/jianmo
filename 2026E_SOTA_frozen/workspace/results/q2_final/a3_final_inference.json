@@ -1,0 +1,205 @@
+{
+  "status": "Q2_ATTACHMENT3_FINAL_INFERENCE_COMPLETE",
+  "scope": "one-time unlabeled Attachment 3 unaligned inference; no model selection",
+  "sample_count": 30,
+  "official_order": "frozen samples.json row 0..29 maps exactly to official unaligned files 01..30",
+  "internal_id_required": false,
+  "predictor": "single frozen M0 seed2718",
+  "freeze_sha256": "d0d25145effe4e56848677ea964b4145eb6bfabfe71511042dc02224775b014d",
+  "checkpoint_sha256": "6b1d31d2af92a5edb84ea133350db98eb5a7a5fcdbece2debd4887b978e26c56",
+  "processed_A3_input_sha256": {
+    "audio.npy": "4afecca41e8546c793df5829e6047ab42e8253f6d27b18bd69806ca6a86c2099",
+    "audio_O.npy": "f9dca56e951dfc097b956a885c0087f2803789b32ab4d7f5e8aa4a5a20470266",
+    "audio_P.npy": "f9dca56e951dfc097b956a885c0087f2803789b32ab4d7f5e8aa4a5a20470266",
+    "audio_zero_context.npy": "67a865d0ec6ef0098ad1bc67c545761a15196792cc2cee959ad885d48aa85d6f",
+    "samples.json": "ae8042f2eec9752e2ee2ef8aca9eb4f39e79aad94e9372103177d54d7d50f456",
+    "vision.npy": "65c755f193449f546eb16ed84076eda658ec8e57825dfd9523e59cfee380d10b",
+    "vision_O.npy": "cf93d87b325841f47caae5e768d8e5764035e278f8c2f03f210ec271cacc773f",
+    "vision_P.npy": "cf93d87b325841f47caae5e768d8e5764035e278f8c2f03f210ec271cacc773f",
+    "vision_zero_context.npy": "7dee0d4c97a689a6d7787af5fcbac135df33ab173beab96f83ed06c27756bcbf"
+  },
+  "text_adapter": {
+    "source_sha256": "b8a5ba1d9a30763d1101538b7df33601dfb9f433bfdbddaa8f649092ad2a5945",
+    "provenance": {
+      "local_model": "workspace\\references\\bert-base-uncased",
+      "model_revision": "86b5e0934494bd15c9632b12f734a8a67f723594",
+      "file_sha256": {
+        "pytorch_model.bin": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+        "vocab.txt": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f",
+        "tokenizer.json": "ce64fce797c24f68df90b40a3f74f579b336a493db14bd583fd520ea0d8c9a98",
+        "tokenizer_config.json": "a025160ef0431f1a392f6f050c1310f4c5d9fb6f275932dbccba73c4d214bf10",
+        "config.json": "b92c83fdd39b9dcdded83e388feefd12a9bfc6e4e81cda9328c73b6865b10b3f"
+      },
+      "transformers_version": "4.26.0",
+      "torch_version": "2.4.1+cpu",
+      "tokenizer_class": "BertTokenizerFast",
+      "tokenizer_settings": {
+        "add_special_tokens": true,
+        "padding": "max_length",
+        "truncation": true,
+        "max_length": 50,
+        "padding_side": "right",
+        "truncation_side": "right",
+        "do_lower_case": true,
+        "return_attention_mask": true,
+        "return_token_type_ids": true,
+        "triplet_row_order": [
+          "input_ids",
+          "attention_mask",
+          "token_type_ids"
+        ],
+        "special_token_ids": {
+          "CLS": 101,
+          "SEP": 102,
+          "PAD": 0,
+          "UNK": 100
+        }
+      },
+      "bert_eval_mode": true,
+      "bert_parameters_require_grad": false,
+      "bert_batch_size": 16,
+      "cpu_threads": 8,
+      "output_shape_per_sample": [
+        50,
+        768
+      ],
+      "output_dtype": "float32"
+    },
+    "text_hidden_shape": [
+      30,
+      50,
+      768
+    ],
+    "text_hidden_dtype": "float32",
+    "attention_mask_valid_token_count": 665,
+    "attention_mask_padding_token_count": 835,
+    "attention_mask_integrity": true
+  },
+  "input_audit": {
+    "audio": {
+      "shape": [
+        30,
+        500,
+        74
+      ],
+      "dtype": "float32",
+      "finite": true,
+      "P_values": {
+        "1": 3237,
+        "2": 11763
+      },
+      "O_values": {
+        "1": 3237,
+        "2": 11763
+      }
+    },
+    "vision": {
+      "shape": [
+        30,
+        500,
+        35
+      ],
+      "dtype": "float32",
+      "finite": true,
+      "P_values": {
+        "1": 2268,
+        "2": 12732
+      },
+      "O_values": {
+        "1": 2268,
+        "2": 12732
+      }
+    }
+  },
+  "prediction_audit": {
+    "finite": true,
+    "predicted_class_counts": {
+      "Negative": 6,
+      "Neutral": 5,
+      "Positive": 19
+    },
+    "intensity_range": [
+      -1.3342658281326294,
+      1.7526023387908936
+    ],
+    "logit_range": [
+      -2.356415271759033,
+      2.509596824645996
+    ],
+    "probability_row_sum_max_abs_error": 1.1920928955078125e-07
+  },
+  "descriptive_zero_runs": {
+    "audio": {
+      "zero_rows": 11763,
+      "total_rows": 15000,
+      "zero_row_ratio": 0.7842,
+      "nonzero_rows": 3237,
+      "run_count": 635,
+      "run_types": {
+        "interior_zero_candidate": 602,
+        "suffix_zero_ambiguous": 30,
+        "prefix_zero_ambiguous": 3
+      },
+      "run_length_native_steps": {
+        "min": 1,
+        "median": 1.0,
+        "max": 451
+      },
+      "sample_zero_row_ratio": {
+        "min": 0.51,
+        "median": 0.8029999999999999,
+        "max": 0.924
+      },
+      "zero_context_3_positions_diagnostic_only": 787,
+      "frozen_P_counts": {
+        "1": 3237,
+        "2": 11763
+      },
+      "frozen_O_counts": {
+        "1": 3237,
+        "2": 11763
+      }
+    },
+    "vision": {
+      "zero_rows": 12732,
+      "total_rows": 15000,
+      "zero_row_ratio": 0.8488,
+      "nonzero_rows": 2268,
+      "run_count": 460,
+      "run_types": {
+        "interior_zero_candidate": 424,
+        "suffix_zero_ambiguous": 30,
+        "prefix_zero_ambiguous": 6
+      },
+      "run_length_native_steps": {
+        "min": 1,
+        "median": 1.0,
+        "max": 463
+      },
+      "sample_zero_row_ratio": {
+        "min": 0.638,
+        "median": 0.863,
+        "max": 0.964
+      },
+      "zero_context_3_positions_diagnostic_only": 624,
+      "frozen_P_counts": {
+        "1": 2268,
+        "2": 12732
+      },
+      "frozen_O_counts": {
+        "1": 2268,
+        "2": 12732
+      }
+    }
+  },
+  "missingness_interpretation": "zero runs are observable candidates only, not certified missing masks; index positions, not physical seconds",
+  "runtime_seconds": {
+    "bert_encoding": 0.7685261999999993,
+    "model_inference": 0.05936960000000013,
+    "total": 2.7405334999999997
+  },
+  "peak_process_rss_bytes": 1204510720,
+  "predictions_csv_sha256": "c1708d7ee1a2419668ac9602a855586f45a2c2d1b9d29cfc9ba92473bf9bfd2f",
+  "descriptive_csv_sha256": "b170a2d69538f9092ddbf7e21955087e45212256820d888f169b6bc855fb43e0",
+  "no_training_tuning_imputation_or_reselection": true
+}

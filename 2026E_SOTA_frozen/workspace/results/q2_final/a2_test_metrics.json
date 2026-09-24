@@ -1,0 +1,93 @@
+{
+  "status": "Q2_FINAL_PIPELINE_FROZEN_AND_TESTED",
+  "test_samples": 727,
+  "selected_seed": 2718,
+  "predictor": "single frozen M0 seed2718",
+  "freeze_sha256": "d0d25145effe4e56848677ea964b4145eb6bfabfe71511042dc02224775b014d",
+  "checkpoint_sha256": "6b1d31d2af92a5edb84ea133350db98eb5a7a5fcdbece2debd4887b978e26c56",
+  "label_workbook_sha256": "0d6351ace01a2edee8861b21b2893c82d916d2a3e8b69d3b4f832ca841349875",
+  "finite_predictions": true,
+  "output_range": {
+    "logits": [
+      -3.1247940063476562,
+      3.458282709121704
+    ],
+    "intensity": [
+      -2.337578535079956,
+      2.2618072032928467
+    ]
+  },
+  "predicted_class_distribution": {
+    "Negative": 230,
+    "Neutral": 89,
+    "Positive": 408
+  },
+  "true_class_distribution": {
+    "Negative": 207,
+    "Neutral": 158,
+    "Positive": 362
+  },
+  "runtime_seconds": {
+    "bert_encoding": 24.055470500000002,
+    "model_inference": 0.6465863000000027,
+    "total": 26.9131772
+  },
+  "peak_process_rss_bytes": 1496571904,
+  "peak_process_rss_gib": 1.3937911987304688,
+  "text_triplet_exact_to_frozen_A2_test": true,
+  "text_P_O_exact_to_frozen_A2_test": true,
+  "metrics": {
+    "classification": {
+      "accuracy": 0.672627235213205,
+      "macro_f1": 0.5986763808274106,
+      "weighted_f1": 0.6534911841217494,
+      "confusion_matrix_true_rows_predicted_columns": [
+        [
+          149,
+          21,
+          37
+        ],
+        [
+          43,
+          42,
+          73
+        ],
+        [
+          38,
+          26,
+          298
+        ]
+      ],
+      "per_class": {
+        "Negative": {
+          "class_index": 0,
+          "precision": 0.6478260869565218,
+          "recall": 0.7198067632850241,
+          "f1": 0.6819221967963387,
+          "support": 207
+        },
+        "Neutral": {
+          "class_index": 1,
+          "precision": 0.47191011235955055,
+          "recall": 0.26582278481012656,
+          "f1": 0.340080971659919,
+          "support": 158
+        },
+        "Positive": {
+          "class_index": 2,
+          "precision": 0.7303921568627451,
+          "recall": 0.8232044198895028,
+          "f1": 0.774025974025974,
+          "support": 362
+        }
+      }
+    },
+    "regression": {
+      "mae": 0.6274273428264326,
+      "pearson": 0.6729205586247468
+    }
+  },
+  "development_robustness_source": "workspace/results/q2_bridge/M0_results.md (A2 valid S1-S6)",
+  "no_test_perturbations_or_reselection": true,
+  "prediction_csv_sha256": "ed322de0e6938434c977199a76a789639ef9922fb82908f694064e7d8417f521"
+}

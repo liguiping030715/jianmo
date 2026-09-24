@@ -1,0 +1,75 @@
+{
+  "status": "PREPROCESSING_REAUDIT_REQUIRES_LOADER_ASSERTIONS",
+  "checks": [
+    {
+      "name": "aligned/train/count_ids",
+      "passed": true,
+      "detail": 3395
+    },
+    {
+      "name": "aligned/valid/count_ids",
+      "passed": true,
+      "detail": 728
+    },
+    {
+      "name": "unaligned/train/count_ids",
+      "passed": true,
+      "detail": 3395
+    },
+    {
+      "name": "unaligned/valid/count_ids",
+      "passed": true,
+      "detail": 728
+    },
+    {
+      "name": "aligned_unaligned_label_identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "aligned/scaler_sha256",
+      "passed": true,
+      "detail": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724"
+    },
+    {
+      "name": "unaligned/scaler_sha256",
+      "passed": true,
+      "detail": "7c6a50015d705c9afd7b3c98e6a729c35a92a08fda619d3be632ebacaba8bb28"
+    },
+    {
+      "name": "R0_seed1729/no_special_test_reference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R0a_seed1729/no_special_test_reference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R1_seed1729/no_special_test_reference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "R2_seed1729/no_special_test_reference",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "existing_loader_semantic_assertions",
+      "passed": null,
+      "detail": [
+        "For every injected index: original P==1 and O==1.",
+        "After injection: copied P==1 and O==0 only on injected_mask.",
+        "Unknown native P/O==2 counts are unchanged outside injected_mask.",
+        "R0a and R1 consume the same mask_manifest for same seed/scenario/sample.",
+        "Text intervention cache key depends on post-intervention token IDs.",
+        "Clean contextual BERT state is never reused for a modified text token sequence.",
+        "Scaler tensors are identical across R0a/R1/D0/D1.",
+        "Sample/label order is preserved from samples.json -> batch -> predictions."
+      ]
+    }
+  ],
+  "note": "Do not re-clean data. Add the listed hard assertions to the existing pilot_stage4.py loader/gap code, run them on train+valid, and only then upgrade status to PREPROCESSING_REAUDIT_PASS."
+}

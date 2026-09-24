@@ -1,0 +1,9 @@
+# Variables and constraints
+
+For sample `i`, modality `m∈{T,A,V}`, define raw signal `R_im`, extracted sequence `X_im∈R^{L_im×d_m}`, valid-length mask `P_imt`, observed-availability mask `O_imt`, and provenance map `τ_imt` from sequence position to source time/text/frame. `P=0` denotes padding; `P=1,O=0` denotes missing data; `P=1,O=1` denotes an observed value (including a genuine zero). `τ` may be unknown for Attachment 2 until audited. An alignment operator `A_m` maps valid modality positions to a common coordinate only if its mapping is documented. Q1 decides extraction and alignment rules, not the final predictive network.
+
+Q2 targets: class `y_i^c∈{Negative,Neutral,Positive}` and intensity `y_i^r∈[-3,3]`; outputs `p_i` and `ŷ_i^r`. Latent/decision objects: local missing intervals `I_im`, location/duration/ratio, modality reliability `r_imt`, fused state `h_i`. Never infer missingness from zero alone without resolving padding and naturally zero features. Attachment 3 may contain one or more missing modalities at local intervals. Train on Attachment 2 train, select structure/hyperparameters/thresholds on valid, use Attachment 3 only for final prediction.
+
+Q3 outputs additionally require contribution `c_im`, main modality `m_i*`, local evidence set `E_im`, and source locator `τ(E_im)`. Contribution is operationally defined by a prespecified intervention/attribution rule, not automatically a causal effect. Evidence must be mapped to text/audio/video and checked by perturbing the same input interface.
+
+Known feature interfaces: aligned `(50,768)/(50,74)/(50,35)`; unaligned `(50,768)/(500,74)/(500,35)`. Split sizes, true lengths, padding side, timestamps, label coding and ID overlap await Stage 2. Official metrics are Accuracy/F1, MAE/Pearson; F1 averaging must be declared. Final packaging limit 50 MB.

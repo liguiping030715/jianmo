@@ -1,0 +1,32 @@
+{
+  "scope": "A2 valid only; seed1729 fixed M0/M1 checkpoints; no retraining/A3 access",
+  "raw_text_rows": 728,
+  "token_triplets_exact": 728,
+  "bert_state_shape": [
+    728,
+    50,
+    768
+  ],
+  "max_abs_BERT_state_difference": 0.0,
+  "padded_positions_in_probe_batch": 884,
+  "fixed_checkpoint_results": {
+    "M0": {
+      "checkpoint_sha256": "3061d80e9e5b4de57992259976f68866a549d8238fa6e7a99971b935e5cec44b",
+      "rows": 32,
+      "max_abs_logit_difference_raw_text_vs_cache": 0.0,
+      "max_abs_intensity_difference_raw_text_vs_cache": 0.0,
+      "max_abs_logit_difference_padding_stress": 0.0,
+      "max_abs_intensity_difference_padding_stress": 0.0
+    },
+    "M1": {
+      "checkpoint_sha256": "54b9965a976a86d0af8bbe3b5a63f9bc12da54b7cf474912a723ea5546f061b8",
+      "rows": 32,
+      "max_abs_logit_difference_raw_text_vs_cache": 0.0,
+      "max_abs_intensity_difference_raw_text_vs_cache": 0.0,
+      "max_abs_logit_difference_padding_stress": 0.0,
+      "max_abs_intensity_difference_padding_stress": 0.0
+    }
+  },
+  "result": "A2_RAW_TEXT_SHADOW_PATH_EQUIVALENT",
+  "A3_same_version_schema_limitation": "Unaligned A3 supplies raw_text, not a supplied text_bert field; no A3 sample/inference was used."
+}

@@ -1,0 +1,1150 @@
+{
+  "contract_sha256": "8cbc834a96275a08ab7670e6c40b1fd6060ebe1551856e9e1ee4e617aebf74c1",
+  "code_sha256": "9282ca6c6858d1311525a94b4e583beb0504e138c70f81aebaccb810e2389910",
+  "mask_codes": {
+    "P_O": {
+      "0": "known_padding",
+      "1": "known_usable",
+      "2": "unknown"
+    },
+    "zero_context": {
+      "0": "nonzero",
+      "1": "known_padding",
+      "2": "native_zero_or_ambiguous",
+      "3": "suspected_local_gap_not_label"
+    }
+  },
+  "scaler_fit": "Attachment 2 train only, version-specific, per-channel trusted positions",
+  "versions": {
+    "aligned": {
+      "scalers": {
+        "text": {
+          "fit_rows": 83672,
+          "constant_channels": 0
+        },
+        "audio": {
+          "fit_rows": 76817,
+          "constant_channels": 0
+        },
+        "vision": {
+          "fit_rows": 72633,
+          "constant_channels": 0
+        }
+      },
+      "splits": {
+        "train": {
+          "count": 3395,
+          "ids_unchanged": true,
+          "labels_unchanged": true,
+          "modalities": {
+            "text": {
+              "shape": [
+                3395,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 83672,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 2.4574998589201176e-10,
+              "scaled_std_min": 0.9999999994023282,
+              "scaled_std_max": 1.0000000004744054,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 83672,
+                "0": 86078
+              },
+              "O_counts": {
+                "1": 83672,
+                "0": 86078
+              },
+              "zero_context_counts": {
+                "0": 83672,
+                "1": 86078
+              }
+            },
+            "audio": {
+              "shape": [
+                3395,
+                50,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 76817,
+              "allzero_before": 92933,
+              "allzero_after": 92933,
+              "scaled_mean_abs_max": 3.538552950957359e-08,
+              "scaled_std_min": 0.9999999790891095,
+              "scaled_std_max": 1.0000000049245186,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 92933,
+                "1": 76817
+              },
+              "O_counts": {
+                "2": 92933,
+                "1": 76817
+              },
+              "zero_context_counts": {
+                "2": 92933,
+                "0": 76817
+              }
+            },
+            "vision": {
+              "shape": [
+                3395,
+                50,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 72633,
+              "allzero_before": 97117,
+              "allzero_after": 97117,
+              "scaled_mean_abs_max": 2.6567912348707072e-09,
+              "scaled_std_min": 0.9999999991560424,
+              "scaled_std_max": 1.0000000049398785,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 97117,
+                "1": 72633
+              },
+              "O_counts": {
+                "2": 97117,
+                "1": 72633
+              },
+              "zero_context_counts": {
+                "2": 97117,
+                "0": 72633
+              }
+            }
+          }
+        },
+        "valid": {
+          "count": 728,
+          "ids_unchanged": true,
+          "labels_unchanged": true,
+          "modalities": {
+            "text": {
+              "shape": [
+                728,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 18628,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.09404917091569358,
+              "scaled_std_min": 0.9661837376905212,
+              "scaled_std_max": 1.033915034865394,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 18628,
+                "0": 17772
+              },
+              "O_counts": {
+                "1": 18628,
+                "0": 17772
+              },
+              "zero_context_counts": {
+                "0": 18628,
+                "1": 17772
+              }
+            },
+            "audio": {
+              "shape": [
+                728,
+                50,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 17126,
+              "allzero_before": 19274,
+              "allzero_after": 19274,
+              "scaled_mean_abs_max": 0.08210568855865535,
+              "scaled_std_min": 0.00962738996904703,
+              "scaled_std_max": 2.207118815642972,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 19274,
+                "1": 17126
+              },
+              "O_counts": {
+                "2": 19274,
+                "1": 17126
+              },
+              "zero_context_counts": {
+                "2": 19274,
+                "0": 17126
+              }
+            },
+            "vision": {
+              "shape": [
+                728,
+                50,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 16192,
+              "allzero_before": 20208,
+              "allzero_after": 20208,
+              "scaled_mean_abs_max": 0.17071288767952478,
+              "scaled_std_min": 0.9009742864444633,
+              "scaled_std_max": 1.0734363194039298,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 20208,
+                "1": 16192
+              },
+              "O_counts": {
+                "2": 20208,
+                "1": 16192
+              },
+              "zero_context_counts": {
+                "2": 20208,
+                "0": 16192
+              }
+            }
+          }
+        },
+        "test": {
+          "count": 727,
+          "ids_unchanged": true,
+          "labels_unchanged": false,
+          "modalities": {
+            "text": {
+              "shape": [
+                727,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 18309,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.10853913503741461,
+              "scaled_std_min": 0.9700367490346509,
+              "scaled_std_max": 1.0321828509009727,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 18309,
+                "0": 18041
+              },
+              "O_counts": {
+                "1": 18309,
+                "0": 18041
+              },
+              "zero_context_counts": {
+                "0": 18309,
+                "1": 18041
+              }
+            },
+            "audio": {
+              "shape": [
+                727,
+                50,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 16855,
+              "allzero_before": 19495,
+              "allzero_after": 19495,
+              "scaled_mean_abs_max": 0.12895123602787426,
+              "scaled_std_min": 0.0678121032181173,
+              "scaled_std_max": 2.101091300688615,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 19495,
+                "1": 16855
+              },
+              "O_counts": {
+                "2": 19495,
+                "1": 16855
+              },
+              "zero_context_counts": {
+                "2": 19495,
+                "0": 16855
+              }
+            },
+            "vision": {
+              "shape": [
+                727,
+                50,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 15831,
+              "allzero_before": 20519,
+              "allzero_after": 20519,
+              "scaled_mean_abs_max": 0.1320102160341942,
+              "scaled_std_min": 0.9355652577543649,
+              "scaled_std_max": 1.085317973923989,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 20519,
+                "1": 15831
+              },
+              "O_counts": {
+                "2": 20519,
+                "1": 15831
+              },
+              "zero_context_counts": {
+                "2": 20519,
+                "0": 15831
+              }
+            }
+          }
+        }
+      },
+      "special": {
+        "附件3": {
+          "count": 30,
+          "labels_emitted": false,
+          "modalities": {
+            "audio": {
+              "shape": [
+                30,
+                50,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 474,
+              "allzero_before": 1026,
+              "allzero_after": 1026,
+              "scaled_mean_abs_max": 0.5008335874832475,
+              "scaled_std_min": 0.0,
+              "scaled_std_max": 1.5515922159724764,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 1026,
+                "1": 474
+              },
+              "O_counts": {
+                "2": 1026,
+                "1": 474
+              },
+              "zero_context_counts": {
+                "2": 911,
+                "0": 474,
+                "3": 115
+              }
+            },
+            "vision": {
+              "shape": [
+                30,
+                50,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 470,
+              "allzero_before": 1030,
+              "allzero_after": 1030,
+              "scaled_mean_abs_max": 0.4927191462526296,
+              "scaled_std_min": 0.7698447522606168,
+              "scaled_std_max": 1.2548546017907782,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 1030,
+                "1": 470
+              },
+              "O_counts": {
+                "2": 1030,
+                "1": 470
+              },
+              "zero_context_counts": {
+                "2": 911,
+                "0": 470,
+                "3": 119
+              }
+            }
+          },
+          "numeric_text_available": false,
+          "tokens_available": true,
+          "raw_text_available": false
+        },
+        "附件4": {
+          "count": 20,
+          "labels_emitted": false,
+          "modalities": {
+            "text": {
+              "shape": [
+                20,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 604,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.29036853260027023,
+              "scaled_std_min": 0.8727333215032593,
+              "scaled_std_max": 1.144597319594559,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 604,
+                "0": 396
+              },
+              "O_counts": {
+                "1": 604,
+                "0": 396
+              },
+              "zero_context_counts": {
+                "0": 604,
+                "1": 396
+              }
+            },
+            "audio": {
+              "shape": [
+                20,
+                50,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 564,
+              "allzero_before": 436,
+              "allzero_after": 436,
+              "scaled_mean_abs_max": 0.2810038348076971,
+              "scaled_std_min": 0.0,
+              "scaled_std_max": 1.2569616860921116,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 436,
+                "1": 564
+              },
+              "O_counts": {
+                "2": 436,
+                "1": 564
+              },
+              "zero_context_counts": {
+                "2": 436,
+                "0": 564
+              }
+            },
+            "vision": {
+              "shape": [
+                20,
+                50,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 534,
+              "allzero_before": 466,
+              "allzero_after": 466,
+              "scaled_mean_abs_max": 0.4881141439334434,
+              "scaled_std_min": 0.7303332549970836,
+              "scaled_std_max": 1.325546312965934,
+              "nan_inf": 0,
+              "P_counts": {
+                "2": 466,
+                "1": 534
+              },
+              "O_counts": {
+                "2": 466,
+                "1": 534
+              },
+              "zero_context_counts": {
+                "2": 466,
+                "0": 534
+              }
+            }
+          },
+          "numeric_text_available": true,
+          "tokens_available": true,
+          "raw_text_available": true
+        }
+      }
+    },
+    "unaligned": {
+      "scalers": {
+        "text": {
+          "fit_rows": 83672,
+          "constant_channels": 0
+        },
+        "audio": {
+          "fit_rows": 500044,
+          "constant_channels": 0
+        },
+        "vision": {
+          "fit_rows": 353483,
+          "constant_channels": 0
+        }
+      },
+      "splits": {
+        "train": {
+          "count": 3395,
+          "ids_unchanged": true,
+          "labels_unchanged": true,
+          "modalities": {
+            "text": {
+              "shape": [
+                3395,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 83672,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 2.4574998589201176e-10,
+              "scaled_std_min": 0.9999999994023282,
+              "scaled_std_max": 1.0000000004744054,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 83672,
+                "0": 86078
+              },
+              "O_counts": {
+                "1": 83672,
+                "0": 86078
+              },
+              "zero_context_counts": {
+                "0": 83672,
+                "1": 86078
+              }
+            },
+            "audio": {
+              "shape": [
+                3395,
+                500,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 500044,
+              "allzero_before": 1197456,
+              "allzero_after": 1197456,
+              "scaled_mean_abs_max": 3.2453677885072932e-09,
+              "scaled_std_min": 0.9999999960688217,
+              "scaled_std_max": 1.00000002297966,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 500044,
+                "0": 1197456
+              },
+              "O_counts": {
+                "1": 500044,
+                "0": 1197456
+              },
+              "zero_context_counts": {
+                "0": 500044,
+                "1": 1197456
+              }
+            },
+            "vision": {
+              "shape": [
+                3395,
+                500,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 353483,
+              "allzero_before": 1344017,
+              "allzero_after": 1344017,
+              "scaled_mean_abs_max": 3.0478451024847987e-10,
+              "scaled_std_min": 0.9999999994679418,
+              "scaled_std_max": 1.0000000001660256,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 353483,
+                "2": 1344017
+              },
+              "O_counts": {
+                "1": 353483,
+                "2": 1344017
+              },
+              "zero_context_counts": {
+                "0": 353483,
+                "2": 1344017
+              }
+            }
+          }
+        },
+        "valid": {
+          "count": 728,
+          "ids_unchanged": true,
+          "labels_unchanged": true,
+          "modalities": {
+            "text": {
+              "shape": [
+                728,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 18628,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.09404917091569358,
+              "scaled_std_min": 0.9661837376905212,
+              "scaled_std_max": 1.033915034865394,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 18628,
+                "0": 17772
+              },
+              "O_counts": {
+                "1": 18628,
+                "0": 17772
+              },
+              "zero_context_counts": {
+                "0": 18628,
+                "1": 17772
+              }
+            },
+            "audio": {
+              "shape": [
+                728,
+                500,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 112194,
+              "allzero_before": 251806,
+              "allzero_after": 251806,
+              "scaled_mean_abs_max": 0.09757351319947859,
+              "scaled_std_min": 0.7636902231433169,
+              "scaled_std_max": 1.461928137337202,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 112194,
+                "0": 251806
+              },
+              "O_counts": {
+                "1": 112194,
+                "0": 251806
+              },
+              "zero_context_counts": {
+                "0": 112194,
+                "1": 251806
+              }
+            },
+            "vision": {
+              "shape": [
+                728,
+                500,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 80303,
+              "allzero_before": 283697,
+              "allzero_after": 283697,
+              "scaled_mean_abs_max": 0.15427677933452677,
+              "scaled_std_min": 0.9016750731693906,
+              "scaled_std_max": 1.0675755711202057,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 80303,
+                "2": 283697
+              },
+              "O_counts": {
+                "1": 80303,
+                "2": 283697
+              },
+              "zero_context_counts": {
+                "0": 80303,
+                "2": 283697
+              }
+            }
+          }
+        },
+        "test": {
+          "count": 727,
+          "ids_unchanged": true,
+          "labels_unchanged": false,
+          "modalities": {
+            "text": {
+              "shape": [
+                727,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 18309,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.10853913503741461,
+              "scaled_std_min": 0.9700367490346509,
+              "scaled_std_max": 1.0321828509009727,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 18309,
+                "0": 18041
+              },
+              "O_counts": {
+                "1": 18309,
+                "0": 18041
+              },
+              "zero_context_counts": {
+                "0": 18309,
+                "1": 18041
+              }
+            },
+            "audio": {
+              "shape": [
+                727,
+                500,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 113323,
+              "allzero_before": 250177,
+              "allzero_after": 250177,
+              "scaled_mean_abs_max": 0.07843691634837506,
+              "scaled_std_min": 0.9446197142471076,
+              "scaled_std_max": 1.6346329698967508,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 113323,
+                "0": 250177
+              },
+              "O_counts": {
+                "1": 113323,
+                "0": 250177
+              },
+              "zero_context_counts": {
+                "0": 113323,
+                "1": 250177
+              }
+            },
+            "vision": {
+              "shape": [
+                727,
+                500,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 80813,
+              "allzero_before": 282687,
+              "allzero_after": 282687,
+              "scaled_mean_abs_max": 0.11119295093823357,
+              "scaled_std_min": 0.9276073077790725,
+              "scaled_std_max": 1.0509886623282887,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 80813,
+                "2": 282687
+              },
+              "O_counts": {
+                "1": 80813,
+                "2": 282687
+              },
+              "zero_context_counts": {
+                "0": 80813,
+                "2": 282687
+              }
+            }
+          }
+        }
+      },
+      "special": {
+        "附件3": {
+          "count": 30,
+          "labels_emitted": false,
+          "modalities": {
+            "audio": {
+              "shape": [
+                30,
+                500,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 3237,
+              "allzero_before": 11763,
+              "allzero_after": 11763,
+              "scaled_mean_abs_max": 0.37966526921421234,
+              "scaled_std_min": 8.505093397224821e-10,
+              "scaled_std_max": 2.4984838057029233,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 3237,
+                "2": 11763
+              },
+              "O_counts": {
+                "1": 3237,
+                "2": 11763
+              },
+              "zero_context_counts": {
+                "0": 3237,
+                "3": 787,
+                "2": 10976
+              }
+            },
+            "vision": {
+              "shape": [
+                30,
+                500,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 2268,
+              "allzero_before": 12732,
+              "allzero_after": 12732,
+              "scaled_mean_abs_max": 0.4943615492232919,
+              "scaled_std_min": 0.8191961949434562,
+              "scaled_std_max": 1.1876547870324836,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 2268,
+                "2": 12732
+              },
+              "O_counts": {
+                "1": 2268,
+                "2": 12732
+              },
+              "zero_context_counts": {
+                "0": 2268,
+                "3": 624,
+                "2": 12108
+              }
+            }
+          },
+          "numeric_text_available": false,
+          "tokens_available": false,
+          "raw_text_available": true
+        },
+        "附件4": {
+          "count": 20,
+          "labels_emitted": false,
+          "modalities": {
+            "text": {
+              "shape": [
+                20,
+                50,
+                768
+              ],
+              "dtype": "float32",
+              "trusted_rows": 604,
+              "allzero_before": 0,
+              "allzero_after": 0,
+              "scaled_mean_abs_max": 0.29036853260027023,
+              "scaled_std_min": 0.8727333215032593,
+              "scaled_std_max": 1.144597319594559,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 604,
+                "0": 396
+              },
+              "O_counts": {
+                "1": 604,
+                "0": 396
+              },
+              "zero_context_counts": {
+                "0": 604,
+                "1": 396
+              }
+            },
+            "audio": {
+              "shape": [
+                20,
+                500,
+                74
+              ],
+              "dtype": "float32",
+              "trusted_rows": 3677,
+              "allzero_before": 6323,
+              "allzero_after": 6323,
+              "scaled_mean_abs_max": 0.242376982502679,
+              "scaled_std_min": 0.0,
+              "scaled_std_max": 1.1492524980156134,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 3677,
+                "0": 6323
+              },
+              "O_counts": {
+                "1": 3677,
+                "0": 6323
+              },
+              "zero_context_counts": {
+                "0": 3677,
+                "1": 6323
+              }
+            },
+            "vision": {
+              "shape": [
+                20,
+                500,
+                35
+              ],
+              "dtype": "float32",
+              "trusted_rows": 2648,
+              "allzero_before": 7352,
+              "allzero_after": 7352,
+              "scaled_mean_abs_max": 0.48476840472474664,
+              "scaled_std_min": 0.6679693820408261,
+              "scaled_std_max": 1.2739400379378414,
+              "nan_inf": 0,
+              "P_counts": {
+                "1": 2648,
+                "2": 7352
+              },
+              "O_counts": {
+                "1": 2648,
+                "2": 7352
+              },
+              "zero_context_counts": {
+                "0": 2648,
+                "2": 7352
+              }
+            }
+          },
+          "numeric_text_available": true,
+          "tokens_available": true,
+          "raw_text_available": true
+        }
+      }
+    }
+  },
+  "source_sha256": {
+    "E题数据/附件2-数据集特征文件/aligned_50.pkl": "66e867aa74bc70a844e806e5571e371c9abb4a35f9e2887ce9b4d97ff2cb8fcd",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_01.pkl": "b45b89a7eea55278abb130d44a6ee21128df5aa3239e68c968f9ac7743cfa0ea",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_02.pkl": "6a628897c4b8c5e94e37f23bce680aad500fa8545414234f3564a58577c1023b",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_03.pkl": "52bb6e11f4bba301e1bd90916dc9ad3a0d2d0885fec4598e3e737e2c4d100b6f",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_04.pkl": "ee1f4781ee7b7bc37e71a13e4bc53eedc8327d96a69c246964d0e84a8aa99f72",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_05.pkl": "9f8e5bae8488d8ee1576b1686864b7d8fc9970cfa720758fb040b9293b7e3619",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_06.pkl": "9e973621f141b1af24fc3686ac329a10b66ba2b84d18c21918e86bf0429f790d",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_07.pkl": "62dd394e23c80af2898e039d7eb6f47556d747887331fa2853dad72e13bb223b",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_08.pkl": "e668faea97f9a338051c19ee66383df799b2e461d6d079df8c5f92b32bd6437e",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_09.pkl": "ef57769eaa05f53a7d588948d565876356898658d9945202058ca763e53748b2",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_10.pkl": "7c87d84d69e0e68b9252c9839747558d07a91fd2d079a9a0850683d0d197241e",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_11.pkl": "10e9d5443cecf2de9170deaa56995de0cf9c52580a74cd334de8fea0e4a735f2",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_12.pkl": "d0342f4931a05e40fb0a3220010f1ac801a2f06d123bc4d9a7dc5355794347ba",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_13.pkl": "9e2144ab4385636b259d9e358c7e511be5242c89340f894473317b7757f218b7",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_14.pkl": "f6d45e8fa882062f70fd48ee1f7584b0a75ea0ed1c85a9eb218684e954dc1b82",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_15.pkl": "263b960d4d66b25a3db447fb7a16aee7b7d735e8bee3fe55c7869ad3103bf9d4",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_16.pkl": "df8b4c881e3fc971d532988bbd161d8d9bf8c5d16c3e7a559bb7a4045e96547f",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_17.pkl": "b6c64a55fb8050cb9fda15b0245df8f16b20d2a25d9368485dd1229e213fdba5",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_18.pkl": "dc8eb37586b93bdd4debe895041275fdabb94c3392bde667b4e0ccdc6429fab1",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_19.pkl": "d3a912bc3c70b60c1021babc521f28a6a34f9e916c164ad0191182e587c2385a",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_20.pkl": "bf24c7189bba3904e911dd452266078d8ff15768438a9069e6596ff73a4b925e",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_21.pkl": "c0605bd5757ff0c5dea345c96236ed7168ff976d37843572143efe11d6454600",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_22.pkl": "6f9dc33f9d3e5680ee3a3b2b0c53b1bac51fb98f1d75375a2cb1224cd7bd4d43",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_23.pkl": "5200bd05e2611777875eb1d88826bb56bb71dee4c708fec9d9f851222d243aae",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_24.pkl": "76b1c126e2043f90afd5af00d51299bc8f5bf1bee8148f5ff904ccbeb931a5e5",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_25.pkl": "88d52e2d0b0229ad6ec638e6e7463f6852f127ae9308fbee1cbc2405d8ebc4c8",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_26.pkl": "e483daa1391987552f9ee7f21bffec918dd61267af36885a9ae3073813193234",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_27.pkl": "27f16bbd4541196bb33f4caa36e038b2ff66fa72649f1b22f2328a5630de37ad",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_28.pkl": "81def781fa8fa5aebb555631b59ce48ee71a10c9e4226f1a5b6d91a2078f8f32",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_29.pkl": "8caf12e71117bd7334be12aba5af6322fb02a2397f8e2402e75391f4f9ef3686",
+    "E题数据/附件3-模态缺失特征样本/对齐版本/附件3_30.pkl": "a6b272abb5d083804b6902054d4180d55d3c1d5822c483967e70e6a9657546d3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/01.pkl": "5a08410ee779863238edcf349556a2f8e10490a70e02fc95001a64f6c8d17452",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/02.pkl": "88ed34a500bd7f11027ffc97205e23fdcde162b32bee9c447367b026b41608ac",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/03.pkl": "237a657ffb78b451b4e504ab8021e6072de404afd83d3b08be1560e98ca62860",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/04.pkl": "f7d7291b6ed0050ad3fd439bd3f85ce6fafb230a6399366a76e0b52f017bf4a7",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/05.pkl": "c6948e101e25656832290edf03daaf400b9a566e912775193d5f3ecdf9388eec",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/06.pkl": "8c432420054ac28bfcacbbee18d0e8397bc87fa0c7e8cbb11f525d6e366fdd57",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/07.pkl": "f16e44523bd82862435489552910ef3b801dd5b7501d67b84b83ee1496b0c5a0",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/08.pkl": "a1cccd885234d22478f30d0a3b253277e0567abaecc6ac683734b7e3dfc255c4",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/09.pkl": "f00ad50bdc14a4c9fe58fb4e421d6c8ee052d281d917766314f2846e48af8ff7",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/10.pkl": "693326817b8253fc907a3c1df1b05dd1f10c7bc756a86ce125bb903b01eaf571",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/11.pkl": "6e4c4b2fe76d6bbc56d1d21447ec9dff5309adb1227de8adab116ff703f42ffb",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/12.pkl": "5d003f471f20ac8d51553c3b217fc594075067a4c806fc07139839d681a97032",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/13.pkl": "e2d3d3c55bc52e7178e6e7f9b28e677018f14c76966d9ec5ac486d8fbbfd8281",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/14.pkl": "5a07719d0610e979be9cc58f4137c951259048fe6ab9918cafd9e27d62f0b5dd",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/15.pkl": "1fd8521f61b769038a991088f11a9693e0ad9f05ad92f9924d502cc147a7cd1f",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/16.pkl": "5528f121c021c3648f41e013e829c0a73870eafbbde73415147a074be81d722f",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/17.pkl": "7b841ea3fdea42ef7d0ba607d90ea61a86a44066eb4ee3d1a70e8180a7b47796",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/18.pkl": "1fc0a00c832183dceeae626937716da6c4c096f621a7706c9268b76dedfa7f06",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/19.pkl": "ef099682c44a9e6ba5135a74d4babf12a91ba5ee2895b32d191679244dd1c221",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/20.pkl": "c9aed197e075fa99518e71cbb2ed17406178d9237d40c785409eacf1fa7f1a68",
+    "E题数据/附件2-数据集特征文件/unaligned_50.pkl": "77eda14a06be9749a96c52ae45470c7cffcfa7219011eae391d231a0664c3762",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_01.pkl": "4a8cf3d22e80e29cbf042767fbd3b603b466e1f5e2adaaa2536e8a20df05778d",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_02.pkl": "1c99664a44a42fffac167dfdaf21923d0acd402c210c3a8e61bea51bb3d0a9b6",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_03.pkl": "463185831b192816b256b4feef74054632e697939fc51b39d7d1a16903b613d4",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_04.pkl": "bcd6d1ddee46e9995806fa20132330f19c24472ae4150c561bb89ae1bcd2f235",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_05.pkl": "509990f6bf3ad0a14092824273c2de31ad46e48950b2c028dcaabdf965e56f9e",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_06.pkl": "90df7acd34f00150233fa56621bfc0f1adb61fe2a8deea9fa3715d9499d6e61f",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_07.pkl": "775eac32a8fa8588e963640473f0d64d2c9753d034e0257adfa42959ffd23619",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_08.pkl": "4d50aa2a374872732e5e53cc8d6c0ca2b16c95f142b78dc291ce4782036b0b25",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_09.pkl": "868c890476dbb622e5bd8df2469f46ff5e6fb1c546a77d40f8acd45dab8315e8",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_10.pkl": "585dcfdb4c3856538732dea7acc25600198308433e6ab4f26e97a2c939d081e6",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_11.pkl": "ea43a1cb3d93841c2cfc063ffca804888fcd2341b59386ee26e4e05fceca665f",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_12.pkl": "54db89460b17078acd4aa4683aa06982213deef1b94dfee3effe57f76980c1a9",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_13.pkl": "f680fff053e4949dbef6e81739da54f961fa6b17642957cf8df536060c58e444",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_14.pkl": "36c25a1251f1afce266098671a620a036c61148aa89e466c113f70ded1355f65",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_15.pkl": "97cd1ac0320af870b6057c6ba0aaa1c4cae377f108bfed3b3b6764f38e0793d9",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_16.pkl": "4861ab00b303cb7a89b7a50f1ba17a6e0125837c2d64ff8b7d0a366d31926c54",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_17.pkl": "0285c121a125b95434ea319f1938286f92c66ee2ffe4bc9d46c2509b6fad1eee",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_18.pkl": "f25009fd8965236a5c51f864a6c60a22b92a57c6e41712422e2d6f4a37af2543",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_19.pkl": "a1ec22a528d865998b9c15817486efa5adb62a3162dbe20814aa1d3bb02b0452",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_20.pkl": "470ba389947ff86e5e9c05072b9345858690a57cf498dd02dbc1db0f688ee8c0",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_21.pkl": "ce761fc3f77857b265b4500ef98a5439dab3f45df265ee985b3db218b4730755",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_22.pkl": "261cacc583d096a853cc9181768528f2e29a4b701f9f89653517e83dce08bc45",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_23.pkl": "c1386ab902160eb55d1b8c0aa79e8690693daba7258a4f16b9b1963fffa7b1f2",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_24.pkl": "a7f73ddd97e406440abf16336789fec83622884bf5bb1439c3da5c75a1ae9420",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_25.pkl": "62d5b24ef181b5d46207b4c48b54452e0fd1e4f7ce6f64945c5ac93a813ba001",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_26.pkl": "327c66c63b793e5cac0f652a77f63d6e144d0447867464108b861b441357be50",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_27.pkl": "cba6f3e088380f2378bc35b989df054ac1aabbaca5c831037ce542f7e5f7a47b",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_28.pkl": "a4697405668cb31a8493fb591553170d9c0338971b122f8ee5ee0268a4cab91c",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_29.pkl": "86105acdca8927a1665c5480e9282306bcf8433fb4be069c7aa1ec5260f47574",
+    "E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_30.pkl": "3a04ca9fffd401dc476968d4cfd6f1a2cbf86ae52887d339d25265acdf0d23d8",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/01.pkl": "70e55e2709905d7ea9becf70d8dd91d83688e5902b6c5e601aa6d16e703e4659",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/02.pkl": "17e1a7c74f20dd25ca240b289add7a3b632ff2d6fb73d71eb1e1c6006b1f3cb9",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/03.pkl": "0d959289f51abebc34cb911895d7da4c70bb032d2fe281906b8f27ef6411cd8b",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/04.pkl": "f05343ac26cc037a6023a8e00ca1ffa7d5578db9bac6f2dad2e97bebf2ee188c",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/05.pkl": "cf0cd1b562e4516a25a04c23953f9baecaa0f42ce4044aa4eb9b1aba221e70a9",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/06.pkl": "3a5e9de011531ec38d60430053a221bfde7e05b253cbbf414b6ec08c42b9eee4",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/07.pkl": "b6f9a61599a16d0dee901ec277cdb32bde3ab50a223b15823fd0368b61f32314",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/08.pkl": "842aa20b0b30bd8cdef2d1f2e3c458abf01caaacb416b23a4dc8b7129ca660f3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/09.pkl": "f42d91d2c1b8e6cad707eccd029c57eb1cb9e9300544ad1ba10bf0a96627ce65",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/10.pkl": "b12cb66e785c60faaa92d91be71bcae87dd4c0282bdd7e53241a7bb3e7413aa9",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/11.pkl": "64b0b19f12977bb24684cbb874d88e3dde71ad7f93821f8a382d05d3047c3005",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/12.pkl": "fd7cb86a2952ef384b0f1ce0dc58391332379e1d065d48100735b40ce991a624",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/13.pkl": "4d8b77cdc24eecaa5104f19eaff60bad12fbf1886f40f1d95491decc9b31f7e0",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/14.pkl": "17b0576012b71cdbebddfd38375e19f21fbe8e1eefa4813ac945196c734c9f55",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/15.pkl": "e12cb1d0b69558c7f81eecb2063769b872e58718051c7ea6b2761c066763f594",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/16.pkl": "359fae06a5df658729772eda07de43a12627a53574df95164942eb5f7a594153",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/17.pkl": "5d52d13cec0e716c6dab949e3296607d6f32bf320cb4029fde1d2b532101a41c",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/18.pkl": "7991357145a879fa8d85a028f043a6835243b24a6454bf5ec89c485cbc6335cf",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/19.pkl": "14041c0d6b2d351cd900603044f617d549e25821fa04b3f57d62c4a4e52fad4e",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/20.pkl": "2ed97e598f321dc82392e6b3d85963c629cea4ea8bc166705b697a7694ff7f44",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/label-100.xlsx": "827334f782b1f242c84ad944a657bc7f7c63643f71ae9c977811a3eecdd3ab33",
+    "E题数据/附件2-数据集特征文件/label.xlsx": "0d6351ace01a2edee8861b21b2893c82d916d2a3e8b69d3b4f832ca841349875",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/13.mp4": "aeb47627f59dce3d0a85a44ef35e4a3bc18211498e98c8c11cf60269646df24f",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/2.mp4": "0619c01f137d017c15c058176f18a575919189c7e81ebd2bfb993afdb86f3de7",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/3.mp4": "eff8cfefba2425155f2b72656829b34b23be8bfe1dcbece384154f56818aa26d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/9.mp4": "b962573b12ed1f06d5533f6427c80dce2bae3a99dd332f6d3fcb32c579f3f016",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3nNcZdcdvU/5.mp4": "7ea53ad502b77be7d2ee4494dc23a9478c897792203cf887d546e83d584c1728",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/0.mp4": "defc62e1530d9b0cd27f2acfe042b71dd84d7e8c85f1df261f04912091976088",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/5.mp4": "e304c03fac1f477823fe0926c4fb421b9c4e4091f85718b729afe856c24a7d3e",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-6rXp3zJ3kc/8.mp4": "59b77a0f873b7fa95e7327b93d64bb5a4bdae84039321988ef70bba8e63ee1ae",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/0.mp4": "29a1fd181293cdbe24e50edcad51e3cc0f27a5824d840bcc39d453b272fb6e3c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/4.mp4": "fe04a26710e85c58bdaad5a48618c7e0f742d82b0d920eb4a046c8f14a6921dc",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/8.mp4": "6140d031e614b62a5d8df73346fef2417c28cee3501310aa95aa40d358b4b256",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-a55Q6RWvTA/3.mp4": "15d029fc15f50b268b98f1e8abc65e45582e638c13a018d7aa74a18373275946",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aNfi7CP8vM/7.mp4": "0b6389f45bb966113c65a11998c6e7facdd24c8c42acf2e8cf32e0f2139402e1",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aqamKhZ1Ec/0.mp4": "6f6e674bbba4353399e9e7825217f37e6d8ca1adf9675f33cf37106f31c55548",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-AUZQgSxyPQ/2.mp4": "e09034b30bb4f8fb9f9c2568afc20f2a764e327fe6ef4e13f21804eaac51bb7b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/0.mp4": "04bd0be907fb46c613f926fe1b06bc2c3b30881c293156510baa34a4105ade55",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4": "b5ffdc98a4a98b8f0aae55dee5fed66a43bcb129f47a250a004c1cc74e572595",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/2.mp4": "46a5e523b5dd00364c99a3bcbc6fae4c80e1382a84b5b5e681c46eb074ed10f7",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/6.mp4": "55c1ff86729ab21da743a5107ed07b220e41b4193cd1c0ba9f009e65c3ab0513",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/1.mp4": "589a7989b1b4888568c31614a2d6beefba88fb87289c85b94df2d8051500403b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/13.mp4": "cbd627c225ebca37521ae238cb9ec254cad236822f4f37ebfbb039e6c56aea4c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/16.mp4": "4c015f85e3bd901ecedde8c0c2ca4a756d9a77dfe4177625c481581f2037ff9c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/17.mp4": "f967e81e0edd51c3700671721afb3fbecbbc32652f27d2db40ea444e8d80c68f",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/18.mp4": "fd4bc95a6adfb16a9588b7ed65cc2812186ce3d607804dc76f4486312951ef90",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/20.mp4": "719ef133920e74b3ea33925d2bca0270b062199116867568f88ac83cadcd74e8",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/26.mp4": "11f78aed680ea9c5862a15e04ff6c1f8776c46d29c98b68d28773ff39d959685",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/6.mp4": "2e88a00d5e55863aa956b4b0949fc0e4f2975ccfd83b3194957f6fca86ecfce0",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/9.mp4": "bcd643f328616312eae9b28e6c9aabbe8acaec3e4c4be58daeb45e3eee4d973c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HeZS2-Prhc/2.mp4": "edb0fa22fdfbd990c8174764af78670bd2ecad799240d35d96a1124a3cd9dc0c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4": "997f6808ac3973ddd71800e91c8e10755c10b5037186d84348a79e00d672fdc7",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/7.mp4": "0ec6fb76226315d3fafbb483e3500e60cc8a6729617b10e4b4b76163595080fb",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/2.mp4": "920a1052c09ebd1eedba6dd1ccfecd80f56f6f0fdcdd1f6dd32b0d90bcb89358",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/5.mp4": "8d61b7f5840a8bd403d9bc6c3cd49029ffc4e304cf9c7834735c1a6bb5fd369d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/6.mp4": "696576dcbd0dc42cb678fa40d8a0f0f419a3072bfa7662d653756ab29bba4c46",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/9.mp4": "90c18e627f27a12c14e21ba24c79edf3008762b4ac26874b490ad3f888381702",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/3.mp4": "39c547acd1a8da2ebc6c6ab008191a5676420398a974cd9611cad087f0ccec50",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/6.mp4": "030b0b8d8d4ae47799432ab71b66fcc881f077c5b0feef892c1f146dc0a592e3",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/7.mp4": "cc7b1c7a06ec41d72007b5c42fb8036f30b66d5cf76e3f093160c22fc5e38081",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/8.mp4": "72a49e3da2862addcde033bd2fbae957d086533664ca4dcbccd3a851bcd50412",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/9.mp4": "352bdcc73d3622d6abac1b09f2039b211d15b9bf7acee66f0b07783c9b7a4c74",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/1.mp4": "8453a966d4bd1f0179eb86a35cd34c0864a3a3bc2fa86f37783060cc0d14f5df",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/3.mp4": "a015f02ae51d74c42ad27e2a0831263a303f0658ac8d984819e27ad61342b23e",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/5.mp4": "3b74de8d0e66fd754594f05985e5af3480adcc03555f79225d3b727cb4bed043",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/6.mp4": "ff5da5afb551001d58100ed2471caea51c741046d5396957efbf40082307ca18",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/0.mp4": "54e2097f7bdb455d243e72254e5af7ed16160739f2f3cfd22f57d2729ec1acbe",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/13.mp4": "80c5d996e5d7b61c58e1fe32d706efcaf80c8c8cddb5c37a5c66d527786c2a44",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/7.mp4": "40716dc7402fd6398038eded58ce939ec76be6afbeea346b968bf4c427088f3a",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/1.mp4": "c8e3acb4ca08679796c4c8cdfcd8c2b3cffc0465015efaffa1eccdb55ff4f45b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/2.mp4": "c41790f8b75f886bd1f5d6d72cbab1985306d0b715e5ae47203f3d0c8a3e7b28",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4": "134a3a4ebbc423760133b0da0e90cfe84d75ea85df3968000afd84153c5d828d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/8.mp4": "6af6614c9838417a48c4817f4dd5bf1e6669eb5f78f983e9a68adc113fcdc7cc",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/9.mp4": "df3442f3ed8f894b507923e87e426ae9636790a4a502d00c350a215270cc3e47",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mqbVkbCndg/0.mp4": "cdeba953bba30907814acf72f3e35582dec263eaa25bdd922dad7fafe02e4dda",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/1.mp4": "d8fcf16c6eb51c56947ec3d0549c6f3bc7a0cf1fc5f5d89e8b38d4249a08db4f",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/2.mp4": "a54a5c144a64f5abd26b19aafa6cea8142ee08e9385fa508fa70c934f6b616c1",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-qDkUB0GgYY/6.mp4": "ab19bf4a761d3919b7113b1104ccaadbbf0c4e7b45694904d094280a2c329c8b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/11.mp4": "96e481cd732001239639c8cb4e7f94e570925e5a15940920ffab0cec1f13f904",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/2.mp4": "5e428ee22de58c9d6561b9b4353bef9dfb811a5841d9ab07b5bc453d697ad17f",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/8.mp4": "ed8c672c532b8c7d1c830c82d6e2c14fcb3bbd3dc1a86670a03a6c8e83c02f3c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4": "93021c70c8fad20ad3fded80e7fc790a2f9c96835de58a3b694c6906de42684b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/2.mp4": "f5993ce3a6ee56298462c08692a96f78c7d914d7264257ed401de7d6e17fd148",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/5.mp4": "2a5e4319bf592a18c8eb5117f7c7ec30c6c79528f9eac9fe4fb85bf70f277736",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/0.mp4": "f2324dbc6debe0d1e4254e6f943523373e3cbb30d8d0555413ce3a7b370a4af5",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/1.mp4": "a33e8f82a185bcb7648b523927308cdc2142e3076479ba2b45cd0e828636fc09",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/4.mp4": "76e0672ffce5857a789b41fb10606402f7da58c33579b1032a8282f86fb35bc9",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/5.mp4": "bd35eb8de64ce1f8b27921294598f7cf5bb971255738f51d06458c7096c58eae",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/6.mp4": "40b684fd1b4559f0f82e72f9b47f4ce7c5e15059fe8d0d8ab112637cd3386451",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/7.mp4": "5301f4403cf7cd299cc525d2f443392ac70fd70c3c9cd4a09406f2ba4df6734d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/8.mp4": "1de4d91bd9d9fb508a3779658747da88460db0bdb1beefe7ea5b2c77edfd2239",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4": "6713a983112173204502dc5adbb886bc6c38554b4627698611931420c47663a8",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/7.mp4": "41c76b8a733ecb780d56348f55d00f0ba0c07f44f46e93044e62d876710180b7",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tANM6ETl_M/3.mp4": "6d3af064c060dad3816a9e1dfa00101faebd8b7da7d8ceea85b0bc0fca70abd6",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/12.mp4": "e2f148f4f2e74724dc13b3ce870a0ce6a06740cfc224f5a9b3d0a870b196e7d4",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/2.mp4": "35a6c2464ffd68dd96411edb5dc2763f0efb59f264c1d8b737e616fa6b0d1d5b",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/6.mp4": "efaa55ee6394032c867046690a92c29edfd825005f0a090cca5ccb763b227f64",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/10.mp4": "758183192cbd5f0f20823d26ece3ddee40dec0aadec35247b2495510a53f52f8",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/11.mp4": "6dc09d02467baaef67594ff32cffb01f8ed1565cda4c5abd161b8261a51e2e5d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/12.mp4": "e3c7f9cd67ad2d20fef997696dc278361f97f027db58762e22104e5720d509d5",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/16.mp4": "8b3f82f9628792eebaf8c227becc2ebeba59bb8abb668bcca86e07fb1a992a93",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/18.mp4": "eece70451e9c37a4b5f375bf646f66e09113fe3467f35bf1720cc14d986c1776",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/10.mp4": "00312e0602dbeac970de5d7dd0e8a970e514fe45d7fe6625b4f454b299e36360",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4": "a7f2ab0d6ee2e2a2d5cd4239f03e6cac67c618ddb744891323df3ff87e29af84",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UUCSKoHeMA/0.mp4": "3f9792888ec8e969f61cfb6cb4de7bdf7ef8944afe0a9d2a9d13586e1f13b898",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/0.mp4": "f578b305d53bc152702f5e771de0fcd12d1e9aaefc5cefce3d2082a417aab7c8",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/1.mp4": "d5bbda38fcec15817d2b87bab5dcc559d6d425f7d28a82e6c32d13f14b48650c",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4": "eddb408f25bdc13e6de2fb74caeed709cb7a8f00640e7897135330437f66a2aa",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/6.mp4": "f0131ac00e44410fbd32c547a0d421c2791172434fc0203bb969abe14a530532",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-uywlfIYOS8/4.mp4": "fde46f5222cf5cfec7af9c93214c972ce2d686b0bf9c90a291021601968986f9",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-vxjVxOeScU/4.mp4": "00282df9a314394f19d616d561bd1916d1d30dca4c814dfb43630ca164f4c719",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wMB_hJL-3o/7.mp4": "04a73d73fd150b07edab8e652fd14c9cb4a0f6e017ea97b17e8146e377b9fae7",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/0.mp4": "1cc21b4432e2f4b592284ee40558a18acc7d208019117aebdb2f6a1b67ea198d",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/1.mp4": "c5535859f129ce04da5f5b5104d02d4168057b9d947a5349d423278ad4f3d8e8",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/2.mp4": "1825fb37db2e914fb616cd80aebd613afd873eecb7edd4d0b53158bfda0e522a",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/3.mp4": "ea917c506bc9fa39460f2b722f7c416f646312bb17cd74baa618905b54837bce",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/5.mp4": "6c6a8a4cba654b25190ab1793bfae81c3d2159ecd6cbc02d3fcbd598543acce0",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/7.mp4": "cbf9cac1048ce191aef781d0c4563eb97f9f3ddd52eb1f9551fa78d31d70e7cd",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/9.mp4": "b76f70fe783ee76bf1b637137226c98e67d13a6b15ec725894175b36cd76a136",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4": "2f16da1baa8660e5bfc608f5237cdd59725d16e57a19bc02c4556cd2c7129a46",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/5.mp4": "6d6145293cf84d1fc8324dfa8d39465e2d7fc07affb67ff68deeabf6e3c410d9",
+    "E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/6.mp4": "b51eb9ad06de804934cb6a315de591ba9ff7f8aa71bffff7f8001ab29945d989",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/01.mp4": "3057e24aee7a48fcf15bd618b663bd7f0d061fb8893286c458986a7e1c6d17cf",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/02.mp4": "6b651e908aefd86959f85b78f945f7d5a5d9e767eb4c095926e1df2ed9629ff9",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/03.mp4": "556b83449ac17fd8cb99ed1dcd6f11c287dd6e0198885e88555579f9bcab84f3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/04.mp4": "766db8dc32508b8f7f8faaa47656e0eedc8d1707b809fe8235db1e74e15d3369",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/05.mp4": "715d7c1dd52a78eac6c0a10cd78ba1c4f632dc778839c86fcf7a510ea4184420",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/06.mp4": "22e0a0e7c0880d3e92e4eb5e98070e5128884dd21eebc8367852570feb1b1d7f",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/07.mp4": "f3b47ceaddf31d472c367259788cb68e93511b14ae117577836f196e22ecedc5",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/08.mp4": "962057312eb9b751ff907ba5799f455dedfc271cabb5d45abd40803e08f88d79",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/09.mp4": "7ecb03c24c8fc45b66bff4eb56bdf2adba033e96db52dd2d858abd93fae9d749",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/10.mp4": "21047991667edfdde0cb848dfd80aa41ccb871bc02742bd24f28d512a70f53db",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/11.mp4": "972bbc9b3f3cd620b2e576672301be7ccba0f54dae3a22b42194a3e322fd7905",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/12.mp4": "5d4da7ef7e6a4a344a2b9657fadfa2207c3565a9f7c1fb806e629c95b453aff3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/13.mp4": "8a64f1201e0299f79d915aa87b4a9be811e346525589d1f41060c2533599a7cb",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/14.mp4": "8f1c4cb4b1c97b31cd065317faef41465cfcda403ef12d1defce4a5d23b8e18e",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/15.mp4": "bdd4ea47f2dac729a445cdf34009b9dff6d66bdc8ca997b82814bd55dc7fc675",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/16.mp4": "819a4c15dce5b85d8f7717087ea660551c3044daf3cecba1d45d342ae85365e5",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/17.mp4": "8a2f9bad44684ae0ba22f4ad39e848020dbac6acf7e5fe9d974f2448e6902462",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/18.mp4": "0faf17accce9e58d81b2cc4ff6b150f8bc7f1d2f620ba420944f5732f41d6759",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/19.mp4": "26148d75d5b4c1ff6f69a36485cc02a771a74203d2c07d9d08f018bf88658217",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/20.mp4": "0c75c37baddf51add457b20ad35e10166ff7baaa520f77bd6b2af2239c217a1c",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/01.mp4": "3057e24aee7a48fcf15bd618b663bd7f0d061fb8893286c458986a7e1c6d17cf",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/02.mp4": "6b651e908aefd86959f85b78f945f7d5a5d9e767eb4c095926e1df2ed9629ff9",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/03.mp4": "556b83449ac17fd8cb99ed1dcd6f11c287dd6e0198885e88555579f9bcab84f3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/04.mp4": "766db8dc32508b8f7f8faaa47656e0eedc8d1707b809fe8235db1e74e15d3369",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/05.mp4": "715d7c1dd52a78eac6c0a10cd78ba1c4f632dc778839c86fcf7a510ea4184420",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/06.mp4": "22e0a0e7c0880d3e92e4eb5e98070e5128884dd21eebc8367852570feb1b1d7f",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/07.mp4": "f3b47ceaddf31d472c367259788cb68e93511b14ae117577836f196e22ecedc5",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/08.mp4": "962057312eb9b751ff907ba5799f455dedfc271cabb5d45abd40803e08f88d79",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/09.mp4": "7ecb03c24c8fc45b66bff4eb56bdf2adba033e96db52dd2d858abd93fae9d749",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/10.mp4": "21047991667edfdde0cb848dfd80aa41ccb871bc02742bd24f28d512a70f53db",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/11.mp4": "972bbc9b3f3cd620b2e576672301be7ccba0f54dae3a22b42194a3e322fd7905",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/12.mp4": "5d4da7ef7e6a4a344a2b9657fadfa2207c3565a9f7c1fb806e629c95b453aff3",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/13.mp4": "8a64f1201e0299f79d915aa87b4a9be811e346525589d1f41060c2533599a7cb",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/14.mp4": "8f1c4cb4b1c97b31cd065317faef41465cfcda403ef12d1defce4a5d23b8e18e",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/15.mp4": "bdd4ea47f2dac729a445cdf34009b9dff6d66bdc8ca997b82814bd55dc7fc675",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/16.mp4": "819a4c15dce5b85d8f7717087ea660551c3044daf3cecba1d45d342ae85365e5",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/17.mp4": "8a2f9bad44684ae0ba22f4ad39e848020dbac6acf7e5fe9d974f2448e6902462",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/18.mp4": "0faf17accce9e58d81b2cc4ff6b150f8bc7f1d2f620ba420944f5732f41d6759",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/19.mp4": "26148d75d5b4c1ff6f69a36485cc02a771a74203d2c07d9d08f018bf88658217",
+    "E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/20.mp4": "0c75c37baddf51add457b20ad35e10166ff7baaa520f77bd6b2af2239c217a1c"
+  },
+  "label_policy": "train/valid copied exactly; test/special labels not emitted",
+  "attachment1": {
+    "count": 100,
+    "unique_ids": 100,
+    "videos_retained": 100
+  }
+}

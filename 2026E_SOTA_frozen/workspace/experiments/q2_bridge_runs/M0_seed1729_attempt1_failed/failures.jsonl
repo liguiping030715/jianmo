@@ -1,0 +1,1 @@
+{"run_id": "M0_seed1729", "error": "RuntimeError('expected scalar type Long but found Int')", "elapsed_seconds": 39.0227563, "peak_rss_bytes": 2819891200, "completed_epochs": 0}

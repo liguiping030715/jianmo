@@ -1,0 +1,52 @@
+{
+  "status": "FROZEN_BEFORE_A2_TEST_ACCESS",
+  "decision_source": "Existing A2-valid M0 Bridge records only",
+  "candidate_seeds": [1729, 2718, 31415],
+  "frozen_valid_selection_score": {
+    "1729": 1.4434596101442971,
+    "2718": 1.3961483438809714,
+    "31415": 1.4760547677675881
+  },
+  "selection_rule": "Choose the one frozen M0 checkpoint with the smallest previously frozen 0.5 clean + 0.5 mean S1-S6 A2-valid selection loss; no test access or metric-based reselection.",
+  "selected_seed": 2718,
+  "predictor_type": "single frozen checkpoint",
+  "ensemble": false,
+  "ensemble_rationale": "No deterministic multi-seed aggregation rule was previously validated or preregistered; introducing one at final test time would add an unreviewed model variant.",
+  "classification_rule": "Use the selected checkpoint's three raw logits; argmax with class order 0 Negative, 1 Neutral, 2 Positive. No calibration, threshold tuning, logit aggregation or test-time augmentation.",
+  "regression_rule": "Use the selected checkpoint's continuous 3*tanh regression output unchanged. No rounding, clipping, calibration or aggregation.",
+  "input_rule": {
+    "split": "official A2 unaligned test, one-time evaluation only",
+    "text": "test raw_text -> pinned FrozenUnalignedTextAdapter -> [3,50] token triplet and [50,768] float32 BERT states; attention_mask -> text P/O padding states",
+    "audio": "frozen cleaning_2026e_v2 unaligned [500,74] standardized features and frozen P/O",
+    "vision": "frozen cleaning_2026e_v2 unaligned [500,35] standardized features and frozen P/O",
+    "mask_policy": "M0 excludes only P=0 from key/pooling support; P=2 remains available; M0 does not add M1 state embeddings or infer missingness from zeros.",
+    "sample_policy": "preserve official A2 test row order and IDs, no deletion or vision_lengths truncation"
+  },
+  "test_evaluation_rule": {
+    "classification_metrics": ["accuracy", "macro_f1", "weighted_f1", "confusion_matrix", "per_class_precision_recall_f1"],
+    "regression_metrics": ["mae", "pearson"],
+    "label_mapping": "regression y<0 -> 0 Negative; y==0 -> 1 Neutral; y>0 -> 2 Positive; regression target retains original y",
+    "one_execution": true,
+    "no_test_perturbations": true,
+    "no_training_tuning_calibration_reselection": true
+  },
+  "frozen_hashes_sha256": {
+    "checkpoint_M0_seed2718": "6b1d31d2af92a5edb84ea133350db98eb5a7a5fcdbece2debd4887b978e26c56",
+    "M0_source_q2_bridge_py": "dc0367156de2bd7108d7910557692c173c35964b5c2307beb0dd8d32a2fedccf",
+    "M0_config_seed2718": "781c6f60a3d7ffca440899a41b510398b9162a09f9de6aea15e01532507bc80c",
+    "text_adapter_source": "b8a5ba1d9a30763d1101538b7df33601dfb9f433bfdbddaa8f649092ad2a5945",
+    "tokenizer_vocab": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f",
+    "tokenizer_json": "ce64fce797c24f68df90b40a3f74f579b336a493db14bd583fd520ea0d8c9a98",
+    "tokenizer_config": "a025160ef0431f1a392f6f050c1310f4c5d9fb6f275932dbccba73c4d214bf10",
+    "BERT_weights": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+    "BERT_config": "b92c83fdd39b9dcdded83e388feefd12a9bfc6e4e81cda9328c73b6865b10b3f",
+    "cleaning_v2_manifest": "a1ae46325f3df842add1f5f384e16b5b0af92e487a909ee7bc67ac7d82440a83",
+    "unaligned_train_fitted_scaler": "7c6a50015d705c9afd7b3c98e6a729c35a92a08fda619d3be632ebacaba8bb28",
+    "cleaning_contract": "8cbc834a96275a08ab7670e6c40b1fd6060ebe1551856e9e1ee4e617aebf74c1",
+    "observation_contract": "30f45ed2d440375016305ca56ef4be65d4696de4ae64f378756820b539774a41",
+    "A2_only_text_adapter_validation": "0c9c048b808255b3d28a9ea1120c6df76843da81b72ef4e30d6e5fddf9d5850c"
+  },
+  "development_robustness_source": "workspace/results/q2_bridge/M0_results.md; frozen A2-valid S1-S6 only",
+  "A3_policy": "future unlabeled inference only, no A3 access or predictions at this stage",
+  "failure_policy": "Worse test performance alone never changes the predictor. Investigate only a verified implementation mismatch; report failure rather than selecting another checkpoint."
+}

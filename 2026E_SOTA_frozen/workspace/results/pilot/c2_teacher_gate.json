@@ -1,0 +1,32 @@
+{
+  "status": "C2_TEACHER_REJECTED",
+  "required_passes": 2,
+  "observed_passes": 1,
+  "rows": [
+    {
+      "seed": 1729,
+      "B0_macro_f1": 0.5989517907364235,
+      "B0_mae": 0.6019075832305384,
+      "teacher_macro_f1": 0.5453178611899261,
+      "teacher_mae": 0.5946351583480354,
+      "passed": false
+    },
+    {
+      "seed": 2718,
+      "B0_macro_f1": 0.5938324833745083,
+      "B0_mae": 0.5996328554052864,
+      "teacher_macro_f1": 0.6157562128503881,
+      "teacher_mae": 0.5910562245446451,
+      "passed": true
+    },
+    {
+      "seed": 31415,
+      "B0_macro_f1": 0.5178191050758506,
+      "B0_mae": 0.6001319271271823,
+      "teacher_macro_f1": 0.47107558465467747,
+      "teacher_mae": 0.5995601150328754,
+      "passed": false
+    }
+  ],
+  "student_trained": false
+}

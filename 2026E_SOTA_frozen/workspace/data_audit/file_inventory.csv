@@ -1,0 +1,247 @@
+﻿attachment,available_fields,decoded_frames,duration_s,fields,filename,format,fps,frame_shape,frames,path,readable,sample_count,sha256,size_bytes,split
+other,,,,,.gitkeep,,,,,.gitkeep,,,,1,
+other,,,,,.DS_Store,,,,,E题数据/.DS_Store,,,,6148,
+1,video,163,8.7,,13.mp4,.mp4,30.0,"[720, 1280, 3]",261.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/13.mp4,True,1,,1052449,q1_raw
+1,video,278,14.133333333333333,,2.mp4,.mp4,30.0,"[720, 1280, 3]",424.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/2.mp4,True,1,,1752558,q1_raw
+1,video,431,19.266666666666666,,3.mp4,.mp4,30.0,"[720, 1280, 3]",578.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/3.mp4,True,1,,2322206,q1_raw
+1,video,263,16.2,,9.mp4,.mp4,30.0,"[720, 1280, 3]",486.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3g5yACwYnA/9.mp4,True,1,,1938491,q1_raw
+1,video,236,10.933333333333334,,5.mp4,.mp4,30.0,"[240, 320, 3]",328.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-3nNcZdcdvU/5.mp4,True,1,,336985,q1_raw
+1,video,152,5.066666666666666,,0.mp4,.mp4,30.0,"[360, 486, 3]",152.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/0.mp4,True,1,,259577,q1_raw
+1,video,455,18.4,,5.mp4,.mp4,30.0,"[360, 486, 3]",552.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-571d8cVauQ/5.mp4,True,1,,813771,q1_raw
+1,video,384,16.566666666666666,,8.mp4,.mp4,30.0,"[270, 480, 3]",497.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-6rXp3zJ3kc/8.mp4,True,1,,567350,q1_raw
+1,video,205,6.833333333333333,,0.mp4,.mp4,30.0,"[720, 1280, 3]",205.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/0.mp4,True,1,,965453,q1_raw
+1,video,81,9.233333333333333,,4.mp4,.mp4,30.0,"[720, 1280, 3]",277.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/4.mp4,True,1,,1486121,q1_raw
+1,video,149,10.766666666666667,,8.mp4,.mp4,30.0,"[720, 1280, 3]",323.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-9y-fZ3swSY/8.mp4,True,1,,1715052,q1_raw
+1,video,664,22.6,,3.mp4,.mp4,30.0,"[270, 480, 3]",678.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-a55Q6RWvTA/3.mp4,True,1,,749365,q1_raw
+1,video,257,11.233333333333333,,7.mp4,.mp4,30.0,"[360, 480, 3]",337.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aNfi7CP8vM/7.mp4,True,1,,430559,q1_raw
+1,video,329,10.966666666666667,,0.mp4,.mp4,30.0,"[720, 1280, 3]",329.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-aqamKhZ1Ec/0.mp4,True,1,,2882018,q1_raw
+1,video,674,27.266666666666666,,2.mp4,.mp4,30.0,"[720, 1280, 3]",818.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-AUZQgSxyPQ/2.mp4,True,1,,4550251,q1_raw
+1,video,615,20.5,,0.mp4,.mp4,30.0,"[240, 320, 3]",615.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/0.mp4,True,1,,771408,q1_raw
+1,video,482,19.633333333333333,,1.mp4,.mp4,30.0,"[240, 320, 3]",589.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/1.mp4,True,1,,658423,q1_raw
+1,video,500,19.533333333333335,,2.mp4,.mp4,30.0,"[240, 320, 3]",586.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/2.mp4,True,1,,675725,q1_raw
+1,video,381,12.933333333333334,,6.mp4,.mp4,30.0,"[240, 320, 3]",388.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-dxfTGcXJoc/6.mp4,True,1,,428971,q1_raw
+1,video,306,11.5,,1.mp4,.mp4,30.0,"[360, 640, 3]",345.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/1.mp4,True,1,,658247,q1_raw
+1,video,123,6.9,,13.mp4,.mp4,30.0,"[360, 640, 3]",207.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/13.mp4,True,1,,394399,q1_raw
+1,video,166,7.1,,16.mp4,.mp4,30.0,"[360, 640, 3]",213.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/16.mp4,True,1,,391465,q1_raw
+1,video,215,13.9,,17.mp4,.mp4,30.0,"[360, 640, 3]",417.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/17.mp4,True,1,,774900,q1_raw
+1,video,250,13.333333333333334,,18.mp4,.mp4,30.0,"[360, 640, 3]",400.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/18.mp4,True,1,,737865,q1_raw
+1,video,196,14.666666666666666,,20.mp4,.mp4,30.0,"[360, 640, 3]",440.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/20.mp4,True,1,,823539,q1_raw
+1,video,179,11.466666666666667,,26.mp4,.mp4,30.0,"[360, 640, 3]",344.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/26.mp4,True,1,,688886,q1_raw
+1,video,187,8.033333333333333,,6.mp4,.mp4,30.0,"[360, 640, 3]",241.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/6.mp4,True,1,,446118,q1_raw
+1,video,150,10.066666666666666,,9.mp4,.mp4,30.0,"[360, 640, 3]",302.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-egA8-b7-3M/9.mp4,True,1,,581652,q1_raw
+1,video,246,15.8,,2.mp4,.mp4,30.0,"[360, 360, 3]",474.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HeZS2-Prhc/2.mp4,True,1,,896960,q1_raw
+1,video,153,11.428077777777778,,6.mp4,.mp4,23.976035631539084,"[720, 1280, 3]",274.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/6.mp4,True,1,,1661111,q1_raw
+1,video,176,9.175833333333333,,7.mp4,.mp4,23.976023976023978,"[720, 1280, 3]",220.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-hnBHBN8p5A/7.mp4,True,1,,1409433,q1_raw
+1,video,119,8.133333333333333,,2.mp4,.mp4,30.0,"[720, 1280, 3]",244.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/2.mp4,True,1,,958873,q1_raw
+1,video,168,11.433333333333334,,5.mp4,.mp4,30.0,"[720, 1280, 3]",343.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/5.mp4,True,1,,1617346,q1_raw
+1,video,99,6.733333333333333,,6.mp4,.mp4,30.0,"[720, 1280, 3]",202.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/6.mp4,True,1,,978678,q1_raw
+1,video,232,11.433333333333334,,9.mp4,.mp4,30.0,"[720, 1280, 3]",343.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-HwX2H8Z4hY/9.mp4,True,1,,981914,q1_raw
+1,video,225,10.666666666666666,,1.mp4,.mp4,30.0,"[360, 640, 3]",320.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/1.mp4,True,1,,487464,q1_raw
+1,video,271,9.2,,3.mp4,.mp4,30.0,"[360, 640, 3]",276.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-I_e4mIh0yE/3.mp4,True,1,,425914,q1_raw
+1,video,167,5.8058000000000005,,3.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",174.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/3.mp4,True,1,,988521,q1_raw
+1,video,85,7.440766666666667,,6.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",223.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/6.mp4,True,1,,1286164,q1_raw
+1,video,120,5.739066666666667,,7.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",172.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/7.mp4,True,1,,980176,q1_raw
+1,video,241,8.608600000000001,,8.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",258.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/8.mp4,True,1,,1166371,q1_raw
+1,video,102,7.140466666666667,,9.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",214.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-iRBcNs9oI8/9.mp4,True,1,,1084122,q1_raw
+1,video,229,7.766666666666667,,5.mp4,.mp4,30.0,"[360, 470, 3]",233.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/5.mp4,True,1,,333185,q1_raw
+1,video,443,22.7,,6.mp4,.mp4,30.0,"[360, 470, 3]",681.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-lzEya4AM_4/6.mp4,True,1,,1088736,q1_raw
+1,video,279,9.3,,0.mp4,.mp4,30.0,"[360, 470, 3]",279.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/0.mp4,True,1,,350827,q1_raw
+1,video,159,7.366666666666666,,13.mp4,.mp4,30.0,"[360, 470, 3]",221.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/13.mp4,True,1,,271826,q1_raw
+1,video,314,17.333333333333332,,7.mp4,.mp4,30.0,"[360, 470, 3]",520.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-MeTTeMJBNc/7.mp4,True,1,,632477,q1_raw
+1,video,182,6.5732333333333335,,1.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",197.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/1.mp4,True,1,,1040138,q1_raw
+1,video,171,6.773433333333333,,2.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",203.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/2.mp4,True,1,,1471617,q1_raw
+1,video,67,2.6359666666666666,,6.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",79.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/6.mp4,True,1,,562692,q1_raw
+1,video,125,8.641966666666667,,8.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",259.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/8.mp4,True,1,,1578317,q1_raw
+1,video,208,9.943266666666666,,9.mp4,.mp4,29.97002997002997,"[720, 1280, 3]",298.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mJ2ud6oKI8/9.mp4,True,1,,1788453,q1_raw
+1,video,194,6.466666666666667,,0.mp4,.mp4,30.0,"[720, 1280, 3]",194.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-mqbVkbCndg/0.mp4,True,1,,517424,q1_raw
+1,video,142,9.08,,1.mp4,.mp4,25.0,"[720, 1280, 3]",227.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/1.mp4,True,1,,1024510,q1_raw
+1,video,169,9.68,,2.mp4,.mp4,25.0,"[720, 1280, 3]",242.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-NFrJFQijFE/2.mp4,True,1,,1452918,q1_raw
+1,video,140,9.666666666666666,,6.mp4,.mp4,30.0,"[360, 360, 3]",290.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-qDkUB0GgYY/6.mp4,True,1,,404331,q1_raw
+1,video,154,11.6,,11.mp4,.mp4,30.0,"[720, 1280, 3]",348.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/11.mp4,True,1,,2061678,q1_raw
+1,video,164,6.2,,2.mp4,.mp4,30.0,"[720, 1280, 3]",186.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/2.mp4,True,1,,1138330,q1_raw
+1,video,137,11.633333333333333,,8.mp4,.mp4,30.0,"[720, 1280, 3]",349.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-RfYyzHpjk4/8.mp4,True,1,,2256195,q1_raw
+1,video,67,3.2949555555555556,,0.mp4,.mp4,23.97604418875992,"[720, 1280, 3]",79.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/0.mp4,True,1,,188321,q1_raw
+1,video,143,6.923577777777778,,2.mp4,.mp4,23.976043214651384,"[720, 1280, 3]",166.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/2.mp4,True,1,,460082,q1_raw
+1,video,83,5.922577777777778,,5.mp4,.mp4,23.976046466253432,"[720, 1280, 3]",142.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-ri04Z7vwnc/5.mp4,True,1,,550439,q1_raw
+1,video,204,6.8,,0.mp4,.mp4,30.0,"[720, 1280, 3]",204.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/0.mp4,True,1,,890272,q1_raw
+1,video,140,10.8,,1.mp4,.mp4,30.0,"[720, 1280, 3]",324.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/1.mp4,True,1,,1431603,q1_raw
+1,video,129,6.1,,4.mp4,.mp4,30.0,"[720, 1280, 3]",183.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/4.mp4,True,1,,639360,q1_raw
+1,video,253,13.466666666666667,,5.mp4,.mp4,30.0,"[720, 1280, 3]",404.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/5.mp4,True,1,,1432255,q1_raw
+1,video,71,6.5,,6.mp4,.mp4,30.0,"[720, 1280, 3]",195.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/6.mp4,True,1,,839808,q1_raw
+1,video,207,12.733333333333333,,7.mp4,.mp4,30.0,"[720, 1280, 3]",382.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/7.mp4,True,1,,1601944,q1_raw
+1,video,97,6.566666666666666,,8.mp4,.mp4,30.0,"[720, 1280, 3]",197.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-s9qJ7ATP7w/8.mp4,True,1,,781494,q1_raw
+1,video,170,8.0,,2.mp4,.mp4,30.0,"[270, 480, 3]",240.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/2.mp4,True,1,,282834,q1_raw
+1,video,512,18.6,,7.mp4,.mp4,30.0,"[270, 480, 3]",558.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-t217m2on-s/7.mp4,True,1,,648501,q1_raw
+1,video,200,9.033333333333333,,3.mp4,.mp4,30.0,"[720, 1280, 3]",271.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tANM6ETl_M/3.mp4,True,1,,1547930,q1_raw
+1,video,445,18.766666666666666,,12.mp4,.mp4,30.0,"[360, 640, 3]",563.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/12.mp4,True,1,,1262553,q1_raw
+1,video,128,4.633333333333334,,2.mp4,.mp4,30.0,"[360, 640, 3]",139.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/2.mp4,True,1,,347917,q1_raw
+1,video,241,11.033333333333333,,6.mp4,.mp4,30.0,"[360, 640, 3]",331.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-THoVjtIkeU/6.mp4,True,1,,801802,q1_raw
+1,video,142,11.7,,10.mp4,.mp4,30.0,"[270, 480, 3]",351.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/10.mp4,True,1,,512248,q1_raw
+1,video,164,8.0,,11.mp4,.mp4,30.0,"[270, 480, 3]",240.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/11.mp4,True,1,,361198,q1_raw
+1,video,353,18.7,,12.mp4,.mp4,30.0,"[270, 480, 3]",561.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/12.mp4,True,1,,831948,q1_raw
+1,video,216,13.233333333333333,,16.mp4,.mp4,30.0,"[270, 480, 3]",397.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/16.mp4,True,1,,550547,q1_raw
+1,video,199,14.266666666666667,,18.mp4,.mp4,30.0,"[270, 480, 3]",428.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-tPCytz4rww/18.mp4,True,1,,625292,q1_raw
+1,video,218,12.566666666666666,,10.mp4,.mp4,30.0,"[360, 470, 3]",377.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/10.mp4,True,1,,486491,q1_raw
+1,video,142,6.2,,4.mp4,.mp4,30.0,"[360, 470, 3]",186.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UacrmKiTn4/4.mp4,True,1,,249701,q1_raw
+1,video,234,7.8,,0.mp4,.mp4,30.0,"[360, 470, 3]",234.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UUCSKoHeMA/0.mp4,True,1,,286208,q1_raw
+1,video,109,3.6333333333333333,,0.mp4,.mp4,30.0,"[720, 1280, 3]",109.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/0.mp4,True,1,,654518,q1_raw
+1,video,309,13.4,,1.mp4,.mp4,30.0,"[720, 1280, 3]",402.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/1.mp4,True,1,,2032933,q1_raw
+1,video,123,10.633333333333333,,3.mp4,.mp4,30.0,"[720, 1280, 3]",319.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/3.mp4,True,1,,1424269,q1_raw
+1,video,240,15.133333333333333,,6.mp4,.mp4,30.0,"[720, 1280, 3]",454.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-UuX1xuaiiE/6.mp4,True,1,,1662602,q1_raw
+1,video,179,14.266666666666667,,4.mp4,.mp4,30.0,"[270, 480, 3]",428.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-uywlfIYOS8/4.mp4,True,1,,557194,q1_raw
+1,video,272,11.7,,4.mp4,.mp4,30.0,"[360, 480, 3]",351.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-vxjVxOeScU/4.mp4,True,1,,431202,q1_raw
+1,video,181,7.3,,7.mp4,.mp4,30.0,"[360, 480, 3]",219.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wMB_hJL-3o/7.mp4,True,1,,264692,q1_raw
+1,video,100,3.3333333333333335,,0.mp4,.mp4,30.0,"[720, 1280, 3]",100.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/0.mp4,True,1,,458092,q1_raw
+1,video,205,9.1,,1.mp4,.mp4,30.0,"[720, 1280, 3]",273.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/1.mp4,True,1,,1001717,q1_raw
+1,video,197,11.833333333333334,,2.mp4,.mp4,30.0,"[720, 1280, 3]",355.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/2.mp4,True,1,,1365442,q1_raw
+1,video,184,11.133333333333333,,3.mp4,.mp4,30.0,"[720, 1280, 3]",334.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/3.mp4,True,1,,1314050,q1_raw
+1,video,204,9.866666666666667,,5.mp4,.mp4,30.0,"[720, 1280, 3]",296.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/5.mp4,True,1,,1349104,q1_raw
+1,video,240,9.433333333333334,,7.mp4,.mp4,30.0,"[720, 1280, 3]",283.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/7.mp4,True,1,,1016813,q1_raw
+1,video,183,9.766666666666667,,9.mp4,.mp4,30.0,"[720, 1280, 3]",293.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-wny0OAz3g8/9.mp4,True,1,,1322886,q1_raw
+1,video,875,34.46666666666667,,1.mp4,.mp4,30.0,"[720, 1280, 3]",1034.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/1.mp4,True,1,,5017520,q1_raw
+1,video,394,13.6,,5.mp4,.mp4,30.0,"[720, 1280, 3]",408.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/5.mp4,True,1,,1599984,q1_raw
+1,video,336,15.4,,6.mp4,.mp4,30.0,"[720, 1280, 3]",462.0,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/-yRb-Jum7EQ/6.mp4,True,1,,1779127,q1_raw
+1,"['video_id', 'clip_id', 'text', 'label', 'annotation']",,,"['video_id', 'clip_id', 'text', 'label', 'annotation']",label-100.xlsx,.xlsx,,,,E题数据/附件1-数据集原始多模态样本/MOSEI数据集部分原始视频-100条/label-100.xlsx,,100,827334f782b1f242c84ad944a657bc7f7c63643f71ae9c977811a3eecdd3ab33,19776,q1_raw
+2,raw_text|audio|vision|id|text_bert|classification_labels|regression_labels|text,,,,aligned_50.pkl,.pkl,,,,E题数据/附件2-数据集特征文件/aligned_50.pkl,,4850,66e867aa74bc70a844e806e5571e371c9abb4a35f9e2887ce9b4d97ff2cb8fcd,993842861,train:3395|valid:728|test:727
+2,"['video_id', 'clip_id', 'text', 'label', 'annotation', 'mode']",,,"['video_id', 'clip_id', 'text', 'label', 'annotation', 'mode']",label.xlsx,.xlsx,,,,E题数据/附件2-数据集特征文件/label.xlsx,,4850,0d6351ace01a2edee8861b21b2893c82d916d2a3e8b69d3b4f832ca841349875,423826,train|valid|test
+2,raw_text|audio|vision|id|text_bert|classification_labels|regression_labels|text|audio_lengths|vision_lengths,,,,unaligned_50.pkl,.pkl,,,,E题数据/附件2-数据集特征文件/unaligned_50.pkl,,4850,77eda14a06be9749a96c52ae45470c7cffcfa7219011eae391d231a0664c3762,2897003035,train:3395|valid:728|test:727
+3,text_bert|vision|audio,,,,附件3_01.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_01.pkl,,1,b45b89a7eea55278abb130d44a6ee21128df5aa3239e68c968f9ac7743cfa0ea,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_02.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_02.pkl,,1,6a628897c4b8c5e94e37f23bce680aad500fa8545414234f3564a58577c1023b,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_03.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_03.pkl,,1,52bb6e11f4bba301e1bd90916dc9ad3a0d2d0885fec4598e3e737e2c4d100b6f,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_04.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_04.pkl,,1,ee1f4781ee7b7bc37e71a13e4bc53eedc8327d96a69c246964d0e84a8aa99f72,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_05.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_05.pkl,,1,9f8e5bae8488d8ee1576b1686864b7d8fc9970cfa720758fb040b9293b7e3619,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_06.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_06.pkl,,1,9e973621f141b1af24fc3686ac329a10b66ba2b84d18c21918e86bf0429f790d,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_07.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_07.pkl,,1,62dd394e23c80af2898e039d7eb6f47556d747887331fa2853dad72e13bb223b,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_08.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_08.pkl,,1,e668faea97f9a338051c19ee66383df799b2e461d6d079df8c5f92b32bd6437e,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_09.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_09.pkl,,1,ef57769eaa05f53a7d588948d565876356898658d9945202058ca763e53748b2,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_10.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_10.pkl,,1,7c87d84d69e0e68b9252c9839747558d07a91fd2d079a9a0850683d0d197241e,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_11.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_11.pkl,,1,10e9d5443cecf2de9170deaa56995de0cf9c52580a74cd334de8fea0e4a735f2,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_12.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_12.pkl,,1,d0342f4931a05e40fb0a3220010f1ac801a2f06d123bc4d9a7dc5355794347ba,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_13.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_13.pkl,,1,9e2144ab4385636b259d9e358c7e511be5242c89340f894473317b7757f218b7,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_14.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_14.pkl,,1,f6d45e8fa882062f70fd48ee1f7584b0a75ea0ed1c85a9eb218684e954dc1b82,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_15.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_15.pkl,,1,263b960d4d66b25a3db447fb7a16aee7b7d735e8bee3fe55c7869ad3103bf9d4,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_16.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_16.pkl,,1,df8b4c881e3fc971d532988bbd161d8d9bf8c5d16c3e7a559bb7a4045e96547f,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_17.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_17.pkl,,1,b6c64a55fb8050cb9fda15b0245df8f16b20d2a25d9368485dd1229e213fdba5,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_18.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_18.pkl,,1,dc8eb37586b93bdd4debe895041275fdabb94c3392bde667b4e0ccdc6429fab1,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_19.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_19.pkl,,1,d3a912bc3c70b60c1021babc521f28a6a34f9e916c164ad0191182e587c2385a,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_20.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_20.pkl,,1,bf24c7189bba3904e911dd452266078d8ff15768438a9069e6596ff73a4b925e,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_21.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_21.pkl,,1,c0605bd5757ff0c5dea345c96236ed7168ff976d37843572143efe11d6454600,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_22.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_22.pkl,,1,6f9dc33f9d3e5680ee3a3b2b0c53b1bac51fb98f1d75375a2cb1224cd7bd4d43,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_23.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_23.pkl,,1,5200bd05e2611777875eb1d88826bb56bb71dee4c708fec9d9f851222d243aae,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_24.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_24.pkl,,1,76b1c126e2043f90afd5af00d51299bc8f5bf1bee8148f5ff904ccbeb931a5e5,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_25.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_25.pkl,,1,88d52e2d0b0229ad6ec638e6e7463f6852f127ae9308fbee1cbc2405d8ebc4c8,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_26.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_26.pkl,,1,e483daa1391987552f9ee7f21bffec918dd61267af36885a9ae3073813193234,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_27.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_27.pkl,,1,27f16bbd4541196bb33f4caa36e038b2ff66fa72649f1b22f2328a5630de37ad,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_28.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_28.pkl,,1,81def781fa8fa5aebb555631b59ce48ee71a10c9e4226f1a5b6d91a2078f8f32,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_29.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_29.pkl,,1,8caf12e71117bd7334be12aba5af6322fb02a2397f8e2402e75391f4f9ef3686,50942,special_unlabeled
+3,text_bert|vision|audio,,,,附件3_30.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/对齐版本/附件3_30.pkl,,1,a6b272abb5d083804b6902054d4180d55d3c1d5822c483967e70e6a9657546d3,50942,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_01.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_01.pkl,,1,4a8cf3d22e80e29cbf042767fbd3b603b466e1f5e2adaaa2536e8a20df05778d,494719,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_02.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_02.pkl,,1,1c99664a44a42fffac167dfdaf21923d0acd402c210c3a8e61bea51bb3d0a9b6,494811,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_03.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_03.pkl,,1,463185831b192816b256b4feef74054632e697939fc51b39d7d1a16903b613d4,494833,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_04.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_04.pkl,,1,bcd6d1ddee46e9995806fa20132330f19c24472ae4150c561bb89ae1bcd2f235,494845,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_05.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_05.pkl,,1,509990f6bf3ad0a14092824273c2de31ad46e48950b2c028dcaabdf965e56f9e,494750,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_06.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_06.pkl,,1,90df7acd34f00150233fa56621bfc0f1adb61fe2a8deea9fa3715d9499d6e61f,494787,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_07.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_07.pkl,,1,775eac32a8fa8588e963640473f0d64d2c9753d034e0257adfa42959ffd23619,494802,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_08.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_08.pkl,,1,4d50aa2a374872732e5e53cc8d6c0ca2b16c95f142b78dc291ce4782036b0b25,494757,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_09.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_09.pkl,,1,868c890476dbb622e5bd8df2469f46ff5e6fb1c546a77d40f8acd45dab8315e8,494758,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_10.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_10.pkl,,1,585dcfdb4c3856538732dea7acc25600198308433e6ab4f26e97a2c939d081e6,494729,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_11.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_11.pkl,,1,ea43a1cb3d93841c2cfc063ffca804888fcd2341b59386ee26e4e05fceca665f,494748,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_12.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_12.pkl,,1,54db89460b17078acd4aa4683aa06982213deef1b94dfee3effe57f76980c1a9,494780,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_13.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_13.pkl,,1,f680fff053e4949dbef6e81739da54f961fa6b17642957cf8df536060c58e444,494789,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_14.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_14.pkl,,1,36c25a1251f1afce266098671a620a036c61148aa89e466c113f70ded1355f65,494811,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_15.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_15.pkl,,1,97cd1ac0320af870b6057c6ba0aaa1c4cae377f108bfed3b3b6764f38e0793d9,494837,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_16.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_16.pkl,,1,4861ab00b303cb7a89b7a50f1ba17a6e0125837c2d64ff8b7d0a366d31926c54,494851,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_17.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_17.pkl,,1,0285c121a125b95434ea319f1938286f92c66ee2ffe4bc9d46c2509b6fad1eee,494798,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_18.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_18.pkl,,1,f25009fd8965236a5c51f864a6c60a22b92a57c6e41712422e2d6f4a37af2543,494793,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_19.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_19.pkl,,1,a1ec22a528d865998b9c15817486efa5adb62a3162dbe20814aa1d3bb02b0452,494806,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_20.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_20.pkl,,1,470ba389947ff86e5e9c05072b9345858690a57cf498dd02dbc1db0f688ee8c0,494882,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_21.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_21.pkl,,1,ce761fc3f77857b265b4500ef98a5439dab3f45df265ee985b3db218b4730755,494743,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_22.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_22.pkl,,1,261cacc583d096a853cc9181768528f2e29a4b701f9f89653517e83dce08bc45,494772,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_23.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_23.pkl,,1,c1386ab902160eb55d1b8c0aa79e8690693daba7258a4f16b9b1963fffa7b1f2,494757,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_24.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_24.pkl,,1,a7f73ddd97e406440abf16336789fec83622884bf5bb1439c3da5c75a1ae9420,494727,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_25.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_25.pkl,,1,62d5b24ef181b5d46207b4c48b54452e0fd1e4f7ce6f64945c5ac93a813ba001,494731,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_26.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_26.pkl,,1,327c66c63b793e5cac0f652a77f63d6e144d0447867464108b861b441357be50,494800,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_27.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_27.pkl,,1,cba6f3e088380f2378bc35b989df054ac1aabbaca5c831037ce542f7e5f7a47b,494829,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_28.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_28.pkl,,1,a4697405668cb31a8493fb591553170d9c0338971b122f8ee5ee0268a4cab91c,494831,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_29.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_29.pkl,,1,86105acdca8927a1665c5480e9282306bcf8433fb4be069c7aa1ec5260f47574,494776,special_unlabeled
+3,raw_text|vision|audio,,,,附件3_未对齐版本_30.pkl,.pkl,,,,E题数据/附件3-模态缺失特征样本/未对齐版本/附件3_未对齐版本_30.pkl,,1,3a04ca9fffd401dc476968d4cfd6f1a2cbf86ae52887d339d25265acdf0d23d8,494807,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,01.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/01.pkl,,1,5a08410ee779863238edcf349556a2f8e10490a70e02fc95001a64f6c8d17452,199376,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,02.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/02.pkl,,1,88ed34a500bd7f11027ffc97205e23fdcde162b32bee9c447367b026b41608ac,199111,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,03.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/03.pkl,,1,237a657ffb78b451b4e504ab8021e6072de404afd83d3b08be1560e98ca62860,199400,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,04.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/04.pkl,,1,f7d7291b6ed0050ad3fd439bd3f85ce6fafb230a6399366a76e0b52f017bf4a7,199256,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,05.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/05.pkl,,1,c6948e101e25656832290edf03daaf400b9a566e912775193d5f3ecdf9388eec,199067,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,06.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/06.pkl,,1,8c432420054ac28bfcacbbee18d0e8397bc87fa0c7e8cbb11f525d6e366fdd57,199472,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,07.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/07.pkl,,1,f16e44523bd82862435489552910ef3b801dd5b7501d67b84b83ee1496b0c5a0,200148,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,08.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/08.pkl,,1,a1cccd885234d22478f30d0a3b253277e0567abaecc6ac683734b7e3dfc255c4,199075,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,09.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/09.pkl,,1,f00ad50bdc14a4c9fe58fb4e421d6c8ee052d281d917766314f2846e48af8ff7,199083,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,10.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/10.pkl,,1,693326817b8253fc907a3c1df1b05dd1f10c7bc756a86ce125bb903b01eaf571,199344,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,11.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/11.pkl,,1,6e4c4b2fe76d6bbc56d1d21447ec9dff5309adb1227de8adab116ff703f42ffb,199067,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,12.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/12.pkl,,1,5d003f471f20ac8d51553c3b217fc594075067a4c806fc07139839d681a97032,199572,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,13.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/13.pkl,,1,e2d3d3c55bc52e7178e6e7f9b28e677018f14c76966d9ec5ac486d8fbbfd8281,199352,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,14.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/14.pkl,,1,5a07719d0610e979be9cc58f4137c951259048fe6ab9918cafd9e27d62f0b5dd,199456,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,15.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/15.pkl,,1,1fd8521f61b769038a991088f11a9693e0ad9f05ad92f9924d502cc147a7cd1f,199296,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,16.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/16.pkl,,1,5528f121c021c3648f41e013e829c0a73870eafbbde73415147a074be81d722f,198987,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,17.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/17.pkl,,1,7b841ea3fdea42ef7d0ba607d90ea61a86a44066eb4ee3d1a70e8180a7b47796,199352,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,18.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/18.pkl,,1,1fc0a00c832183dceeae626937716da6c4c096f621a7706c9268b76dedfa7f06,199908,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,19.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/19.pkl,,1,ef099682c44a9e6ba5135a74d4babf12a91ba5ee2895b32d191679244dd1c221,199652,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert,,,,20.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/20.pkl,,1,c9aed197e075fa99518e71cbb2ed17406178d9237d40c785409eacf1fa7f1a68,199516,special_unlabeled
+4,video,270,9.0,,01.mp4,.mp4,30.0,"[720, 1280, 3]",270.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/01.mp4,True,1,,824021,special_unlabeled
+4,video,101,3.6,,02.mp4,.mp4,30.0,"[360, 480, 3]",108.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/02.mp4,True,1,,142336,special_unlabeled
+4,video,289,16.0,,03.mp4,.mp4,30.0,"[720, 1280, 3]",480.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/03.mp4,True,1,,2973584,special_unlabeled
+4,video,207,9.233333333333333,,04.mp4,.mp4,30.0,"[720, 1280, 3]",277.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/04.mp4,True,1,,1200845,special_unlabeled
+4,video,183,6.1,,05.mp4,.mp4,30.0,"[720, 1280, 3]",183.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/05.mp4,True,1,,836064,special_unlabeled
+4,video,247,9.733333333333333,,06.mp4,.mp4,30.0,"[360, 480, 3]",292.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/06.mp4,True,1,,638126,special_unlabeled
+4,video,639,24.1,,07.mp4,.mp4,30.0,"[720, 1280, 3]",723.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/07.mp4,True,1,,3559307,special_unlabeled
+4,video,149,7.966666666666667,,08.mp4,.mp4,30.0,"[720, 1280, 3]",239.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/08.mp4,True,1,,1026677,special_unlabeled
+4,video,151,11.3,,09.mp4,.mp4,30.0,"[360, 480, 3]",339.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/09.mp4,True,1,,741504,special_unlabeled
+4,video,295,10.833333333333334,,10.mp4,.mp4,30.0,"[360, 480, 3]",325.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/10.mp4,True,1,,783573,special_unlabeled
+4,video,174,11.4,,11.mp4,.mp4,30.0,"[360, 480, 3]",342.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/11.mp4,True,1,,672655,special_unlabeled
+4,video,388,20.3,,12.mp4,.mp4,30.0,"[720, 1280, 3]",609.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/12.mp4,True,1,,2233107,special_unlabeled
+4,video,260,8.666666666666666,,13.mp4,.mp4,30.0,"[360, 640, 3]",260.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/13.mp4,True,1,,262575,special_unlabeled
+4,video,308,13.833333333333334,,14.mp4,.mp4,30.0,"[720, 1280, 3]",415.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/14.mp4,True,1,,2257001,special_unlabeled
+4,video,220,7.333333333333333,,15.mp4,.mp4,30.0,"[720, 1280, 3]",220.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/15.mp4,True,1,,705745,special_unlabeled
+4,video,93,5.566666666666666,,16.mp4,.mp4,30.0,"[360, 480, 3]",167.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/16.mp4,True,1,,226884,special_unlabeled
+4,video,289,13.966666666666667,,17.mp4,.mp4,30.0,"[720, 1280, 3]",419.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/17.mp4,True,1,,1951911,special_unlabeled
+4,video,561,22.866666666666667,,18.mp4,.mp4,30.0,"[720, 1280, 3]",686.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/18.mp4,True,1,,2262931,special_unlabeled
+4,video,409,18.7,,19.mp4,.mp4,30.0,"[720, 1280, 3]",561.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/19.mp4,True,1,,1091162,special_unlabeled
+4,video,326,18.7,,20.mp4,.mp4,30.0,"[360, 360, 3]",561.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/对齐版本/videos/20.mp4,True,1,,971427,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,01.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/01.pkl,,1,70e55e2709905d7ea9becf70d8dd91d83688e5902b6c5e601aa6d16e703e4659,591833,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,02.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/02.pkl,,1,17e1a7c74f20dd25ca240b289add7a3b632ff2d6fb73d71eb1e1c6006b1f3cb9,591568,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,03.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/03.pkl,,1,0d959289f51abebc34cb911895d7da4c70bb032d2fe281906b8f27ef6411cd8b,591857,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,04.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/04.pkl,,1,f05343ac26cc037a6023a8e00ca1ffa7d5578db9bac6f2dad2e97bebf2ee188c,591713,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,05.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/05.pkl,,1,cf0cd1b562e4516a25a04c23953f9baecaa0f42ce4044aa4eb9b1aba221e70a9,591524,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,06.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/06.pkl,,1,3a5e9de011531ec38d60430053a221bfde7e05b253cbbf414b6ec08c42b9eee4,591929,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,07.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/07.pkl,,1,b6f9a61599a16d0dee901ec277cdb32bde3ab50a223b15823fd0368b61f32314,592607,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,08.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/08.pkl,,1,842aa20b0b30bd8cdef2d1f2e3c458abf01caaacb416b23a4dc8b7129ca660f3,591532,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,09.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/09.pkl,,1,f42d91d2c1b8e6cad707eccd029c57eb1cb9e9300544ad1ba10bf0a96627ce65,591540,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,10.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/10.pkl,,1,b12cb66e785c60faaa92d91be71bcae87dd4c0282bdd7e53241a7bb3e7413aa9,591801,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,11.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/11.pkl,,1,64b0b19f12977bb24684cbb874d88e3dde71ad7f93821f8a382d05d3047c3005,591524,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,12.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/12.pkl,,1,fd7cb86a2952ef384b0f1ce0dc58391332379e1d065d48100735b40ce991a624,592030,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,13.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/13.pkl,,1,4d8b77cdc24eecaa5104f19eaff60bad12fbf1886f40f1d95491decc9b31f7e0,591809,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,14.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/14.pkl,,1,17b0576012b71cdbebddfd38375e19f21fbe8e1eefa4813ac945196c734c9f55,591913,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,15.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/15.pkl,,1,e12cb1d0b69558c7f81eecb2063769b872e58718051c7ea6b2761c066763f594,591753,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,16.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/16.pkl,,1,359fae06a5df658729772eda07de43a12627a53574df95164942eb5f7a594153,591444,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,17.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/17.pkl,,1,5d52d13cec0e716c6dab949e3296607d6f32bf320cb4029fde1d2b532101a41c,591809,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,18.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/18.pkl,,1,7991357145a879fa8d85a028f043a6835243b24a6454bf5ec89c485cbc6335cf,592367,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,19.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/19.pkl,,1,14041c0d6b2d351cd900603044f617d549e25821fa04b3f57d62c4a4e52fad4e,592110,special_unlabeled
+4,raw_text|audio|vision|id|text|text_bert|audio_lengths|vision_lengths,,,,20.pkl,.pkl,,,,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/20.pkl,,1,2ed97e598f321dc82392e6b3d85963c629cea4ea8bc166705b697a7694ff7f44,591973,special_unlabeled
+4,video,270,9.0,,01.mp4,.mp4,30.0,"[720, 1280, 3]",270.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/01.mp4,True,1,,824021,special_unlabeled
+4,video,101,3.6,,02.mp4,.mp4,30.0,"[360, 480, 3]",108.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/02.mp4,True,1,,142336,special_unlabeled
+4,video,289,16.0,,03.mp4,.mp4,30.0,"[720, 1280, 3]",480.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/03.mp4,True,1,,2973584,special_unlabeled
+4,video,207,9.233333333333333,,04.mp4,.mp4,30.0,"[720, 1280, 3]",277.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/04.mp4,True,1,,1200845,special_unlabeled
+4,video,183,6.1,,05.mp4,.mp4,30.0,"[720, 1280, 3]",183.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/05.mp4,True,1,,836064,special_unlabeled
+4,video,247,9.733333333333333,,06.mp4,.mp4,30.0,"[360, 480, 3]",292.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/06.mp4,True,1,,638126,special_unlabeled
+4,video,639,24.1,,07.mp4,.mp4,30.0,"[720, 1280, 3]",723.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/07.mp4,True,1,,3559307,special_unlabeled
+4,video,149,7.966666666666667,,08.mp4,.mp4,30.0,"[720, 1280, 3]",239.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/08.mp4,True,1,,1026677,special_unlabeled
+4,video,151,11.3,,09.mp4,.mp4,30.0,"[360, 480, 3]",339.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/09.mp4,True,1,,741504,special_unlabeled
+4,video,295,10.833333333333334,,10.mp4,.mp4,30.0,"[360, 480, 3]",325.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/10.mp4,True,1,,783573,special_unlabeled
+4,video,174,11.4,,11.mp4,.mp4,30.0,"[360, 480, 3]",342.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/11.mp4,True,1,,672655,special_unlabeled
+4,video,388,20.3,,12.mp4,.mp4,30.0,"[720, 1280, 3]",609.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/12.mp4,True,1,,2233107,special_unlabeled
+4,video,260,8.666666666666666,,13.mp4,.mp4,30.0,"[360, 640, 3]",260.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/13.mp4,True,1,,262575,special_unlabeled
+4,video,308,13.833333333333334,,14.mp4,.mp4,30.0,"[720, 1280, 3]",415.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/14.mp4,True,1,,2257001,special_unlabeled
+4,video,220,7.333333333333333,,15.mp4,.mp4,30.0,"[720, 1280, 3]",220.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/15.mp4,True,1,,705745,special_unlabeled
+4,video,93,5.566666666666666,,16.mp4,.mp4,30.0,"[360, 480, 3]",167.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/16.mp4,True,1,,226884,special_unlabeled
+4,video,289,13.966666666666667,,17.mp4,.mp4,30.0,"[720, 1280, 3]",419.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/17.mp4,True,1,,1951911,special_unlabeled
+4,video,561,22.866666666666667,,18.mp4,.mp4,30.0,"[720, 1280, 3]",686.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/18.mp4,True,1,,2262931,special_unlabeled
+4,video,409,18.7,,19.mp4,.mp4,30.0,"[720, 1280, 3]",561.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/19.mp4,True,1,,1091162,special_unlabeled
+4,video,326,18.7,,20.mp4,.mp4,30.0,"[360, 360, 3]",561.0,E题数据/附件4-可解释专项视频样本与特征文件/附件4-可解释专项视频样本与特征文件/未对齐版本/videos/20.mp4,True,1,,971427,special_unlabeled

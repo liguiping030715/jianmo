@@ -1,0 +1,117 @@
+{
+  "status": "PASSED",
+  "checks": {
+    "hashes": {
+      "contract": "8cbc834a96275a08ab7670e6c40b1fd6060ebe1551856e9e1ee4e617aebf74c1",
+      "scaler": "6651293905a63bf70f05d2257ca43cb7e5ff44745fb5242485f8ce393470b724",
+      "bert_weights": "097417381d6c7230bd9e3557456d726de6e83245ec8b24f529f60198a67b203a",
+      "bert_vocab": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f"
+    },
+    "train": {
+      "n": 3395,
+      "shapes": {
+        "text_bert": [
+          3395,
+          3,
+          50
+        ],
+        "audio": [
+          3395,
+          50,
+          74
+        ],
+        "vision": [
+          3395,
+          50,
+          35
+        ]
+      }
+    },
+    "valid": {
+      "n": 728,
+      "shapes": {
+        "text_bert": [
+          728,
+          3,
+          50
+        ],
+        "audio": [
+          728,
+          50,
+          74
+        ],
+        "vision": [
+          728,
+          50,
+          35
+        ]
+      }
+    },
+    "bert_forward": {
+      "shape": [
+        1,
+        50,
+        768
+      ],
+      "finite": true
+    },
+    "masks": {
+      "path": "workspace\\experiments\\pilot_masks\\aligned_seed1729.jsonl",
+      "sha256": "26b6f79e2cf83a90bd0962ea77d43ff186b03cd7d871abb6618e3810f8cd95bb",
+      "stats": {
+        "train": {
+          "rows": 3395,
+          "injectable": 3314
+        },
+        "selection": {
+          "rows": 4368,
+          "injectable": 4290
+        },
+        "audit": {
+          "rows": 4368,
+          "injectable": 4290
+        }
+      }
+    },
+    "deterministic_seeds": [
+      1729,
+      2718,
+      31415
+    ]
+  },
+  "accessed_files": [
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\scalers.json",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\audio.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\audio_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\audio_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\samples.json",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\text_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\text_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\text_bert.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\vision.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\vision_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\train\\vision_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\audio.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\audio_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\audio_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\samples.json",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\text_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\text_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\text_bert.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\vision.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\vision_O.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\aligned\\valid\\vision_P.npy",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\data\\processed\\cleaning_2026e_v2\\manifest.json",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\references\\bert-base-uncased\\pytorch_model.bin",
+    "D:\\研究生\\jianmo\\HuaweiCup-Codex-Final-2026E-SOTA\\workspace\\references\\bert-base-uncased\\vocab.txt"
+  ],
+  "elapsed_seconds": 5.6922893000000006,
+  "environment": {
+    "python": "3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:37:50) [MSC v.1916 64 bit (AMD64)]",
+    "platform": "Windows-10-10.0.26100-SP0",
+    "torch": "2.4.1+cpu",
+    "cuda": false,
+    "ram_bytes": 16877125632,
+    "cpu_count": 24
+  }
+}

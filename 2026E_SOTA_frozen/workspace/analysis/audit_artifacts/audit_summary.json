@@ -1,0 +1,1803 @@
+{
+  "audit_scope": [
+    "workspace/data/raw/station_a",
+    "workspace/data/raw/station_b"
+  ],
+  "coordinate_comparison": {
+    "station_a": {
+      "caution": "The two opaque vertical/site metadata numbers are not assigned units or meaning.",
+      "great_circle_distance_m": 2.425342446355008,
+      "great_circle_formula_radius_m": 6371008.8,
+      "latitude_delta_deg_profiler_minus_microwave": -1.1111111113848438e-05,
+      "longitude_delta_deg_profiler_minus_microwave": -2.222222221348602e-05,
+      "microwave_latitude_deg": 32.368611111111115,
+      "microwave_longitude_deg": 118.84722222222221,
+      "microwave_opaque_location_meta_token": 6.5,
+      "opaque_metadata_numeric_difference": 9.7,
+      "profiler_latitude_deg": 32.3686,
+      "profiler_longitude_deg": 118.8472,
+      "profiler_opaque_metadata_value_4": 16.2,
+      "station": "station_a"
+    },
+    "station_b": {
+      "caution": "The two opaque vertical/site metadata numbers are not assigned units or meaning.",
+      "great_circle_distance_m": 32739.65990053063,
+      "great_circle_formula_radius_m": 6371008.8,
+      "latitude_delta_deg_profiler_minus_microwave": -0.13357777777777358,
+      "longitude_delta_deg_profiler_minus_microwave": 0.3094000000000108,
+      "microwave_latitude_deg": 32.06527777777777,
+      "microwave_longitude_deg": 118.58999999999999,
+      "microwave_opaque_location_meta_token": 9.4,
+      "opaque_metadata_numeric_difference": 31.200000000000003,
+      "profiler_latitude_deg": 31.9317,
+      "profiler_longitude_deg": 118.8994,
+      "profiler_opaque_metadata_value_4": 40.6,
+      "station": "station_b"
+    }
+  },
+  "height_alignment": {
+    "station_a": {
+      "alignment_calculation_assumption": "Microwave labeled km values were multiplied by 1000 and compared numerically with profiler height tokens; this does not resolve vertical datum.",
+      "common_profiler_numeric_height_max_across_all_times": 4420,
+      "common_profiler_numeric_height_min_across_all_times": 100,
+      "exact_common_height_count_across_all_times_under_metre_correspondence": 6,
+      "exact_common_height_tokens_across_all_times_under_metre_correspondence": [
+        100,
+        400,
+        700,
+        1300,
+        1900,
+        2500
+      ],
+      "microwave_labeled_height_max_km": 10.0,
+      "microwave_labeled_height_min_km": 0.0,
+      "profiler_height_unit_status": "The first profiler field is an opaque height token. The statement supports metre units, but the file does not declare units or AGL/MSL datum."
+    },
+    "station_b": {
+      "alignment_calculation_assumption": "Microwave labeled km values were multiplied by 1000 and compared numerically with profiler height tokens; this does not resolve vertical datum.",
+      "common_profiler_numeric_height_max_across_all_times": 6340,
+      "common_profiler_numeric_height_min_across_all_times": 100,
+      "exact_common_height_count_across_all_times_under_metre_correspondence": 6,
+      "exact_common_height_tokens_across_all_times_under_metre_correspondence": [
+        100,
+        400,
+        700,
+        1300,
+        1900,
+        2500
+      ],
+      "microwave_labeled_height_max_km": 10.0,
+      "microwave_labeled_height_min_km": 0.0,
+      "profiler_height_unit_status": "The first profiler field is an opaque height token. The statement supports metre units, but the file does not declare units or AGL/MSL datum."
+    }
+  },
+  "inventory": {
+    "classification_counts": {
+      "filesystem_metadata": 2,
+      "microwave_radiometer": 2,
+      "wind_profiler": 12
+    },
+    "file_count": 16,
+    "meteorological_file_count": 14,
+    "total_bytes": 122826
+  },
+  "microwave": {
+    "station_a": {
+      "bytes": 35493,
+      "coordinate_metadata": {
+        "latitude_deg": 32.368611111111115,
+        "longitude_deg": 118.84722222222221,
+        "opaque_location_meta_token": 6.5,
+        "raw_location_text": "118°50'50\"E\t32°22'07\"N\t6.5"
+      },
+      "cross_field_equality_evidence": {
+        "q11_height0_compared_with_SurTem": {
+          "absolute_difference": {
+            "count": 16,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 16
+          },
+          "comparison": "exact numeric equality; semantic meaning remains inferred, not declared",
+          "matching_rows": 16,
+          "supported_rows": 16
+        },
+        "q13_height0_compared_with_SurHum": {
+          "absolute_difference": {
+            "count": 16,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 16
+          },
+          "comparison": "exact numeric equality; semantic meaning remains inferred, not declared",
+          "matching_rows": 16,
+          "supported_rows": 16
+        }
+      },
+      "cycle_checks": {
+        "all_cycles_complete": true,
+        "codes_per_cycle": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "cycles_with_inconsistent_named_values_across_codes": []
+      },
+      "encoding": {
+        "data_rows": "ASCII-compatible numeric/text tokens",
+        "header_line": "gb18030",
+        "location_line": "cp1252"
+      },
+      "numeric_summaries": {
+        "named_columns": {
+          "CloudBase(km)": {
+            "count": 64,
+            "max": 6.75,
+            "mean": 6.7275,
+            "min": 6.72,
+            "negative_count": 0,
+            "unique_count": 4,
+            "zero_count": 0
+          },
+          "Lqint(mm)": {
+            "count": 64,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 64
+          },
+          "Rain": {
+            "count": 64,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 64
+          },
+          "SurHum(%)": {
+            "count": 64,
+            "max": 94.5,
+            "mean": 94.29375,
+            "min": 94.1,
+            "negative_count": 0,
+            "unique_count": 4,
+            "zero_count": 0
+          },
+          "SurPre(hPa)": {
+            "count": 64,
+            "max": 997.3,
+            "mean": 997.14375,
+            "min": 996.8,
+            "negative_count": 0,
+            "unique_count": 4,
+            "zero_count": 0
+          },
+          "SurTem(℃)": {
+            "count": 64,
+            "max": 25.8,
+            "mean": 25.575,
+            "min": 25.5,
+            "negative_count": 0,
+            "unique_count": 4,
+            "zero_count": 0
+          },
+          "Tir(℃)": {
+            "count": 64,
+            "max": -7.6,
+            "mean": -7.6,
+            "min": -7.6,
+            "negative_count": 64,
+            "unique_count": 1,
+            "zero_count": 0
+          },
+          "Vint(mm)": {
+            "count": 64,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 64
+          }
+        },
+        "opaque_profile_values_by_code": {
+          "q11": {
+            "count": 1328,
+            "max": 25.8,
+            "mean": 12.045297439759036,
+            "min": -27.954,
+            "negative_count": 304,
+            "unique_count": 1204,
+            "zero_count": 0
+          },
+          "q12": {
+            "count": 1328,
+            "max": 22.654,
+            "mean": 5.144724397590362,
+            "min": 0.004,
+            "negative_count": 0,
+            "unique_count": 925,
+            "zero_count": 0
+          },
+          "q13": {
+            "count": 1328,
+            "max": 94.5,
+            "mean": 28.578544427710845,
+            "min": 1.0,
+            "negative_count": 0,
+            "unique_count": 937,
+            "zero_count": 0
+          },
+          "q14": {
+            "count": 1328,
+            "max": 2.177,
+            "mean": 0.2681009036144578,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 238,
+            "zero_count": 692
+          }
+        }
+      },
+      "raw_line_count": 66,
+      "records": {
+        "blank_field_count": 0,
+        "data_row_count": 64,
+        "exact_full_row_duplicate_count": 0,
+        "payload_duplicate_count_excluding_record_id": 0,
+        "profile_code_counts": {
+          "11": 16,
+          "12": 16,
+          "13": 16,
+          "14": 16
+        },
+        "qc_token_counts": {
+          "9": 64
+        },
+        "record_id_max": 64,
+        "record_id_min": 1,
+        "record_ids_contiguous_in_file_order": true,
+        "record_ids_unique": true
+      },
+      "relative_path": "station_a/microwave_radiometer.txt",
+      "schema": {
+        "column_count": 95,
+        "columns": [
+          "Record",
+          "DateTime",
+          "10",
+          "SurTem(℃)",
+          "SurHum(%)",
+          "SurPre(hPa)",
+          "Tir(℃)",
+          "Rain",
+          "CloudBase(km)",
+          "Vint(mm)",
+          "Lqint(mm)",
+          "0.000(km)",
+          "0.025(km)",
+          "0.050(km)",
+          "0.075(km)",
+          "0.100(km)",
+          "0.125(km)",
+          "0.150(km)",
+          "0.175(km)",
+          "0.200(km)",
+          "0.225(km)",
+          "0.250(km)",
+          "0.275(km)",
+          "0.300(km)",
+          "0.325(km)",
+          "0.350(km)",
+          "0.375(km)",
+          "0.400(km)",
+          "0.425(km)",
+          "0.450(km)",
+          "0.475(km)",
+          "0.500(km)",
+          "0.550(km)",
+          "0.600(km)",
+          "0.650(km)",
+          "0.700(km)",
+          "0.750(km)",
+          "0.800(km)",
+          "0.850(km)",
+          "0.900(km)",
+          "0.950(km)",
+          "1.000(km)",
+          "1.050(km)",
+          "1.100(km)",
+          "1.150(km)",
+          "1.200(km)",
+          "1.250(km)",
+          "1.300(km)",
+          "1.350(km)",
+          "1.400(km)",
+          "1.450(km)",
+          "1.500(km)",
+          "1.550(km)",
+          "1.600(km)",
+          "1.650(km)",
+          "1.700(km)",
+          "1.750(km)",
+          "1.800(km)",
+          "1.850(km)",
+          "1.900(km)",
+          "1.950(km)",
+          "2.000(km)",
+          "2.250(km)",
+          "2.500(km)",
+          "2.750(km)",
+          "3.000(km)",
+          "3.250(km)",
+          "3.500(km)",
+          "3.750(km)",
+          "4.000(km)",
+          "4.250(km)",
+          "4.500(km)",
+          "4.750(km)",
+          "5.000(km)",
+          "5.250(km)",
+          "5.500(km)",
+          "5.750(km)",
+          "6.000(km)",
+          "6.250(km)",
+          "6.500(km)",
+          "6.750(km)",
+          "7.000(km)",
+          "7.250(km)",
+          "7.500(km)",
+          "7.750(km)",
+          "8.000(km)",
+          "8.250(km)",
+          "8.500(km)",
+          "8.750(km)",
+          "9.000(km)",
+          "9.250(km)",
+          "9.500(km)",
+          "9.750(km)",
+          "10.000(km)",
+          "QCflag"
+        ],
+        "height_column_count": 83,
+        "height_max_km": 10.0,
+        "height_min_km": 0.0,
+        "height_step_km_counts": {
+          "0.025": 20,
+          "0.05": 30,
+          "0.25": 32
+        },
+        "named_numeric_columns": [
+          "SurTem(℃)",
+          "SurHum(%)",
+          "SurPre(hPa)",
+          "Tir(℃)",
+          "Rain",
+          "CloudBase(km)",
+          "Vint(mm)",
+          "Lqint(mm)"
+        ],
+        "profile_code_column_header": "10",
+        "profile_code_tokens": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "row_widths": [
+          95
+        ]
+      },
+      "sha256": "6b72312f78eeac94208b220aef2861794504d4916b68baee0e58bea1f9f750b0",
+      "time": {
+        "cycle_count": 16,
+        "duplicate_timestamp_cycle_counts": {},
+        "expected_2_minute_grid_count_between_endpoints": 16,
+        "first_timestamp": "2025-08-02 00:00",
+        "last_timestamp": "2025-08-02 00:30",
+        "missing_2_minute_grid_times": [],
+        "rows_in_nondecreasing_time_order": true,
+        "time_reversal_transitions": [],
+        "unique_time_step_minutes": [
+          2
+        ],
+        "unique_timestamp_count": 16
+      },
+      "trailing_newline": false
+    },
+    "station_b": {
+      "bytes": 42097,
+      "coordinate_metadata": {
+        "latitude_deg": 32.06527777777777,
+        "longitude_deg": 118.58999999999999,
+        "opaque_location_meta_token": 9.4,
+        "raw_location_text": "118°35'24\"E,32°03'55\"N\t9.4"
+      },
+      "cross_field_equality_evidence": {
+        "q11_height0_compared_with_SurTem": {
+          "absolute_difference": {
+            "count": 18,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 18
+          },
+          "comparison": "exact numeric equality; semantic meaning remains inferred, not declared",
+          "matching_rows": 18,
+          "supported_rows": 18
+        },
+        "q13_height0_compared_with_SurHum": {
+          "absolute_difference": {
+            "count": 18,
+            "max": 0.21000000000000796,
+            "mean": 0.17166666666666686,
+            "min": 0.10199999999998965,
+            "negative_count": 0,
+            "unique_count": 14,
+            "zero_count": 0
+          },
+          "comparison": "exact numeric equality; semantic meaning remains inferred, not declared",
+          "matching_rows": 0,
+          "supported_rows": 18
+        }
+      },
+      "cycle_checks": {
+        "all_cycles_complete": true,
+        "codes_per_cycle": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "cycles_with_inconsistent_named_values_across_codes": []
+      },
+      "encoding": {
+        "data_rows": "ASCII-compatible numeric/text tokens",
+        "header_line": "utf-8",
+        "location_line": "utf-8"
+      },
+      "numeric_summaries": {
+        "named_columns": {
+          "CloudBase(km)": {
+            "count": 72,
+            "max": 0.59,
+            "mean": 0.4822222222222222,
+            "min": 0.28,
+            "negative_count": 0,
+            "unique_count": 14,
+            "zero_count": 0
+          },
+          "Lqint(mm)": {
+            "count": 72,
+            "max": 3.07,
+            "mean": 0.9077777777777778,
+            "min": 0.1,
+            "negative_count": 0,
+            "unique_count": 16,
+            "zero_count": 0
+          },
+          "Rain": {
+            "count": 72,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 72
+          },
+          "SurHum(%)": {
+            "count": 72,
+            "max": 99.2,
+            "mean": 99.16666666666667,
+            "min": 99.1,
+            "negative_count": 0,
+            "unique_count": 2,
+            "zero_count": 0
+          },
+          "SurPre(hPa)": {
+            "count": 72,
+            "max": 991.3,
+            "mean": 991.1500000000001,
+            "min": 990.9,
+            "negative_count": 0,
+            "unique_count": 5,
+            "zero_count": 0
+          },
+          "SurTem(??)": {
+            "count": 72,
+            "max": 25.4,
+            "mean": 25.305555555555557,
+            "min": 25.3,
+            "negative_count": 0,
+            "unique_count": 2,
+            "zero_count": 0
+          },
+          "Tir(??)": {
+            "count": 72,
+            "max": 24.7,
+            "mean": 24.11111111111111,
+            "min": 23.7,
+            "negative_count": 0,
+            "unique_count": 11,
+            "zero_count": 0
+          },
+          "Vint(mm)": {
+            "count": 72,
+            "max": 80.49,
+            "mean": 67.91277777777778,
+            "min": 64.94,
+            "negative_count": 0,
+            "unique_count": 17,
+            "zero_count": 0
+          }
+        },
+        "opaque_profile_values_by_code": {
+          "q11": {
+            "count": 1494,
+            "max": 25.4,
+            "mean": 11.941864123159304,
+            "min": -26.619,
+            "negative_count": 324,
+            "unique_count": 1344,
+            "zero_count": 0
+          },
+          "q12": {
+            "count": 1494,
+            "max": 25.188,
+            "mean": 12.84810174029451,
+            "min": 0.005,
+            "negative_count": 0,
+            "unique_count": 1378,
+            "zero_count": 0
+          },
+          "q13": {
+            "count": 1494,
+            "max": 99.0,
+            "mean": 74.76178179384203,
+            "min": 1.007,
+            "negative_count": 0,
+            "unique_count": 1333,
+            "zero_count": 0
+          },
+          "q14": {
+            "count": 1494,
+            "max": 1.758,
+            "mean": 0.17092503346720214,
+            "min": 0.0,
+            "negative_count": 0,
+            "unique_count": 473,
+            "zero_count": 619
+          }
+        }
+      },
+      "raw_line_count": 74,
+      "records": {
+        "blank_field_count": 0,
+        "data_row_count": 72,
+        "exact_full_row_duplicate_count": 0,
+        "payload_duplicate_count_excluding_record_id": 0,
+        "profile_code_counts": {
+          "11": 18,
+          "12": 18,
+          "13": 18,
+          "14": 18
+        },
+        "qc_token_counts": {
+          "9": 72
+        },
+        "record_id_max": 72,
+        "record_id_min": 1,
+        "record_ids_contiguous_in_file_order": true,
+        "record_ids_unique": true
+      },
+      "relative_path": "station_b/microwave_radiometer.txt",
+      "schema": {
+        "column_count": 95,
+        "columns": [
+          "Record",
+          "DateTime",
+          "10",
+          "SurTem(??)",
+          "SurHum(%)",
+          "SurPre(hPa)",
+          "Tir(??)",
+          "Rain",
+          "CloudBase(km)",
+          "Vint(mm)",
+          "Lqint(mm)",
+          "0.000(km)",
+          "0.025(km)",
+          "0.050(km)",
+          "0.075(km)",
+          "0.100(km)",
+          "0.125(km)",
+          "0.150(km)",
+          "0.175(km)",
+          "0.200(km)",
+          "0.225(km)",
+          "0.250(km)",
+          "0.275(km)",
+          "0.300(km)",
+          "0.325(km)",
+          "0.350(km)",
+          "0.375(km)",
+          "0.400(km)",
+          "0.425(km)",
+          "0.450(km)",
+          "0.475(km)",
+          "0.500(km)",
+          "0.550(km)",
+          "0.600(km)",
+          "0.650(km)",
+          "0.700(km)",
+          "0.750(km)",
+          "0.800(km)",
+          "0.850(km)",
+          "0.900(km)",
+          "0.950(km)",
+          "1.000(km)",
+          "1.050(km)",
+          "1.100(km)",
+          "1.150(km)",
+          "1.200(km)",
+          "1.250(km)",
+          "1.300(km)",
+          "1.350(km)",
+          "1.400(km)",
+          "1.450(km)",
+          "1.500(km)",
+          "1.550(km)",
+          "1.600(km)",
+          "1.650(km)",
+          "1.700(km)",
+          "1.750(km)",
+          "1.800(km)",
+          "1.850(km)",
+          "1.900(km)",
+          "1.950(km)",
+          "2.000(km)",
+          "2.250(km)",
+          "2.500(km)",
+          "2.750(km)",
+          "3.000(km)",
+          "3.250(km)",
+          "3.500(km)",
+          "3.750(km)",
+          "4.000(km)",
+          "4.250(km)",
+          "4.500(km)",
+          "4.750(km)",
+          "5.000(km)",
+          "5.250(km)",
+          "5.500(km)",
+          "5.750(km)",
+          "6.000(km)",
+          "6.250(km)",
+          "6.500(km)",
+          "6.750(km)",
+          "7.000(km)",
+          "7.250(km)",
+          "7.500(km)",
+          "7.750(km)",
+          "8.000(km)",
+          "8.250(km)",
+          "8.500(km)",
+          "8.750(km)",
+          "9.000(km)",
+          "9.250(km)",
+          "9.500(km)",
+          "9.750(km)",
+          "10.000(km)",
+          "QCflag"
+        ],
+        "height_column_count": 83,
+        "height_max_km": 10.0,
+        "height_min_km": 0.0,
+        "height_step_km_counts": {
+          "0.025": 20,
+          "0.05": 30,
+          "0.25": 32
+        },
+        "named_numeric_columns": [
+          "SurTem(??)",
+          "SurHum(%)",
+          "SurPre(hPa)",
+          "Tir(??)",
+          "Rain",
+          "CloudBase(km)",
+          "Vint(mm)",
+          "Lqint(mm)"
+        ],
+        "profile_code_column_header": "10",
+        "profile_code_tokens": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "row_widths": [
+          95
+        ]
+      },
+      "sha256": "0ebea341e6ec20ca90e3bbdeefaa0b47683d84062b217f36cb9af05c3eb221c4",
+      "time": {
+        "cycle_count": 18,
+        "duplicate_timestamp_cycle_counts": {
+          "2025-08-02 00:02": 2,
+          "2025-08-02 00:08": 2,
+          "2025-08-02 00:10": 2,
+          "2025-08-02 00:20": 2,
+          "2025-08-02 00:24": 2,
+          "2025-08-02 00:28": 2
+        },
+        "expected_2_minute_grid_count_between_endpoints": 15,
+        "first_timestamp": "2025-08-02 00:02",
+        "last_timestamp": "2025-08-02 00:30",
+        "missing_2_minute_grid_times": [
+          "2025-08-02 00:14",
+          "2025-08-02 00:22",
+          "2025-08-02 00:26"
+        ],
+        "rows_in_nondecreasing_time_order": false,
+        "time_reversal_transitions": [
+          {
+            "from_record_id": 8,
+            "from_timestamp": "2025-08-02 00:04",
+            "to_record_id": 9,
+            "to_timestamp": "2025-08-02 00:02"
+          },
+          {
+            "from_record_id": 24,
+            "from_timestamp": "2025-08-02 00:10",
+            "to_record_id": 25,
+            "to_timestamp": "2025-08-02 00:08"
+          }
+        ],
+        "unique_time_step_minutes": [
+          2,
+          4
+        ],
+        "unique_timestamp_count": 12
+      },
+      "trailing_newline": false
+    }
+  },
+  "parser_module": "workspace/analysis/scripts/question1_parsers.py",
+  "raw_data_immutable_check": {
+    "file_count_after": 16,
+    "file_count_before": 16,
+    "sha256_maps_equal_before_and_after": true
+  },
+  "script": "workspace/analysis/scripts/run_stage2_audit.py",
+  "semantic_policy": {
+    "microwave_profile_codes": "opaque q11/q12/q13/q14 tokens",
+    "missing": "slash-only profiler tokens preserved as missing; no imputation",
+    "profiler_fields": "opaque W1..W6 values",
+    "qc": "tokens counted but not interpreted"
+  },
+  "time_alignment": {
+    "station_a": {
+      "exact_common_cycle_count_counting_duplicate_microwave_cycles": 6,
+      "exact_common_timestamp_count": 6,
+      "exact_common_timestamps": [
+        "2025-08-02 00:00",
+        "2025-08-02 00:06",
+        "2025-08-02 00:12",
+        "2025-08-02 00:18",
+        "2025-08-02 00:24",
+        "2025-08-02 00:30"
+      ],
+      "microwave_unique_timestamp_count": 16,
+      "note": "No matching tolerance or deduplication rule is selected; nearest times are descriptive only.",
+      "profiler_timestamps_without_exact_microwave_match": [],
+      "profiler_unique_timestamp_count": 6
+    },
+    "station_b": {
+      "exact_common_cycle_count_counting_duplicate_microwave_cycles": 6,
+      "exact_common_timestamp_count": 5,
+      "exact_common_timestamps": [
+        "2025-08-02 00:06",
+        "2025-08-02 00:12",
+        "2025-08-02 00:18",
+        "2025-08-02 00:24",
+        "2025-08-02 00:30"
+      ],
+      "microwave_unique_timestamp_count": 12,
+      "note": "No matching tolerance or deduplication rule is selected; nearest times are descriptive only.",
+      "profiler_timestamps_without_exact_microwave_match": [
+        "2025-08-02 00:00"
+      ],
+      "profiler_unique_timestamp_count": 6
+    }
+  },
+  "wind_profiler": {
+    "by_station": {
+      "station_a": {
+        "all_height_grids_identical": true,
+        "common_fully_numeric_height_max": 4420,
+        "common_fully_numeric_height_min": 100,
+        "common_fully_numeric_height_tokens_across_all_times": [
+          100,
+          160,
+          220,
+          280,
+          340,
+          400,
+          460,
+          520,
+          580,
+          640,
+          700,
+          760,
+          820,
+          940,
+          1060,
+          1180,
+          1300,
+          1420,
+          1540,
+          1660,
+          1780,
+          1900,
+          2020,
+          2260,
+          2500,
+          2740,
+          2980,
+          3220,
+          3460,
+          3700,
+          3940,
+          4180,
+          4420
+        ],
+        "coordinate_pairs": [
+          {
+            "latitude_deg": 32.3686,
+            "longitude_deg": 118.8472
+          }
+        ],
+        "exact_duplicate_file_hashes": [],
+        "file_count": 6,
+        "fully_missing_row_fraction": 0.4435483870967742,
+        "fully_numeric_row_fraction": 0.5564516129032258,
+        "height_grid": [
+          100,
+          160,
+          220,
+          280,
+          340,
+          400,
+          460,
+          520,
+          580,
+          640,
+          700,
+          760,
+          820,
+          940,
+          1060,
+          1180,
+          1300,
+          1420,
+          1540,
+          1660,
+          1780,
+          1900,
+          2020,
+          2260,
+          2500,
+          2740,
+          2980,
+          3220,
+          3460,
+          3700,
+          3940,
+          4180,
+          4420,
+          4660,
+          4900,
+          5140,
+          5380,
+          5620,
+          5860,
+          6100,
+          6340,
+          6580,
+          6820,
+          7060,
+          7300,
+          7540,
+          7780,
+          8020,
+          8260,
+          8500,
+          8740,
+          8980,
+          9220,
+          9460,
+          9700,
+          9940,
+          10180,
+          10420,
+          10660,
+          10900,
+          11140,
+          11380
+        ],
+        "modes": [
+          "LC"
+        ],
+        "opaque_field_numeric_summaries": {
+          "W1": {
+            "count": 207,
+            "max": 323.2,
+            "mean": 238.8082125603865,
+            "min": 39.9,
+            "negative_count": 0,
+            "unique_count": 186,
+            "zero_count": 0
+          },
+          "W2": {
+            "count": 207,
+            "max": 5.5,
+            "mean": 2.373913043478261,
+            "min": 0.2,
+            "negative_count": 0,
+            "unique_count": 50,
+            "zero_count": 0
+          },
+          "W3": {
+            "count": 207,
+            "max": 0.3,
+            "mean": 0.00966183574879227,
+            "min": -0.3,
+            "negative_count": 55,
+            "unique_count": 7,
+            "zero_count": 80
+          },
+          "W4": {
+            "count": 207,
+            "max": 100.0,
+            "mean": 100.0,
+            "min": 100.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 0
+          },
+          "W5": {
+            "count": 207,
+            "max": 100.0,
+            "mean": 100.0,
+            "min": 100.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 0
+          },
+          "W6": {
+            "count": 207,
+            "max": 4.2e-16,
+            "mean": 1.0897584541062803e-16,
+            "min": 1.6e-17,
+            "negative_count": 0,
+            "unique_count": 74,
+            "zero_count": 0
+          }
+        },
+        "opaque_metadata_value_4_values": [
+          16.2
+        ],
+        "station_ids": [
+          "58235"
+        ],
+        "timestamps": [
+          "2025-08-02 00:00",
+          "2025-08-02 00:06",
+          "2025-08-02 00:12",
+          "2025-08-02 00:18",
+          "2025-08-02 00:24",
+          "2025-08-02 00:30"
+        ],
+        "timestamps_strictly_increasing": true,
+        "total_fully_missing_rows": 165,
+        "total_fully_numeric_rows": 207,
+        "total_partially_missing_rows": 0,
+        "unique_time_step_minutes": [
+          6
+        ]
+      },
+      "station_b": {
+        "all_height_grids_identical": true,
+        "common_fully_numeric_height_max": 6340,
+        "common_fully_numeric_height_min": 100,
+        "common_fully_numeric_height_tokens_across_all_times": [
+          100,
+          160,
+          220,
+          280,
+          340,
+          400,
+          460,
+          520,
+          580,
+          640,
+          700,
+          760,
+          820,
+          940,
+          1060,
+          1180,
+          1300,
+          1420,
+          1540,
+          1660,
+          1780,
+          1900,
+          2020,
+          2260,
+          2500,
+          2740,
+          2980,
+          3220,
+          3460,
+          3700,
+          3940,
+          4180,
+          4420,
+          4660,
+          4900,
+          5140,
+          5380,
+          5620,
+          5860,
+          6100,
+          6340
+        ],
+        "coordinate_pairs": [
+          {
+            "latitude_deg": 31.9317,
+            "longitude_deg": 118.8994
+          }
+        ],
+        "exact_duplicate_file_hashes": [],
+        "file_count": 6,
+        "fully_missing_row_fraction": 0.3387096774193548,
+        "fully_numeric_row_fraction": 0.6612903225806451,
+        "height_grid": [
+          100,
+          160,
+          220,
+          280,
+          340,
+          400,
+          460,
+          520,
+          580,
+          640,
+          700,
+          760,
+          820,
+          940,
+          1060,
+          1180,
+          1300,
+          1420,
+          1540,
+          1660,
+          1780,
+          1900,
+          2020,
+          2260,
+          2500,
+          2740,
+          2980,
+          3220,
+          3460,
+          3700,
+          3940,
+          4180,
+          4420,
+          4660,
+          4900,
+          5140,
+          5380,
+          5620,
+          5860,
+          6100,
+          6340,
+          6580,
+          6820,
+          7060,
+          7300,
+          7540,
+          7780,
+          8020,
+          8260,
+          8500,
+          8740,
+          8980,
+          9220,
+          9460,
+          9700,
+          9940,
+          10180,
+          10420,
+          10660,
+          10900,
+          11140,
+          11380
+        ],
+        "modes": [
+          "LC"
+        ],
+        "opaque_field_numeric_summaries": {
+          "W1": {
+            "count": 246,
+            "max": 295.6,
+            "mean": 246.6117886178862,
+            "min": 155.4,
+            "negative_count": 0,
+            "unique_count": 198,
+            "zero_count": 0
+          },
+          "W2": {
+            "count": 246,
+            "max": 8.1,
+            "mean": 6.412601626016261,
+            "min": 4.6,
+            "negative_count": 0,
+            "unique_count": 35,
+            "zero_count": 0
+          },
+          "W3": {
+            "count": 246,
+            "max": 1.0,
+            "mean": 0.23373983739837398,
+            "min": -0.2,
+            "negative_count": 34,
+            "unique_count": 13,
+            "zero_count": 53
+          },
+          "W4": {
+            "count": 246,
+            "max": 100.0,
+            "mean": 100.0,
+            "min": 100.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 0
+          },
+          "W5": {
+            "count": 246,
+            "max": 100.0,
+            "mean": 100.0,
+            "min": 100.0,
+            "negative_count": 0,
+            "unique_count": 1,
+            "zero_count": 0
+          },
+          "W6": {
+            "count": 246,
+            "max": 9.6e-15,
+            "mean": 8.545162601626016e-16,
+            "min": 2.2e-17,
+            "negative_count": 0,
+            "unique_count": 126,
+            "zero_count": 0
+          }
+        },
+        "opaque_metadata_value_4_values": [
+          40.6
+        ],
+        "station_ids": [
+          "58238"
+        ],
+        "timestamps": [
+          "2025-08-02 00:00",
+          "2025-08-02 00:06",
+          "2025-08-02 00:12",
+          "2025-08-02 00:18",
+          "2025-08-02 00:24",
+          "2025-08-02 00:30"
+        ],
+        "timestamps_strictly_increasing": true,
+        "total_fully_missing_rows": 126,
+        "total_fully_numeric_rows": 246,
+        "total_partially_missing_rows": 0,
+        "unique_time_step_minutes": [
+          6
+        ]
+      }
+    },
+    "file_summaries": [
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802000000_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:00",
+        "first_non_numeric_height": 4660,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 29,
+        "fully_numeric_row_count": 33,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 29,
+          "W2": 29,
+          "W3": 29,
+          "W4": 29,
+          "W5": 29,
+          "W6": 29
+        },
+        "mode": "LC",
+        "numeric_height_max": 4420,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802000000_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "7856be522852c20d2bb47ab19dfaad201dc1b4ce5859f6a91b55ad84d980964e",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:00",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802000600_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:06",
+        "first_non_numeric_height": 4660,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 29,
+        "fully_numeric_row_count": 33,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 29,
+          "W2": 29,
+          "W3": 29,
+          "W4": 29,
+          "W5": 29,
+          "W6": 29
+        },
+        "mode": "LC",
+        "numeric_height_max": 4420,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802000600_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "1951712b4e85223cbe377285d5ebe8b9c75b85abd493aa1771e8798bd344856e",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:06",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802001200_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:12",
+        "first_non_numeric_height": 4660,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 29,
+        "fully_numeric_row_count": 33,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 29,
+          "W2": 29,
+          "W3": 29,
+          "W4": 29,
+          "W5": 29,
+          "W6": 29
+        },
+        "mode": "LC",
+        "numeric_height_max": 4420,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802001200_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "4806ce108676c434908887712b0f7e540802575fced62d8d73135fa8c1649025",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:12",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802001800_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:18",
+        "first_non_numeric_height": 5140,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 27,
+        "fully_numeric_row_count": 35,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 27,
+          "W2": 27,
+          "W3": 27,
+          "W4": 27,
+          "W5": 27,
+          "W6": 27
+        },
+        "mode": "LC",
+        "numeric_height_max": 4900,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802001800_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "534a77f26350dd524ff31456999d91e79d462cc89cdd21611bf7bc5816b118ad",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:18",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802002400_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:24",
+        "first_non_numeric_height": 5380,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 26,
+        "fully_numeric_row_count": 36,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 26,
+          "W2": 26,
+          "W3": 26,
+          "W4": 26,
+          "W5": 26,
+          "W6": 26
+        },
+        "mode": "LC",
+        "numeric_height_max": 5140,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802002400_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "d7837c97a7e4e3bd1f3c991add4ead03a8f2c4cdbc3ae6e5100f52b856f24d83",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:24",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58235_20250802003000_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58235",
+        "filename_timestamp": "2025-08-02 00:30",
+        "first_non_numeric_height": 5620,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 25,
+        "fully_numeric_row_count": 37,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 32.3686,
+        "longitude_deg": 118.8472,
+        "missing_token_count_by_opaque_field": {
+          "W1": 25,
+          "W2": 25,
+          "W3": 25,
+          "W4": 25,
+          "W5": 25,
+          "W6": 25
+        },
+        "mode": "LC",
+        "numeric_height_max": 5380,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 16.2,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_a/wind_profiler/Z_RADA_I_58235_20250802003000_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "6b743a211fafcc1299169deb12de7f8fee4f3e377f360ceec53514357188b72a",
+        "station": "station_a",
+        "station_id": "58235",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:30",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802000000_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:00",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802000000_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "80a7b423d4f2a2887cf9cc12e232cca572a08f3506d830abf1f681d8ee7ed96a",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:00",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802000600_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:06",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802000600_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "71c3971325625d40c3c18e27ac63d3645d5a56868138c757c38add1d89182a71",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:06",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802001200_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:12",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802001200_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "3bbbd6289d525df117d70e40c1f031ca22da52a0ea18e282b42d820beab41615",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:12",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802001800_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:18",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802001800_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "aa8f9998b27e52f65f94a1e18273ceae31dcf17677288ef5a429e6c6158db67e",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:18",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802002400_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:24",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802002400_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "a56eb42e80ec2a60f8a4a9a76d59d06d17f3a75ea0e89ec26eafefb034f05190",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:24",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      },
+      {
+        "bytes": 2745,
+        "data_row_count": 62,
+        "filename": "Z_RADA_I_58238_20250802003000_P_WPRD_LC_ROBS.TXT",
+        "filename_station_id": "58238",
+        "filename_timestamp": "2025-08-02 00:30",
+        "first_non_numeric_height": 6580,
+        "format_line": "WNDROBS 01.20",
+        "fully_missing_row_count": 21,
+        "fully_numeric_row_count": 41,
+        "height_step_counts": {
+          "120": 10,
+          "240": 39,
+          "60": 12
+        },
+        "height_token_max": 11380,
+        "height_token_min": 100,
+        "height_tokens_strictly_increasing": true,
+        "height_tokens_unique": true,
+        "latitude_deg": 31.9317,
+        "longitude_deg": 118.8994,
+        "missing_token_count_by_opaque_field": {
+          "W1": 21,
+          "W2": 21,
+          "W3": 21,
+          "W4": 21,
+          "W5": 21,
+          "W6": 21
+        },
+        "mode": "LC",
+        "numeric_height_max": 6340,
+        "numeric_height_min": 100,
+        "numeric_heights_after_first_non_numeric": [],
+        "opaque_metadata_value_4": 40.6,
+        "partially_missing_row_count": 0,
+        "raw_line_count": 66,
+        "relative_path": "station_b/wind_profiler/Z_RADA_I_58238_20250802003000_P_WPRD_LC_ROBS.TXT",
+        "row_widths": [
+          7
+        ],
+        "sha256": "b5f95cfdcd4c3921019810c8aadcbe24286b39513a7b02233d3f4d980d0b87fc",
+        "station": "station_b",
+        "station_id": "58238",
+        "station_id_matches_filename": true,
+        "timestamp": "2025-08-02 00:30",
+        "timestamp_matches_filename": true,
+        "trailing_newline": true
+      }
+    ]
+  }
+}

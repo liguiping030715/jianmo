@@ -1,0 +1,10 @@
+{
+  "name": "D0",
+  "seed": 31415,
+  "lambda_reg": 2.0526115894317627,
+  "epochs": 12,
+  "patience": 3,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "data": "workspace/data/processed/cleaning_2026e_v2/aligned"
+}
